@@ -51,8 +51,9 @@ export function disableMachoBrace() {
   };
 }
 
-export function setWildPokemon() {
+export function setWildPokemon(pokemon) {
   return {
-    type: SET_WILD_POKEMON
+    type: SET_WILD_POKEMON,
+    payload: pokemon
   };
 }
