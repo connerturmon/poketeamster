@@ -9,6 +9,10 @@ export default function HomePage() {
 
   return (
     <div className="homepage">
+      <h4 style={{margin: 10}}>Total: {
+        EVs.hitPoints + EVs.attack + EVs.defense +
+        EVs.specialAttack + EVs.specialDefense + EVs.speed
+      }/510</h4>
       <ul>
         <li>HP:              {EVs.hitPoints}</li>
         <li>Attack:          {EVs.attack}</li>

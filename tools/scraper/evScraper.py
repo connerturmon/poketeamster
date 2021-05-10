@@ -3,7 +3,7 @@ from bs4 import BeautifulSoup
 import json
 
 from pokemon import Pokemon
-from pokemonEncoder import PokemonEncoder
+from pokemon import PokemonEncoder
 
 # Table Data constants for code clarity.
 POKEMON_ROW_START_INDEX = 1
