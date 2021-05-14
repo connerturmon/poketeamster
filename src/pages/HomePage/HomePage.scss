@@ -4,6 +4,26 @@
   width: 100%;
   min-height: 100vh;
   display: flex;
+  flex-direction: column;
   align-items: center;
-  justify-content: center;
+  justify-content: space-between;
+
+  &-footer {
+    margin-bottom: 2em;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: $gray4;
+  }
+
+  &-header {
+    width: 100%;
+    height: 1em;
+    background-color: $blue;
+    margin-bottom: 1em;
+  }
+
+  &-github-img {
+    margin-top: 0.5em;
+  }
 }

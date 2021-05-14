@@ -27,6 +27,7 @@
       align-items: center;
       justify-content: center;
       height: inherit;
+      color: rgb(10, 10, 15);
     }
 
     &-quantity {
@@ -36,6 +37,7 @@
       justify-content: center;
       height: inherit;
       border-bottom: 1px solid $gray3;
+      color: $gray4;
     }
   }
 }

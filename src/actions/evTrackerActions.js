@@ -12,9 +12,10 @@ import {
   SET_WILD_POKEMON 
 } from "./evTrackerTypes";
 
-export function incrementEVs() {
+export function incrementEVs(index) {
   return {
-    type: INCREMENT_EVS
+    type: INCREMENT_EVS,
+    payload: index
   };
 }
 

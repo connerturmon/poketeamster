@@ -7,7 +7,7 @@ export default function EVTrackerCounter() {
 
   return (
     <div className="ev-tracker-counter">
-      <h1 className="ev-tracker-counter-header">Pokémon EVs</h1>
+      <h1 className="ev-tracker-counter-header">PokémonTeamster</h1>
 
       <div className="ev-tracker-counter-row">
         <h3 className="ev-tracker-counter-row-stat stat-hitpoints">Hit Points</h3>

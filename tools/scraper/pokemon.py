@@ -3,7 +3,7 @@ from json import JSONEncoder
 
 class Pokemon:
     def __init__(self):
-        self.id = ''
+        self.value = ''
         self.name = ''
         self.hitPoints = 0
         self.attack = 0

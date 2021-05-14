@@ -201,7 +201,7 @@
     },
     {
         "value": "016",
-        "name": "Pvaluegey",
+        "name": "Pidgey",
         "hitPoints": 0,
         "attack": 0,
         "defense": 0,
@@ -211,7 +211,7 @@
     },
     {
         "value": "017",
-        "name": "Pvaluegeotto",
+        "name": "Pidgeotto",
         "hitPoints": 0,
         "attack": 0,
         "defense": 0,
@@ -221,7 +221,7 @@
     },
     {
         "value": "018",
-        "name": "Pvaluegeot",
+        "name": "Pidgeot",
         "hitPoints": 0,
         "attack": 0,
         "defense": 0,
@@ -231,7 +231,7 @@
     },
     {
         "value": "018M",
-        "name": "Pvaluegeot (Mega Pvaluegeot)",
+        "name": "Pidgeot (Mega Pidgeot)",
         "hitPoints": 0,
         "attack": 0,
         "defense": 0,
@@ -351,7 +351,7 @@
     },
     {
         "value": "029",
-        "name": "Nvalueoran\u2640",
+        "name": "Nidoran\u2640",
         "hitPoints": 1,
         "attack": 0,
         "defense": 0,
@@ -361,7 +361,7 @@
     },
     {
         "value": "030",
-        "name": "Nvalueorina",
+        "name": "Nidorina",
         "hitPoints": 2,
         "attack": 0,
         "defense": 0,
@@ -371,7 +371,7 @@
     },
     {
         "value": "031",
-        "name": "Nvalueoqueen",
+        "name": "Nidoqueen",
         "hitPoints": 3,
         "attack": 0,
         "defense": 0,
@@ -381,7 +381,7 @@
     },
     {
         "value": "032",
-        "name": "Nvalueoran\u2642",
+        "name": "Nidoran\u2642",
         "hitPoints": 0,
         "attack": 1,
         "defense": 0,
@@ -391,7 +391,7 @@
     },
     {
         "value": "033",
-        "name": "Nvalueorino",
+        "name": "Nidorino",
         "hitPoints": 0,
         "attack": 2,
         "defense": 0,
@@ -401,7 +401,7 @@
     },
     {
         "value": "034",
-        "name": "Nvalueoking",
+        "name": "Nidoking",
         "hitPoints": 0,
         "attack": 3,
         "defense": 0,
@@ -891,7 +891,7 @@
     },
     {
         "value": "078",
-        "name": "Rapvalueash",
+        "name": "Rapidash",
         "hitPoints": 0,
         "attack": 0,
         "defense": 0,
@@ -2531,7 +2531,7 @@
     },
     {
         "value": "223",
-        "name": "Remoravalue",
+        "name": "Remoraid",
         "hitPoints": 0,
         "attack": 0,
         "defense": 0,
@@ -2701,7 +2701,7 @@
     },
     {
         "value": "239",
-        "name": "Elekvalue",
+        "name": "Elekid",
         "hitPoints": 0,
         "attack": 0,
         "defense": 0,
@@ -4400,7 +4400,7 @@
         "speed": 0
     },
     {
-        "value": "386N",
+        "value": "386",
         "name": "Deoxys (Normal Forme)",
         "hitPoints": 0,
         "attack": 1,
@@ -4561,7 +4561,7 @@
     },
     {
         "value": "399",
-        "name": "Bvalueoof",
+        "name": "Bidoof",
         "hitPoints": 1,
         "attack": 0,
         "defense": 0,
@@ -4651,7 +4651,7 @@
     },
     {
         "value": "408",
-        "name": "Cranvalueos",
+        "name": "Cranidos",
         "hitPoints": 0,
         "attack": 1,
         "defense": 0,
@@ -5610,7 +5610,7 @@
         "speed": 1
     },
     {
-        "value": "492L",
+        "value": "492",
         "name": "Shaymin (Land Forme)",
         "hitPoints": 3,
         "attack": 0,
@@ -5891,7 +5891,7 @@
     },
     {
         "value": "519",
-        "name": "Pvalueove",
+        "name": "Pidove",
         "hitPoints": 0,
         "attack": 1,
         "defense": 0,
@@ -7531,7 +7531,7 @@
     },
     {
         "value": "672",
-        "name": "Skvaluedo",
+        "name": "Skiddo",
         "hitPoints": 1,
         "attack": 0,
         "defense": 0,
@@ -8101,7 +8101,7 @@
     },
     {
         "value": "724",
-        "name": "Decvalueueye",
+        "name": "Decidueye",
         "hitPoints": 0,
         "attack": 3,
         "defense": 0,
@@ -8381,7 +8381,7 @@
     },
     {
         "value": "751",
-        "name": "Dewpvalueer",
+        "name": "Dewpider",
         "hitPoints": 0,
         "attack": 0,
         "defense": 0,
@@ -8391,7 +8391,7 @@
     },
     {
         "value": "752",
-        "name": "Araquanvalue",
+        "name": "Araquanid",
         "hitPoints": 0,
         "attack": 0,
         "defense": 0,
@@ -9181,7 +9181,7 @@
     },
     {
         "value": "821",
-        "name": "Rookvalueee",
+        "name": "Rookidee",
         "hitPoints": 0,
         "attack": 0,
         "defense": 0,
@@ -9561,7 +9561,7 @@
     },
     {
         "value": "859",
-        "name": "Impvalueimp",
+        "name": "Impidimp",
         "hitPoints": 0,
         "attack": 0,
         "defense": 0,
@@ -9961,7 +9961,7 @@
     },
     {
         "value": "895",
-        "name": "Regvaluerago",
+        "name": "Regidrago",
         "hitPoints": 3,
         "attack": 0,
         "defense": 0,
@@ -10001,7 +10001,7 @@
     },
     {
         "value": "898I",
-        "name": "Calyrex (Ice Rvalueer)",
+        "name": "Calyrex (Ice Rider)",
         "hitPoints": 0,
         "attack": 3,
         "defense": 0,
@@ -10011,7 +10011,7 @@
     },
     {
         "value": "898S",
-        "name": "Calyrex (Shadow Rvalueer)",
+        "name": "Calyrex (Shadow Rider)",
         "hitPoints": 0,
         "attack": 0,
         "defense": 0,

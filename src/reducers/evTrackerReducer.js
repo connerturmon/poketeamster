@@ -20,18 +20,19 @@ export default function evTrackerReducer(state = initialEVTrackerState, action) 
   switch (action.type) {
     case INCREMENT_EVS:
       let gain = 1;
+      const pokemonToIncrement = state.pokemonList[action.payload];
       if (state.machoBrace) gain *= 2;
       if (state.pokerus) gain *= 2;
       return {
         ...state,
         EVs: {
           ...state.EVs,
-          hitPoints: state.EVs.hitPoints += (state.wildPokemon.hitPoints * gain),
-          attack: state.EVs.attack += (state.wildPokemon.attack * gain),
-          defense: state.EVs.defense += (state.wildPokemon.defense * gain),
-          specialAttack: state.EVs.specialAttack += (state.wildPokemon.specialAttack * gain),
-          specialDefense: state.EVs.specialDefense += (state.wildPokemon.specialDefense * gain),
-          speed: state.EVs.speed += (state.wildPokemon.speed * gain),
+          hitPoints: state.EVs.hitPoints += (pokemonToIncrement.hitPoints * gain),
+          attack: state.EVs.attack += (pokemonToIncrement.attack * gain),
+          defense: state.EVs.defense += (pokemonToIncrement.defense * gain),
+          specialAttack: state.EVs.specialAttack += (pokemonToIncrement.specialAttack * gain),
+          specialDefense: state.EVs.specialDefense += (pokemonToIncrement.specialDefense * gain),
+          speed: state.EVs.speed += (pokemonToIncrement.speed * gain),
         }
       }
 

@@ -38,7 +38,7 @@ for row in rows:
     # Ensures that the rowData is actually a Pokemon row.
     if (len(rowData) > 0):
         # Assign stats to object.
-        pokemon.id = rowData[POKEMON_ID_INDEX].b.string
+        pokemon.value = rowData[POKEMON_ID_INDEX].b.string
         pokemon.hitPoints = int(rowData[HP_INDEX].string)
         pokemon.attack = int(rowData[ATTACK_INDEX].string)
         pokemon.defense = int(rowData[DEFENSE_INDEX].string)
