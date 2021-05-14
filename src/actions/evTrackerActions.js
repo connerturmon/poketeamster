@@ -5,7 +5,10 @@ import {
   ENABLE_MACHO_BRACE, 
   ENABLE_POKERUS, 
   INCREMENT_EVS, 
+  PUSH_POKEMON_LIST, 
+  REMOVE_POKEMON_LIST, 
   RESET_EVS, 
+  RESET_POKEMON_LIST, 
   SET_WILD_POKEMON 
 } from "./evTrackerTypes";
 
@@ -56,4 +59,24 @@ export function setWildPokemon(pokemon) {
     type: SET_WILD_POKEMON,
     payload: pokemon
   };
+}
+
+export function pushPokemonList(pokemon) {
+  return {
+    type: PUSH_POKEMON_LIST,
+    payload: pokemon
+  }
+}
+
+export function removePokemonList(index) {
+  return {
+    type: REMOVE_POKEMON_LIST,
+    payload: index
+  }
+}
+
+export function resetPokemonList() {
+  return {
+    type: RESET_POKEMON_LIST
+  }
 }
