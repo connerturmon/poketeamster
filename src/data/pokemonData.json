@@ -1,6 +1,6 @@
 [
     {
-        "id": "001",
+        "value": "001",
         "name": "Bulbasaur",
         "hitPoints": 0,
         "attack": 0,
@@ -10,7 +10,7 @@
         "speed": 0
     },
     {
-        "id": "002",
+        "value": "002",
         "name": "Ivysaur",
         "hitPoints": 0,
         "attack": 0,
@@ -20,7 +20,7 @@
         "speed": 0
     },
     {
-        "id": "003",
+        "value": "003",
         "name": "Venusaur",
         "hitPoints": 0,
         "attack": 0,
@@ -30,7 +30,7 @@
         "speed": 0
     },
     {
-        "id": "003M",
+        "value": "003M",
         "name": "Venusaur (Mega Venusaur)",
         "hitPoints": 0,
         "attack": 0,
@@ -40,7 +40,7 @@
         "speed": 0
     },
     {
-        "id": "004",
+        "value": "004",
         "name": "Charmander",
         "hitPoints": 0,
         "attack": 0,
@@ -50,7 +50,7 @@
         "speed": 1
     },
     {
-        "id": "005",
+        "value": "005",
         "name": "Charmeleon",
         "hitPoints": 0,
         "attack": 0,
@@ -60,7 +60,7 @@
         "speed": 1
     },
     {
-        "id": "006",
+        "value": "006",
         "name": "Charizard",
         "hitPoints": 0,
         "attack": 0,
@@ -70,7 +70,7 @@
         "speed": 0
     },
     {
-        "id": "006MX",
+        "value": "006MX",
         "name": "Charizard (Mega Charizard X)",
         "hitPoints": 0,
         "attack": 0,
@@ -80,7 +80,7 @@
         "speed": 0
     },
     {
-        "id": "006MY",
+        "value": "006MY",
         "name": "Charizard (Mega Charizard Y)",
         "hitPoints": 0,
         "attack": 0,
@@ -90,7 +90,7 @@
         "speed": 0
     },
     {
-        "id": "007",
+        "value": "007",
         "name": "Squirtle",
         "hitPoints": 0,
         "attack": 0,
@@ -100,7 +100,7 @@
         "speed": 0
     },
     {
-        "id": "008",
+        "value": "008",
         "name": "Wartortle",
         "hitPoints": 0,
         "attack": 0,
@@ -110,7 +110,7 @@
         "speed": 0
     },
     {
-        "id": "009",
+        "value": "009",
         "name": "Blastoise",
         "hitPoints": 0,
         "attack": 0,
@@ -120,7 +120,7 @@
         "speed": 0
     },
     {
-        "id": "009M",
+        "value": "009M",
         "name": "Blastoise (Mega Blastoise)",
         "hitPoints": 0,
         "attack": 0,
@@ -130,7 +130,7 @@
         "speed": 0
     },
     {
-        "id": "010",
+        "value": "010",
         "name": "Caterpie",
         "hitPoints": 1,
         "attack": 0,
@@ -140,7 +140,7 @@
         "speed": 0
     },
     {
-        "id": "011",
+        "value": "011",
         "name": "Metapod",
         "hitPoints": 0,
         "attack": 0,
@@ -150,7 +150,7 @@
         "speed": 0
     },
     {
-        "id": "012",
+        "value": "012",
         "name": "Butterfree",
         "hitPoints": 0,
         "attack": 0,
@@ -160,7 +160,7 @@
         "speed": 0
     },
     {
-        "id": "013",
+        "value": "013",
         "name": "Weedle",
         "hitPoints": 0,
         "attack": 0,
@@ -170,7 +170,7 @@
         "speed": 1
     },
     {
-        "id": "014",
+        "value": "014",
         "name": "Kakuna",
         "hitPoints": 0,
         "attack": 0,
@@ -180,7 +180,7 @@
         "speed": 0
     },
     {
-        "id": "015",
+        "value": "015",
         "name": "Beedrill",
         "hitPoints": 0,
         "attack": 2,
@@ -190,7 +190,7 @@
         "speed": 0
     },
     {
-        "id": "015M",
+        "value": "015M",
         "name": "Beedrill (Mega Beedrill)",
         "hitPoints": 0,
         "attack": 2,
@@ -200,8 +200,8 @@
         "speed": 0
     },
     {
-        "id": "016",
-        "name": "Pidgey",
+        "value": "016",
+        "name": "Pvaluegey",
         "hitPoints": 0,
         "attack": 0,
         "defense": 0,
@@ -210,8 +210,8 @@
         "speed": 1
     },
     {
-        "id": "017",
-        "name": "Pidgeotto",
+        "value": "017",
+        "name": "Pvaluegeotto",
         "hitPoints": 0,
         "attack": 0,
         "defense": 0,
@@ -220,8 +220,8 @@
         "speed": 2
     },
     {
-        "id": "018",
-        "name": "Pidgeot",
+        "value": "018",
+        "name": "Pvaluegeot",
         "hitPoints": 0,
         "attack": 0,
         "defense": 0,
@@ -230,8 +230,8 @@
         "speed": 3
     },
     {
-        "id": "018M",
-        "name": "Pidgeot (Mega Pidgeot)",
+        "value": "018M",
+        "name": "Pvaluegeot (Mega Pvaluegeot)",
         "hitPoints": 0,
         "attack": 0,
         "defense": 0,
@@ -240,7 +240,7 @@
         "speed": 3
     },
     {
-        "id": "019",
+        "value": "019",
         "name": "Rattata",
         "hitPoints": 0,
         "attack": 0,
@@ -250,7 +250,7 @@
         "speed": 1
     },
     {
-        "id": "020",
+        "value": "020",
         "name": "Raticate",
         "hitPoints": 0,
         "attack": 0,
@@ -260,7 +260,7 @@
         "speed": 2
     },
     {
-        "id": "021",
+        "value": "021",
         "name": "Spearow",
         "hitPoints": 0,
         "attack": 0,
@@ -270,7 +270,7 @@
         "speed": 1
     },
     {
-        "id": "022",
+        "value": "022",
         "name": "Fearow",
         "hitPoints": 0,
         "attack": 0,
@@ -280,7 +280,7 @@
         "speed": 2
     },
     {
-        "id": "023",
+        "value": "023",
         "name": "Ekans",
         "hitPoints": 0,
         "attack": 1,
@@ -290,7 +290,7 @@
         "speed": 0
     },
     {
-        "id": "024",
+        "value": "024",
         "name": "Arbok",
         "hitPoints": 0,
         "attack": 2,
@@ -300,7 +300,7 @@
         "speed": 0
     },
     {
-        "id": "025",
+        "value": "025",
         "name": "Pikachu",
         "hitPoints": 0,
         "attack": 0,
@@ -310,7 +310,7 @@
         "speed": 2
     },
     {
-        "id": "025Pa",
+        "value": "025Pa",
         "name": "Pikachu (Partner)",
         "hitPoints": 0,
         "attack": 0,
@@ -320,7 +320,7 @@
         "speed": 2
     },
     {
-        "id": "026",
+        "value": "026",
         "name": "Raichu",
         "hitPoints": 0,
         "attack": 0,
@@ -330,7 +330,7 @@
         "speed": 3
     },
     {
-        "id": "027",
+        "value": "027",
         "name": "Sandshrew",
         "hitPoints": 0,
         "attack": 0,
@@ -340,7 +340,7 @@
         "speed": 0
     },
     {
-        "id": "028",
+        "value": "028",
         "name": "Sandslash",
         "hitPoints": 0,
         "attack": 0,
@@ -350,8 +350,8 @@
         "speed": 0
     },
     {
-        "id": "029",
-        "name": "Nidoran\u2640",
+        "value": "029",
+        "name": "Nvalueoran\u2640",
         "hitPoints": 1,
         "attack": 0,
         "defense": 0,
@@ -360,8 +360,8 @@
         "speed": 0
     },
     {
-        "id": "030",
-        "name": "Nidorina",
+        "value": "030",
+        "name": "Nvalueorina",
         "hitPoints": 2,
         "attack": 0,
         "defense": 0,
@@ -370,8 +370,8 @@
         "speed": 0
     },
     {
-        "id": "031",
-        "name": "Nidoqueen",
+        "value": "031",
+        "name": "Nvalueoqueen",
         "hitPoints": 3,
         "attack": 0,
         "defense": 0,
@@ -380,8 +380,8 @@
         "speed": 0
     },
     {
-        "id": "032",
-        "name": "Nidoran\u2642",
+        "value": "032",
+        "name": "Nvalueoran\u2642",
         "hitPoints": 0,
         "attack": 1,
         "defense": 0,
@@ -390,8 +390,8 @@
         "speed": 0
     },
     {
-        "id": "033",
-        "name": "Nidorino",
+        "value": "033",
+        "name": "Nvalueorino",
         "hitPoints": 0,
         "attack": 2,
         "defense": 0,
@@ -400,8 +400,8 @@
         "speed": 0
     },
     {
-        "id": "034",
-        "name": "Nidoking",
+        "value": "034",
+        "name": "Nvalueoking",
         "hitPoints": 0,
         "attack": 3,
         "defense": 0,
@@ -410,7 +410,7 @@
         "speed": 0
     },
     {
-        "id": "035",
+        "value": "035",
         "name": "Clefairy",
         "hitPoints": 2,
         "attack": 0,
@@ -420,7 +420,7 @@
         "speed": 0
     },
     {
-        "id": "036",
+        "value": "036",
         "name": "Clefable",
         "hitPoints": 3,
         "attack": 0,
@@ -430,7 +430,7 @@
         "speed": 0
     },
     {
-        "id": "037",
+        "value": "037",
         "name": "Vulpix",
         "hitPoints": 0,
         "attack": 0,
@@ -440,7 +440,7 @@
         "speed": 1
     },
     {
-        "id": "038",
+        "value": "038",
         "name": "Ninetales",
         "hitPoints": 0,
         "attack": 0,
@@ -450,7 +450,7 @@
         "speed": 1
     },
     {
-        "id": "038A",
+        "value": "038A",
         "name": "Ninetales (Alolan Form)",
         "hitPoints": 0,
         "attack": 0,
@@ -460,7 +460,7 @@
         "speed": 2
     },
     {
-        "id": "039",
+        "value": "039",
         "name": "Jigglypuff",
         "hitPoints": 2,
         "attack": 0,
@@ -470,7 +470,7 @@
         "speed": 0
     },
     {
-        "id": "040",
+        "value": "040",
         "name": "Wigglytuff",
         "hitPoints": 3,
         "attack": 0,
@@ -480,7 +480,7 @@
         "speed": 0
     },
     {
-        "id": "041",
+        "value": "041",
         "name": "Zubat",
         "hitPoints": 0,
         "attack": 0,
@@ -490,7 +490,7 @@
         "speed": 1
     },
     {
-        "id": "042",
+        "value": "042",
         "name": "Golbat",
         "hitPoints": 0,
         "attack": 0,
@@ -500,7 +500,7 @@
         "speed": 2
     },
     {
-        "id": "043",
+        "value": "043",
         "name": "Oddish",
         "hitPoints": 0,
         "attack": 0,
@@ -510,7 +510,7 @@
         "speed": 0
     },
     {
-        "id": "044",
+        "value": "044",
         "name": "Gloom",
         "hitPoints": 0,
         "attack": 0,
@@ -520,7 +520,7 @@
         "speed": 0
     },
     {
-        "id": "045",
+        "value": "045",
         "name": "Vileplume",
         "hitPoints": 0,
         "attack": 0,
@@ -530,7 +530,7 @@
         "speed": 0
     },
     {
-        "id": "046",
+        "value": "046",
         "name": "Paras",
         "hitPoints": 0,
         "attack": 1,
@@ -540,7 +540,7 @@
         "speed": 0
     },
     {
-        "id": "047",
+        "value": "047",
         "name": "Parasect",
         "hitPoints": 0,
         "attack": 2,
@@ -550,7 +550,7 @@
         "speed": 0
     },
     {
-        "id": "048",
+        "value": "048",
         "name": "Venonat",
         "hitPoints": 0,
         "attack": 0,
@@ -560,7 +560,7 @@
         "speed": 0
     },
     {
-        "id": "049",
+        "value": "049",
         "name": "Venomoth",
         "hitPoints": 0,
         "attack": 0,
@@ -570,7 +570,7 @@
         "speed": 1
     },
     {
-        "id": "050",
+        "value": "050",
         "name": "Diglett",
         "hitPoints": 0,
         "attack": 0,
@@ -580,7 +580,7 @@
         "speed": 1
     },
     {
-        "id": "051",
+        "value": "051",
         "name": "Dugtrio",
         "hitPoints": 0,
         "attack": 0,
@@ -590,7 +590,7 @@
         "speed": 2
     },
     {
-        "id": "051A",
+        "value": "051A",
         "name": "Dugtrio (Alolan Form)",
         "hitPoints": 0,
         "attack": 2,
@@ -600,7 +600,7 @@
         "speed": 0
     },
     {
-        "id": "052",
+        "value": "052",
         "name": "Meowth",
         "hitPoints": 0,
         "attack": 0,
@@ -610,7 +610,7 @@
         "speed": 1
     },
     {
-        "id": "052A",
+        "value": "052A",
         "name": "Meowth (Alolan Form)",
         "hitPoints": 0,
         "attack": 0,
@@ -620,7 +620,7 @@
         "speed": 1
     },
     {
-        "id": "052G",
+        "value": "052G",
         "name": "Meowth (Galarian Form)",
         "hitPoints": 0,
         "attack": 1,
@@ -630,7 +630,7 @@
         "speed": 0
     },
     {
-        "id": "053",
+        "value": "053",
         "name": "Persian",
         "hitPoints": 0,
         "attack": 0,
@@ -640,7 +640,7 @@
         "speed": 2
     },
     {
-        "id": "054",
+        "value": "054",
         "name": "Psyduck",
         "hitPoints": 0,
         "attack": 0,
@@ -650,7 +650,7 @@
         "speed": 0
     },
     {
-        "id": "055",
+        "value": "055",
         "name": "Golduck",
         "hitPoints": 0,
         "attack": 0,
@@ -660,7 +660,7 @@
         "speed": 0
     },
     {
-        "id": "056",
+        "value": "056",
         "name": "Mankey",
         "hitPoints": 0,
         "attack": 1,
@@ -670,7 +670,7 @@
         "speed": 0
     },
     {
-        "id": "057",
+        "value": "057",
         "name": "Primeape",
         "hitPoints": 0,
         "attack": 2,
@@ -680,7 +680,7 @@
         "speed": 0
     },
     {
-        "id": "058",
+        "value": "058",
         "name": "Growlithe",
         "hitPoints": 0,
         "attack": 1,
@@ -690,7 +690,7 @@
         "speed": 0
     },
     {
-        "id": "059",
+        "value": "059",
         "name": "Arcanine",
         "hitPoints": 0,
         "attack": 2,
@@ -700,7 +700,7 @@
         "speed": 0
     },
     {
-        "id": "060",
+        "value": "060",
         "name": "Poliwag",
         "hitPoints": 0,
         "attack": 0,
@@ -710,7 +710,7 @@
         "speed": 1
     },
     {
-        "id": "061",
+        "value": "061",
         "name": "Poliwhirl",
         "hitPoints": 0,
         "attack": 0,
@@ -720,7 +720,7 @@
         "speed": 2
     },
     {
-        "id": "062",
+        "value": "062",
         "name": "Poliwrath",
         "hitPoints": 0,
         "attack": 0,
@@ -730,7 +730,7 @@
         "speed": 0
     },
     {
-        "id": "063",
+        "value": "063",
         "name": "Abra",
         "hitPoints": 0,
         "attack": 0,
@@ -740,7 +740,7 @@
         "speed": 0
     },
     {
-        "id": "064",
+        "value": "064",
         "name": "Kadabra",
         "hitPoints": 0,
         "attack": 0,
@@ -750,7 +750,7 @@
         "speed": 0
     },
     {
-        "id": "065",
+        "value": "065",
         "name": "Alakazam",
         "hitPoints": 0,
         "attack": 0,
@@ -760,7 +760,7 @@
         "speed": 0
     },
     {
-        "id": "065M",
+        "value": "065M",
         "name": "Alakazam (Mega Alakazam)",
         "hitPoints": 0,
         "attack": 0,
@@ -770,7 +770,7 @@
         "speed": 0
     },
     {
-        "id": "066",
+        "value": "066",
         "name": "Machop",
         "hitPoints": 0,
         "attack": 1,
@@ -780,7 +780,7 @@
         "speed": 0
     },
     {
-        "id": "067",
+        "value": "067",
         "name": "Machoke",
         "hitPoints": 0,
         "attack": 2,
@@ -790,7 +790,7 @@
         "speed": 0
     },
     {
-        "id": "068",
+        "value": "068",
         "name": "Machamp",
         "hitPoints": 0,
         "attack": 3,
@@ -800,7 +800,7 @@
         "speed": 0
     },
     {
-        "id": "069",
+        "value": "069",
         "name": "Bellsprout",
         "hitPoints": 0,
         "attack": 1,
@@ -810,7 +810,7 @@
         "speed": 0
     },
     {
-        "id": "070",
+        "value": "070",
         "name": "Weepinbell",
         "hitPoints": 0,
         "attack": 2,
@@ -820,7 +820,7 @@
         "speed": 0
     },
     {
-        "id": "071",
+        "value": "071",
         "name": "Victreebel",
         "hitPoints": 0,
         "attack": 3,
@@ -830,7 +830,7 @@
         "speed": 0
     },
     {
-        "id": "072",
+        "value": "072",
         "name": "Tentacool",
         "hitPoints": 0,
         "attack": 0,
@@ -840,7 +840,7 @@
         "speed": 0
     },
     {
-        "id": "073",
+        "value": "073",
         "name": "Tentacruel",
         "hitPoints": 0,
         "attack": 0,
@@ -850,7 +850,7 @@
         "speed": 0
     },
     {
-        "id": "074",
+        "value": "074",
         "name": "Geodude",
         "hitPoints": 0,
         "attack": 0,
@@ -860,7 +860,7 @@
         "speed": 0
     },
     {
-        "id": "075",
+        "value": "075",
         "name": "Graveler",
         "hitPoints": 0,
         "attack": 0,
@@ -870,7 +870,7 @@
         "speed": 0
     },
     {
-        "id": "076",
+        "value": "076",
         "name": "Golem",
         "hitPoints": 0,
         "attack": 0,
@@ -880,7 +880,7 @@
         "speed": 0
     },
     {
-        "id": "077",
+        "value": "077",
         "name": "Ponyta",
         "hitPoints": 0,
         "attack": 0,
@@ -890,8 +890,8 @@
         "speed": 1
     },
     {
-        "id": "078",
-        "name": "Rapidash",
+        "value": "078",
+        "name": "Rapvalueash",
         "hitPoints": 0,
         "attack": 0,
         "defense": 0,
@@ -900,7 +900,7 @@
         "speed": 2
     },
     {
-        "id": "079",
+        "value": "079",
         "name": "Slowpoke",
         "hitPoints": 1,
         "attack": 0,
@@ -910,7 +910,7 @@
         "speed": 0
     },
     {
-        "id": "080",
+        "value": "080",
         "name": "Slowbro",
         "hitPoints": 0,
         "attack": 0,
@@ -920,7 +920,7 @@
         "speed": 0
     },
     {
-        "id": "080M",
+        "value": "080M",
         "name": "Slowbro (Mega Slowbro)",
         "hitPoints": 0,
         "attack": 0,
@@ -930,7 +930,7 @@
         "speed": 0
     },
     {
-        "id": "080G",
+        "value": "080G",
         "name": "Slowbro (Galarian Form)",
         "hitPoints": 0,
         "attack": 2,
@@ -940,7 +940,7 @@
         "speed": 0
     },
     {
-        "id": "081",
+        "value": "081",
         "name": "Magnemite",
         "hitPoints": 0,
         "attack": 0,
@@ -950,7 +950,7 @@
         "speed": 0
     },
     {
-        "id": "082",
+        "value": "082",
         "name": "Magneton",
         "hitPoints": 0,
         "attack": 0,
@@ -960,7 +960,7 @@
         "speed": 0
     },
     {
-        "id": "083",
+        "value": "083",
         "name": "Farfetch'd",
         "hitPoints": 0,
         "attack": 1,
@@ -970,7 +970,7 @@
         "speed": 0
     },
     {
-        "id": "084",
+        "value": "084",
         "name": "Doduo",
         "hitPoints": 0,
         "attack": 1,
@@ -980,7 +980,7 @@
         "speed": 0
     },
     {
-        "id": "085",
+        "value": "085",
         "name": "Dodrio",
         "hitPoints": 0,
         "attack": 2,
@@ -990,7 +990,7 @@
         "speed": 0
     },
     {
-        "id": "086",
+        "value": "086",
         "name": "Seel",
         "hitPoints": 0,
         "attack": 0,
@@ -1000,7 +1000,7 @@
         "speed": 0
     },
     {
-        "id": "087",
+        "value": "087",
         "name": "Dewgong",
         "hitPoints": 0,
         "attack": 0,
@@ -1010,7 +1010,7 @@
         "speed": 0
     },
     {
-        "id": "088",
+        "value": "088",
         "name": "Grimer",
         "hitPoints": 1,
         "attack": 0,
@@ -1020,7 +1020,7 @@
         "speed": 0
     },
     {
-        "id": "089",
+        "value": "089",
         "name": "Muk",
         "hitPoints": 1,
         "attack": 1,
@@ -1030,7 +1030,7 @@
         "speed": 0
     },
     {
-        "id": "090",
+        "value": "090",
         "name": "Shellder",
         "hitPoints": 0,
         "attack": 0,
@@ -1040,7 +1040,7 @@
         "speed": 0
     },
     {
-        "id": "091",
+        "value": "091",
         "name": "Cloyster",
         "hitPoints": 0,
         "attack": 0,
@@ -1050,7 +1050,7 @@
         "speed": 0
     },
     {
-        "id": "092",
+        "value": "092",
         "name": "Gastly",
         "hitPoints": 0,
         "attack": 0,
@@ -1060,7 +1060,7 @@
         "speed": 0
     },
     {
-        "id": "093",
+        "value": "093",
         "name": "Haunter",
         "hitPoints": 0,
         "attack": 0,
@@ -1070,7 +1070,7 @@
         "speed": 0
     },
     {
-        "id": "094",
+        "value": "094",
         "name": "Gengar",
         "hitPoints": 0,
         "attack": 0,
@@ -1080,7 +1080,7 @@
         "speed": 0
     },
     {
-        "id": "094M",
+        "value": "094M",
         "name": "Gengar (Mega Gengar)",
         "hitPoints": 0,
         "attack": 0,
@@ -1090,7 +1090,7 @@
         "speed": 0
     },
     {
-        "id": "095",
+        "value": "095",
         "name": "Onix",
         "hitPoints": 0,
         "attack": 0,
@@ -1100,7 +1100,7 @@
         "speed": 0
     },
     {
-        "id": "096",
+        "value": "096",
         "name": "Drowzee",
         "hitPoints": 0,
         "attack": 0,
@@ -1110,7 +1110,7 @@
         "speed": 0
     },
     {
-        "id": "097",
+        "value": "097",
         "name": "Hypno",
         "hitPoints": 0,
         "attack": 0,
@@ -1120,7 +1120,7 @@
         "speed": 0
     },
     {
-        "id": "098",
+        "value": "098",
         "name": "Krabby",
         "hitPoints": 0,
         "attack": 1,
@@ -1130,7 +1130,7 @@
         "speed": 0
     },
     {
-        "id": "099",
+        "value": "099",
         "name": "Kingler",
         "hitPoints": 0,
         "attack": 2,
@@ -1140,7 +1140,7 @@
         "speed": 0
     },
     {
-        "id": "100",
+        "value": "100",
         "name": "Voltorb",
         "hitPoints": 0,
         "attack": 0,
@@ -1150,7 +1150,7 @@
         "speed": 1
     },
     {
-        "id": "101",
+        "value": "101",
         "name": "Electrode",
         "hitPoints": 0,
         "attack": 0,
@@ -1160,7 +1160,7 @@
         "speed": 2
     },
     {
-        "id": "102",
+        "value": "102",
         "name": "Exeggcute",
         "hitPoints": 0,
         "attack": 0,
@@ -1170,7 +1170,7 @@
         "speed": 0
     },
     {
-        "id": "103",
+        "value": "103",
         "name": "Exeggutor",
         "hitPoints": 0,
         "attack": 0,
@@ -1180,7 +1180,7 @@
         "speed": 0
     },
     {
-        "id": "104",
+        "value": "104",
         "name": "Cubone",
         "hitPoints": 0,
         "attack": 0,
@@ -1190,7 +1190,7 @@
         "speed": 0
     },
     {
-        "id": "105",
+        "value": "105",
         "name": "Marowak",
         "hitPoints": 0,
         "attack": 0,
@@ -1200,7 +1200,7 @@
         "speed": 0
     },
     {
-        "id": "106",
+        "value": "106",
         "name": "Hitmonlee",
         "hitPoints": 0,
         "attack": 2,
@@ -1210,7 +1210,7 @@
         "speed": 0
     },
     {
-        "id": "107",
+        "value": "107",
         "name": "Hitmonchan",
         "hitPoints": 0,
         "attack": 0,
@@ -1220,7 +1220,7 @@
         "speed": 0
     },
     {
-        "id": "108",
+        "value": "108",
         "name": "Lickitung",
         "hitPoints": 2,
         "attack": 0,
@@ -1230,7 +1230,7 @@
         "speed": 0
     },
     {
-        "id": "109",
+        "value": "109",
         "name": "Koffing",
         "hitPoints": 0,
         "attack": 0,
@@ -1240,7 +1240,7 @@
         "speed": 0
     },
     {
-        "id": "110",
+        "value": "110",
         "name": "Weezing",
         "hitPoints": 0,
         "attack": 0,
@@ -1250,7 +1250,7 @@
         "speed": 0
     },
     {
-        "id": "111",
+        "value": "111",
         "name": "Rhyhorn",
         "hitPoints": 0,
         "attack": 0,
@@ -1260,7 +1260,7 @@
         "speed": 0
     },
     {
-        "id": "112",
+        "value": "112",
         "name": "Rhydon",
         "hitPoints": 0,
         "attack": 2,
@@ -1270,7 +1270,7 @@
         "speed": 0
     },
     {
-        "id": "113",
+        "value": "113",
         "name": "Chansey",
         "hitPoints": 2,
         "attack": 0,
@@ -1280,7 +1280,7 @@
         "speed": 0
     },
     {
-        "id": "114",
+        "value": "114",
         "name": "Tangela",
         "hitPoints": 0,
         "attack": 0,
@@ -1290,7 +1290,7 @@
         "speed": 0
     },
     {
-        "id": "115",
+        "value": "115",
         "name": "Kangaskhan",
         "hitPoints": 2,
         "attack": 0,
@@ -1300,7 +1300,7 @@
         "speed": 0
     },
     {
-        "id": "115M",
+        "value": "115M",
         "name": "Kangaskhan (Mega Kangaskhan)",
         "hitPoints": 2,
         "attack": 0,
@@ -1310,7 +1310,7 @@
         "speed": 0
     },
     {
-        "id": "116",
+        "value": "116",
         "name": "Horsea",
         "hitPoints": 0,
         "attack": 0,
@@ -1320,7 +1320,7 @@
         "speed": 0
     },
     {
-        "id": "117",
+        "value": "117",
         "name": "Seadra",
         "hitPoints": 0,
         "attack": 0,
@@ -1330,7 +1330,7 @@
         "speed": 0
     },
     {
-        "id": "118",
+        "value": "118",
         "name": "Goldeen",
         "hitPoints": 0,
         "attack": 1,
@@ -1340,7 +1340,7 @@
         "speed": 0
     },
     {
-        "id": "119",
+        "value": "119",
         "name": "Seaking",
         "hitPoints": 0,
         "attack": 2,
@@ -1350,7 +1350,7 @@
         "speed": 0
     },
     {
-        "id": "120",
+        "value": "120",
         "name": "Staryu",
         "hitPoints": 0,
         "attack": 0,
@@ -1360,7 +1360,7 @@
         "speed": 1
     },
     {
-        "id": "121",
+        "value": "121",
         "name": "Starmie",
         "hitPoints": 0,
         "attack": 0,
@@ -1370,7 +1370,7 @@
         "speed": 2
     },
     {
-        "id": "122",
+        "value": "122",
         "name": "Mr. Mime",
         "hitPoints": 0,
         "attack": 0,
@@ -1380,7 +1380,7 @@
         "speed": 0
     },
     {
-        "id": "122G",
+        "value": "122G",
         "name": "Mr. Mime (Galarian Form)",
         "hitPoints": 0,
         "attack": 0,
@@ -1390,7 +1390,7 @@
         "speed": 2
     },
     {
-        "id": "123",
+        "value": "123",
         "name": "Scyther",
         "hitPoints": 0,
         "attack": 1,
@@ -1400,7 +1400,7 @@
         "speed": 0
     },
     {
-        "id": "124",
+        "value": "124",
         "name": "Jynx",
         "hitPoints": 0,
         "attack": 0,
@@ -1410,7 +1410,7 @@
         "speed": 0
     },
     {
-        "id": "125",
+        "value": "125",
         "name": "Electabuzz",
         "hitPoints": 0,
         "attack": 0,
@@ -1420,7 +1420,7 @@
         "speed": 2
     },
     {
-        "id": "126",
+        "value": "126",
         "name": "Magmar",
         "hitPoints": 0,
         "attack": 0,
@@ -1430,7 +1430,7 @@
         "speed": 0
     },
     {
-        "id": "127",
+        "value": "127",
         "name": "Pinsir",
         "hitPoints": 0,
         "attack": 2,
@@ -1440,7 +1440,7 @@
         "speed": 0
     },
     {
-        "id": "127M",
+        "value": "127M",
         "name": "Pinsir (Mega Pinsir)",
         "hitPoints": 0,
         "attack": 2,
@@ -1450,7 +1450,7 @@
         "speed": 0
     },
     {
-        "id": "128",
+        "value": "128",
         "name": "Tauros",
         "hitPoints": 0,
         "attack": 1,
@@ -1460,7 +1460,7 @@
         "speed": 1
     },
     {
-        "id": "129",
+        "value": "129",
         "name": "Magikarp",
         "hitPoints": 0,
         "attack": 0,
@@ -1470,7 +1470,7 @@
         "speed": 1
     },
     {
-        "id": "130",
+        "value": "130",
         "name": "Gyarados",
         "hitPoints": 0,
         "attack": 2,
@@ -1480,7 +1480,7 @@
         "speed": 0
     },
     {
-        "id": "130M",
+        "value": "130M",
         "name": "Gyarados (Mega Gyarados)",
         "hitPoints": 0,
         "attack": 2,
@@ -1490,7 +1490,7 @@
         "speed": 0
     },
     {
-        "id": "131",
+        "value": "131",
         "name": "Lapras",
         "hitPoints": 2,
         "attack": 0,
@@ -1500,7 +1500,7 @@
         "speed": 0
     },
     {
-        "id": "132",
+        "value": "132",
         "name": "Ditto",
         "hitPoints": 1,
         "attack": 0,
@@ -1510,7 +1510,7 @@
         "speed": 0
     },
     {
-        "id": "133",
+        "value": "133",
         "name": "Eevee",
         "hitPoints": 0,
         "attack": 0,
@@ -1520,7 +1520,7 @@
         "speed": 0
     },
     {
-        "id": "133Pa",
+        "value": "133Pa",
         "name": "Eevee (Partner)",
         "hitPoints": 0,
         "attack": 0,
@@ -1530,7 +1530,7 @@
         "speed": 0
     },
     {
-        "id": "134",
+        "value": "134",
         "name": "Vaporeon",
         "hitPoints": 2,
         "attack": 0,
@@ -1540,7 +1540,7 @@
         "speed": 0
     },
     {
-        "id": "135",
+        "value": "135",
         "name": "Jolteon",
         "hitPoints": 0,
         "attack": 0,
@@ -1550,7 +1550,7 @@
         "speed": 2
     },
     {
-        "id": "136",
+        "value": "136",
         "name": "Flareon",
         "hitPoints": 0,
         "attack": 2,
@@ -1560,7 +1560,7 @@
         "speed": 0
     },
     {
-        "id": "137",
+        "value": "137",
         "name": "Porygon",
         "hitPoints": 0,
         "attack": 0,
@@ -1570,7 +1570,7 @@
         "speed": 0
     },
     {
-        "id": "138",
+        "value": "138",
         "name": "Omanyte",
         "hitPoints": 0,
         "attack": 0,
@@ -1580,7 +1580,7 @@
         "speed": 0
     },
     {
-        "id": "139",
+        "value": "139",
         "name": "Omastar",
         "hitPoints": 0,
         "attack": 0,
@@ -1590,7 +1590,7 @@
         "speed": 0
     },
     {
-        "id": "140",
+        "value": "140",
         "name": "Kabuto",
         "hitPoints": 0,
         "attack": 0,
@@ -1600,7 +1600,7 @@
         "speed": 0
     },
     {
-        "id": "141",
+        "value": "141",
         "name": "Kabutops",
         "hitPoints": 0,
         "attack": 2,
@@ -1610,7 +1610,7 @@
         "speed": 0
     },
     {
-        "id": "142",
+        "value": "142",
         "name": "Aerodactyl",
         "hitPoints": 0,
         "attack": 0,
@@ -1620,7 +1620,7 @@
         "speed": 2
     },
     {
-        "id": "142M",
+        "value": "142M",
         "name": "Aerodactyl (Mega Aerodactyl)",
         "hitPoints": 0,
         "attack": 0,
@@ -1630,7 +1630,7 @@
         "speed": 2
     },
     {
-        "id": "143",
+        "value": "143",
         "name": "Snorlax",
         "hitPoints": 2,
         "attack": 0,
@@ -1640,7 +1640,7 @@
         "speed": 0
     },
     {
-        "id": "144",
+        "value": "144",
         "name": "Articuno",
         "hitPoints": 0,
         "attack": 0,
@@ -1650,7 +1650,7 @@
         "speed": 0
     },
     {
-        "id": "144G",
+        "value": "144G",
         "name": "Articuno (Galarian Form)",
         "hitPoints": 0,
         "attack": 0,
@@ -1660,7 +1660,7 @@
         "speed": 0
     },
     {
-        "id": "145",
+        "value": "145",
         "name": "Zapdos",
         "hitPoints": 0,
         "attack": 0,
@@ -1670,7 +1670,7 @@
         "speed": 0
     },
     {
-        "id": "145G",
+        "value": "145G",
         "name": "Zapdos (Galarian Form)",
         "hitPoints": 0,
         "attack": 3,
@@ -1680,7 +1680,7 @@
         "speed": 0
     },
     {
-        "id": "146",
+        "value": "146",
         "name": "Moltres",
         "hitPoints": 0,
         "attack": 0,
@@ -1690,7 +1690,7 @@
         "speed": 0
     },
     {
-        "id": "146G",
+        "value": "146G",
         "name": "Moltres (Galarian Form)",
         "hitPoints": 0,
         "attack": 0,
@@ -1700,7 +1700,7 @@
         "speed": 0
     },
     {
-        "id": "147",
+        "value": "147",
         "name": "Dratini",
         "hitPoints": 0,
         "attack": 1,
@@ -1710,7 +1710,7 @@
         "speed": 0
     },
     {
-        "id": "148",
+        "value": "148",
         "name": "Dragonair",
         "hitPoints": 0,
         "attack": 2,
@@ -1720,7 +1720,7 @@
         "speed": 0
     },
     {
-        "id": "149",
+        "value": "149",
         "name": "Dragonite",
         "hitPoints": 0,
         "attack": 3,
@@ -1730,7 +1730,7 @@
         "speed": 0
     },
     {
-        "id": "150",
+        "value": "150",
         "name": "Mewtwo",
         "hitPoints": 0,
         "attack": 0,
@@ -1740,7 +1740,7 @@
         "speed": 0
     },
     {
-        "id": "150MX",
+        "value": "150MX",
         "name": "Mewtwo (Mega Mewtwo X)",
         "hitPoints": 0,
         "attack": 0,
@@ -1750,7 +1750,7 @@
         "speed": 0
     },
     {
-        "id": "150MY",
+        "value": "150MY",
         "name": "Mewtwo (Mega Mewtwo Y)",
         "hitPoints": 0,
         "attack": 0,
@@ -1760,7 +1760,7 @@
         "speed": 0
     },
     {
-        "id": "151",
+        "value": "151",
         "name": "Mew",
         "hitPoints": 3,
         "attack": 0,
@@ -1770,7 +1770,7 @@
         "speed": 0
     },
     {
-        "id": "152",
+        "value": "152",
         "name": "Chikorita",
         "hitPoints": 0,
         "attack": 0,
@@ -1780,7 +1780,7 @@
         "speed": 0
     },
     {
-        "id": "153",
+        "value": "153",
         "name": "Bayleef",
         "hitPoints": 0,
         "attack": 0,
@@ -1790,7 +1790,7 @@
         "speed": 0
     },
     {
-        "id": "154",
+        "value": "154",
         "name": "Meganium",
         "hitPoints": 0,
         "attack": 0,
@@ -1800,7 +1800,7 @@
         "speed": 0
     },
     {
-        "id": "155",
+        "value": "155",
         "name": "Cyndaquil",
         "hitPoints": 0,
         "attack": 0,
@@ -1810,7 +1810,7 @@
         "speed": 1
     },
     {
-        "id": "156",
+        "value": "156",
         "name": "Quilava",
         "hitPoints": 0,
         "attack": 0,
@@ -1820,7 +1820,7 @@
         "speed": 1
     },
     {
-        "id": "157",
+        "value": "157",
         "name": "Typhlosion",
         "hitPoints": 0,
         "attack": 0,
@@ -1830,7 +1830,7 @@
         "speed": 0
     },
     {
-        "id": "158",
+        "value": "158",
         "name": "Totodile",
         "hitPoints": 0,
         "attack": 1,
@@ -1840,7 +1840,7 @@
         "speed": 0
     },
     {
-        "id": "159",
+        "value": "159",
         "name": "Croconaw",
         "hitPoints": 0,
         "attack": 1,
@@ -1850,7 +1850,7 @@
         "speed": 0
     },
     {
-        "id": "160",
+        "value": "160",
         "name": "Feraligatr",
         "hitPoints": 0,
         "attack": 2,
@@ -1860,7 +1860,7 @@
         "speed": 0
     },
     {
-        "id": "161",
+        "value": "161",
         "name": "Sentret",
         "hitPoints": 0,
         "attack": 1,
@@ -1870,7 +1870,7 @@
         "speed": 0
     },
     {
-        "id": "162",
+        "value": "162",
         "name": "Furret",
         "hitPoints": 0,
         "attack": 0,
@@ -1880,7 +1880,7 @@
         "speed": 2
     },
     {
-        "id": "163",
+        "value": "163",
         "name": "Hoothoot",
         "hitPoints": 1,
         "attack": 0,
@@ -1890,7 +1890,7 @@
         "speed": 0
     },
     {
-        "id": "164",
+        "value": "164",
         "name": "Noctowl",
         "hitPoints": 2,
         "attack": 0,
@@ -1900,7 +1900,7 @@
         "speed": 0
     },
     {
-        "id": "165",
+        "value": "165",
         "name": "Ledyba",
         "hitPoints": 0,
         "attack": 0,
@@ -1910,7 +1910,7 @@
         "speed": 0
     },
     {
-        "id": "166",
+        "value": "166",
         "name": "Ledian",
         "hitPoints": 0,
         "attack": 0,
@@ -1920,7 +1920,7 @@
         "speed": 0
     },
     {
-        "id": "167",
+        "value": "167",
         "name": "Spinarak",
         "hitPoints": 0,
         "attack": 1,
@@ -1930,7 +1930,7 @@
         "speed": 0
     },
     {
-        "id": "168",
+        "value": "168",
         "name": "Ariados",
         "hitPoints": 0,
         "attack": 2,
@@ -1940,7 +1940,7 @@
         "speed": 0
     },
     {
-        "id": "169",
+        "value": "169",
         "name": "Crobat",
         "hitPoints": 0,
         "attack": 0,
@@ -1950,7 +1950,7 @@
         "speed": 3
     },
     {
-        "id": "170",
+        "value": "170",
         "name": "Chinchou",
         "hitPoints": 1,
         "attack": 0,
@@ -1960,7 +1960,7 @@
         "speed": 0
     },
     {
-        "id": "171",
+        "value": "171",
         "name": "Lanturn",
         "hitPoints": 2,
         "attack": 0,
@@ -1970,7 +1970,7 @@
         "speed": 0
     },
     {
-        "id": "172",
+        "value": "172",
         "name": "Pichu",
         "hitPoints": 0,
         "attack": 0,
@@ -1980,7 +1980,7 @@
         "speed": 1
     },
     {
-        "id": "173",
+        "value": "173",
         "name": "Cleffa",
         "hitPoints": 0,
         "attack": 0,
@@ -1990,7 +1990,7 @@
         "speed": 0
     },
     {
-        "id": "174",
+        "value": "174",
         "name": "Igglybuff",
         "hitPoints": 1,
         "attack": 0,
@@ -2000,7 +2000,7 @@
         "speed": 0
     },
     {
-        "id": "175",
+        "value": "175",
         "name": "Togepi",
         "hitPoints": 0,
         "attack": 0,
@@ -2010,7 +2010,7 @@
         "speed": 0
     },
     {
-        "id": "176",
+        "value": "176",
         "name": "Togetic",
         "hitPoints": 0,
         "attack": 0,
@@ -2020,7 +2020,7 @@
         "speed": 0
     },
     {
-        "id": "177",
+        "value": "177",
         "name": "Natu",
         "hitPoints": 0,
         "attack": 0,
@@ -2030,7 +2030,7 @@
         "speed": 0
     },
     {
-        "id": "178",
+        "value": "178",
         "name": "Xatu",
         "hitPoints": 0,
         "attack": 0,
@@ -2040,7 +2040,7 @@
         "speed": 1
     },
     {
-        "id": "179",
+        "value": "179",
         "name": "Mareep",
         "hitPoints": 0,
         "attack": 0,
@@ -2050,7 +2050,7 @@
         "speed": 0
     },
     {
-        "id": "180",
+        "value": "180",
         "name": "Flaaffy",
         "hitPoints": 0,
         "attack": 0,
@@ -2060,7 +2060,7 @@
         "speed": 0
     },
     {
-        "id": "181",
+        "value": "181",
         "name": "Ampharos",
         "hitPoints": 0,
         "attack": 0,
@@ -2070,7 +2070,7 @@
         "speed": 0
     },
     {
-        "id": "181M",
+        "value": "181M",
         "name": "Ampharos (Mega Ampharos)",
         "hitPoints": 0,
         "attack": 0,
@@ -2080,7 +2080,7 @@
         "speed": 0
     },
     {
-        "id": "182",
+        "value": "182",
         "name": "Bellossom",
         "hitPoints": 0,
         "attack": 0,
@@ -2090,7 +2090,7 @@
         "speed": 0
     },
     {
-        "id": "183",
+        "value": "183",
         "name": "Marill",
         "hitPoints": 2,
         "attack": 0,
@@ -2100,7 +2100,7 @@
         "speed": 0
     },
     {
-        "id": "184",
+        "value": "184",
         "name": "Azumarill",
         "hitPoints": 3,
         "attack": 0,
@@ -2110,7 +2110,7 @@
         "speed": 0
     },
     {
-        "id": "185",
+        "value": "185",
         "name": "Sudowoodo",
         "hitPoints": 0,
         "attack": 0,
@@ -2120,7 +2120,7 @@
         "speed": 0
     },
     {
-        "id": "186",
+        "value": "186",
         "name": "Politoed",
         "hitPoints": 0,
         "attack": 0,
@@ -2130,7 +2130,7 @@
         "speed": 0
     },
     {
-        "id": "187",
+        "value": "187",
         "name": "Hoppip",
         "hitPoints": 0,
         "attack": 0,
@@ -2140,7 +2140,7 @@
         "speed": 0
     },
     {
-        "id": "188",
+        "value": "188",
         "name": "Skiploom",
         "hitPoints": 0,
         "attack": 0,
@@ -2150,7 +2150,7 @@
         "speed": 2
     },
     {
-        "id": "189",
+        "value": "189",
         "name": "Jumpluff",
         "hitPoints": 0,
         "attack": 0,
@@ -2160,7 +2160,7 @@
         "speed": 3
     },
     {
-        "id": "190",
+        "value": "190",
         "name": "Aipom",
         "hitPoints": 0,
         "attack": 0,
@@ -2170,7 +2170,7 @@
         "speed": 1
     },
     {
-        "id": "191",
+        "value": "191",
         "name": "Sunkern",
         "hitPoints": 0,
         "attack": 0,
@@ -2180,7 +2180,7 @@
         "speed": 0
     },
     {
-        "id": "192",
+        "value": "192",
         "name": "Sunflora",
         "hitPoints": 0,
         "attack": 0,
@@ -2190,7 +2190,7 @@
         "speed": 0
     },
     {
-        "id": "193",
+        "value": "193",
         "name": "Yanma",
         "hitPoints": 0,
         "attack": 0,
@@ -2200,7 +2200,7 @@
         "speed": 1
     },
     {
-        "id": "194",
+        "value": "194",
         "name": "Wooper",
         "hitPoints": 1,
         "attack": 0,
@@ -2210,7 +2210,7 @@
         "speed": 0
     },
     {
-        "id": "195",
+        "value": "195",
         "name": "Quagsire",
         "hitPoints": 2,
         "attack": 0,
@@ -2220,7 +2220,7 @@
         "speed": 0
     },
     {
-        "id": "196",
+        "value": "196",
         "name": "Espeon",
         "hitPoints": 0,
         "attack": 0,
@@ -2230,7 +2230,7 @@
         "speed": 0
     },
     {
-        "id": "197",
+        "value": "197",
         "name": "Umbreon",
         "hitPoints": 0,
         "attack": 0,
@@ -2240,7 +2240,7 @@
         "speed": 0
     },
     {
-        "id": "198",
+        "value": "198",
         "name": "Murkrow",
         "hitPoints": 0,
         "attack": 0,
@@ -2250,7 +2250,7 @@
         "speed": 1
     },
     {
-        "id": "199",
+        "value": "199",
         "name": "Slowking",
         "hitPoints": 0,
         "attack": 0,
@@ -2260,7 +2260,7 @@
         "speed": 0
     },
     {
-        "id": "200",
+        "value": "200",
         "name": "Misdreavus",
         "hitPoints": 0,
         "attack": 0,
@@ -2270,7 +2270,7 @@
         "speed": 0
     },
     {
-        "id": "201",
+        "value": "201",
         "name": "Unown",
         "hitPoints": 0,
         "attack": 1,
@@ -2280,7 +2280,7 @@
         "speed": 0
     },
     {
-        "id": "202",
+        "value": "202",
         "name": "Wobbuffet",
         "hitPoints": 2,
         "attack": 0,
@@ -2290,7 +2290,7 @@
         "speed": 0
     },
     {
-        "id": "203",
+        "value": "203",
         "name": "Girafarig",
         "hitPoints": 0,
         "attack": 0,
@@ -2300,7 +2300,7 @@
         "speed": 0
     },
     {
-        "id": "204",
+        "value": "204",
         "name": "Pineco",
         "hitPoints": 0,
         "attack": 0,
@@ -2310,7 +2310,7 @@
         "speed": 0
     },
     {
-        "id": "205",
+        "value": "205",
         "name": "Forretress",
         "hitPoints": 0,
         "attack": 0,
@@ -2320,7 +2320,7 @@
         "speed": 0
     },
     {
-        "id": "206",
+        "value": "206",
         "name": "Dunsparce",
         "hitPoints": 1,
         "attack": 0,
@@ -2330,7 +2330,7 @@
         "speed": 0
     },
     {
-        "id": "207",
+        "value": "207",
         "name": "Gligar",
         "hitPoints": 0,
         "attack": 0,
@@ -2340,7 +2340,7 @@
         "speed": 0
     },
     {
-        "id": "208",
+        "value": "208",
         "name": "Steelix",
         "hitPoints": 0,
         "attack": 0,
@@ -2350,7 +2350,7 @@
         "speed": 0
     },
     {
-        "id": "208M",
+        "value": "208M",
         "name": "Steelix (Mega Steelix)",
         "hitPoints": 0,
         "attack": 0,
@@ -2360,7 +2360,7 @@
         "speed": 0
     },
     {
-        "id": "209",
+        "value": "209",
         "name": "Snubbull",
         "hitPoints": 0,
         "attack": 1,
@@ -2370,7 +2370,7 @@
         "speed": 0
     },
     {
-        "id": "210",
+        "value": "210",
         "name": "Granbull",
         "hitPoints": 0,
         "attack": 2,
@@ -2380,7 +2380,7 @@
         "speed": 0
     },
     {
-        "id": "211",
+        "value": "211",
         "name": "Qwilfish",
         "hitPoints": 0,
         "attack": 1,
@@ -2390,7 +2390,7 @@
         "speed": 0
     },
     {
-        "id": "212",
+        "value": "212",
         "name": "Scizor",
         "hitPoints": 0,
         "attack": 2,
@@ -2400,7 +2400,7 @@
         "speed": 0
     },
     {
-        "id": "212M",
+        "value": "212M",
         "name": "Scizor (Mega Scizor)",
         "hitPoints": 0,
         "attack": 2,
@@ -2410,7 +2410,7 @@
         "speed": 0
     },
     {
-        "id": "213",
+        "value": "213",
         "name": "Shuckle",
         "hitPoints": 0,
         "attack": 0,
@@ -2420,7 +2420,7 @@
         "speed": 0
     },
     {
-        "id": "214",
+        "value": "214",
         "name": "Heracross",
         "hitPoints": 0,
         "attack": 2,
@@ -2430,7 +2430,7 @@
         "speed": 0
     },
     {
-        "id": "214M",
+        "value": "214M",
         "name": "Heracross (Mega Heracross)",
         "hitPoints": 0,
         "attack": 2,
@@ -2440,7 +2440,7 @@
         "speed": 0
     },
     {
-        "id": "215",
+        "value": "215",
         "name": "Sneasel",
         "hitPoints": 0,
         "attack": 0,
@@ -2450,7 +2450,7 @@
         "speed": 1
     },
     {
-        "id": "216",
+        "value": "216",
         "name": "Teddiursa",
         "hitPoints": 0,
         "attack": 1,
@@ -2460,7 +2460,7 @@
         "speed": 0
     },
     {
-        "id": "217",
+        "value": "217",
         "name": "Ursaring",
         "hitPoints": 0,
         "attack": 2,
@@ -2470,7 +2470,7 @@
         "speed": 0
     },
     {
-        "id": "218",
+        "value": "218",
         "name": "Slugma",
         "hitPoints": 0,
         "attack": 0,
@@ -2480,7 +2480,7 @@
         "speed": 0
     },
     {
-        "id": "219",
+        "value": "219",
         "name": "Magcargo",
         "hitPoints": 0,
         "attack": 0,
@@ -2490,7 +2490,7 @@
         "speed": 0
     },
     {
-        "id": "220",
+        "value": "220",
         "name": "Swinub",
         "hitPoints": 0,
         "attack": 1,
@@ -2500,7 +2500,7 @@
         "speed": 0
     },
     {
-        "id": "221",
+        "value": "221",
         "name": "Piloswine",
         "hitPoints": 1,
         "attack": 1,
@@ -2510,7 +2510,7 @@
         "speed": 0
     },
     {
-        "id": "222",
+        "value": "222",
         "name": "Corsola",
         "hitPoints": 0,
         "attack": 0,
@@ -2520,7 +2520,7 @@
         "speed": 0
     },
     {
-        "id": "222G",
+        "value": "222G",
         "name": "Corsola (Galarian Form)",
         "hitPoints": 0,
         "attack": 0,
@@ -2530,8 +2530,8 @@
         "speed": 0
     },
     {
-        "id": "223",
-        "name": "Remoraid",
+        "value": "223",
+        "name": "Remoravalue",
         "hitPoints": 0,
         "attack": 0,
         "defense": 0,
@@ -2540,7 +2540,7 @@
         "speed": 0
     },
     {
-        "id": "224",
+        "value": "224",
         "name": "Octillery",
         "hitPoints": 0,
         "attack": 1,
@@ -2550,7 +2550,7 @@
         "speed": 0
     },
     {
-        "id": "225",
+        "value": "225",
         "name": "Delibird",
         "hitPoints": 0,
         "attack": 0,
@@ -2560,7 +2560,7 @@
         "speed": 1
     },
     {
-        "id": "226",
+        "value": "226",
         "name": "Mantine",
         "hitPoints": 0,
         "attack": 0,
@@ -2570,7 +2570,7 @@
         "speed": 0
     },
     {
-        "id": "227",
+        "value": "227",
         "name": "Skarmory",
         "hitPoints": 0,
         "attack": 0,
@@ -2580,7 +2580,7 @@
         "speed": 0
     },
     {
-        "id": "228",
+        "value": "228",
         "name": "Houndour",
         "hitPoints": 0,
         "attack": 0,
@@ -2590,7 +2590,7 @@
         "speed": 0
     },
     {
-        "id": "229",
+        "value": "229",
         "name": "Houndoom",
         "hitPoints": 0,
         "attack": 0,
@@ -2600,7 +2600,7 @@
         "speed": 0
     },
     {
-        "id": "229M",
+        "value": "229M",
         "name": "Houndoom (Mega Houndoom)",
         "hitPoints": 0,
         "attack": 0,
@@ -2610,7 +2610,7 @@
         "speed": 0
     },
     {
-        "id": "230",
+        "value": "230",
         "name": "Kingdra",
         "hitPoints": 0,
         "attack": 1,
@@ -2620,7 +2620,7 @@
         "speed": 0
     },
     {
-        "id": "231",
+        "value": "231",
         "name": "Phanpy",
         "hitPoints": 1,
         "attack": 0,
@@ -2630,7 +2630,7 @@
         "speed": 0
     },
     {
-        "id": "232",
+        "value": "232",
         "name": "Donphan",
         "hitPoints": 0,
         "attack": 1,
@@ -2640,7 +2640,7 @@
         "speed": 0
     },
     {
-        "id": "233",
+        "value": "233",
         "name": "Porygon2",
         "hitPoints": 0,
         "attack": 0,
@@ -2650,7 +2650,7 @@
         "speed": 0
     },
     {
-        "id": "234",
+        "value": "234",
         "name": "Stantler",
         "hitPoints": 0,
         "attack": 1,
@@ -2660,7 +2660,7 @@
         "speed": 0
     },
     {
-        "id": "235",
+        "value": "235",
         "name": "Smeargle",
         "hitPoints": 0,
         "attack": 0,
@@ -2670,7 +2670,7 @@
         "speed": 1
     },
     {
-        "id": "236",
+        "value": "236",
         "name": "Tyrogue",
         "hitPoints": 0,
         "attack": 1,
@@ -2680,7 +2680,7 @@
         "speed": 0
     },
     {
-        "id": "237",
+        "value": "237",
         "name": "Hitmontop",
         "hitPoints": 0,
         "attack": 0,
@@ -2690,7 +2690,7 @@
         "speed": 0
     },
     {
-        "id": "238",
+        "value": "238",
         "name": "Smoochum",
         "hitPoints": 0,
         "attack": 0,
@@ -2700,8 +2700,8 @@
         "speed": 0
     },
     {
-        "id": "239",
-        "name": "Elekid",
+        "value": "239",
+        "name": "Elekvalue",
         "hitPoints": 0,
         "attack": 0,
         "defense": 0,
@@ -2710,7 +2710,7 @@
         "speed": 1
     },
     {
-        "id": "240",
+        "value": "240",
         "name": "Magby",
         "hitPoints": 0,
         "attack": 0,
@@ -2720,7 +2720,7 @@
         "speed": 1
     },
     {
-        "id": "241",
+        "value": "241",
         "name": "Miltank",
         "hitPoints": 0,
         "attack": 0,
@@ -2730,7 +2730,7 @@
         "speed": 0
     },
     {
-        "id": "242",
+        "value": "242",
         "name": "Blissey",
         "hitPoints": 3,
         "attack": 0,
@@ -2740,7 +2740,7 @@
         "speed": 0
     },
     {
-        "id": "243",
+        "value": "243",
         "name": "Raikou",
         "hitPoints": 0,
         "attack": 0,
@@ -2750,7 +2750,7 @@
         "speed": 2
     },
     {
-        "id": "244",
+        "value": "244",
         "name": "Entei",
         "hitPoints": 1,
         "attack": 2,
@@ -2760,7 +2760,7 @@
         "speed": 0
     },
     {
-        "id": "245",
+        "value": "245",
         "name": "Suicune",
         "hitPoints": 0,
         "attack": 0,
@@ -2770,7 +2770,7 @@
         "speed": 0
     },
     {
-        "id": "246",
+        "value": "246",
         "name": "Larvitar",
         "hitPoints": 0,
         "attack": 1,
@@ -2780,7 +2780,7 @@
         "speed": 0
     },
     {
-        "id": "247",
+        "value": "247",
         "name": "Pupitar",
         "hitPoints": 0,
         "attack": 2,
@@ -2790,7 +2790,7 @@
         "speed": 0
     },
     {
-        "id": "248",
+        "value": "248",
         "name": "Tyranitar",
         "hitPoints": 0,
         "attack": 3,
@@ -2800,7 +2800,7 @@
         "speed": 0
     },
     {
-        "id": "248M",
+        "value": "248M",
         "name": "Tyranitar (Mega Tyranitar)",
         "hitPoints": 0,
         "attack": 3,
@@ -2810,7 +2810,7 @@
         "speed": 0
     },
     {
-        "id": "249",
+        "value": "249",
         "name": "Lugia",
         "hitPoints": 0,
         "attack": 0,
@@ -2820,7 +2820,7 @@
         "speed": 0
     },
     {
-        "id": "250",
+        "value": "250",
         "name": "Ho-Oh",
         "hitPoints": 0,
         "attack": 0,
@@ -2830,7 +2830,7 @@
         "speed": 0
     },
     {
-        "id": "251",
+        "value": "251",
         "name": "Celebi",
         "hitPoints": 3,
         "attack": 0,
@@ -2840,7 +2840,7 @@
         "speed": 0
     },
     {
-        "id": "252",
+        "value": "252",
         "name": "Treecko",
         "hitPoints": 0,
         "attack": 0,
@@ -2850,7 +2850,7 @@
         "speed": 1
     },
     {
-        "id": "253",
+        "value": "253",
         "name": "Grovyle",
         "hitPoints": 0,
         "attack": 0,
@@ -2860,7 +2860,7 @@
         "speed": 2
     },
     {
-        "id": "254",
+        "value": "254",
         "name": "Sceptile",
         "hitPoints": 0,
         "attack": 0,
@@ -2870,7 +2870,7 @@
         "speed": 3
     },
     {
-        "id": "254M",
+        "value": "254M",
         "name": "Sceptile (Mega Sceptile)",
         "hitPoints": 0,
         "attack": 0,
@@ -2880,7 +2880,7 @@
         "speed": 3
     },
     {
-        "id": "255",
+        "value": "255",
         "name": "Torchic",
         "hitPoints": 0,
         "attack": 0,
@@ -2890,7 +2890,7 @@
         "speed": 0
     },
     {
-        "id": "256",
+        "value": "256",
         "name": "Combusken",
         "hitPoints": 0,
         "attack": 1,
@@ -2900,7 +2900,7 @@
         "speed": 0
     },
     {
-        "id": "257",
+        "value": "257",
         "name": "Blaziken",
         "hitPoints": 0,
         "attack": 3,
@@ -2910,7 +2910,7 @@
         "speed": 0
     },
     {
-        "id": "257M",
+        "value": "257M",
         "name": "Blaziken (Mega Blaziken)",
         "hitPoints": 0,
         "attack": 3,
@@ -2920,7 +2920,7 @@
         "speed": 0
     },
     {
-        "id": "258",
+        "value": "258",
         "name": "Mudkip",
         "hitPoints": 0,
         "attack": 1,
@@ -2930,7 +2930,7 @@
         "speed": 0
     },
     {
-        "id": "259",
+        "value": "259",
         "name": "Marshtomp",
         "hitPoints": 0,
         "attack": 2,
@@ -2940,7 +2940,7 @@
         "speed": 0
     },
     {
-        "id": "260",
+        "value": "260",
         "name": "Swampert",
         "hitPoints": 0,
         "attack": 3,
@@ -2950,7 +2950,7 @@
         "speed": 0
     },
     {
-        "id": "260M",
+        "value": "260M",
         "name": "Swampert (Mega Swampert)",
         "hitPoints": 0,
         "attack": 3,
@@ -2960,7 +2960,7 @@
         "speed": 0
     },
     {
-        "id": "261",
+        "value": "261",
         "name": "Poochyena",
         "hitPoints": 0,
         "attack": 1,
@@ -2970,7 +2970,7 @@
         "speed": 0
     },
     {
-        "id": "262",
+        "value": "262",
         "name": "Mightyena",
         "hitPoints": 0,
         "attack": 2,
@@ -2980,7 +2980,7 @@
         "speed": 0
     },
     {
-        "id": "263",
+        "value": "263",
         "name": "Zigzagoon",
         "hitPoints": 0,
         "attack": 0,
@@ -2990,7 +2990,7 @@
         "speed": 1
     },
     {
-        "id": "264",
+        "value": "264",
         "name": "Linoone",
         "hitPoints": 0,
         "attack": 0,
@@ -3000,7 +3000,7 @@
         "speed": 2
     },
     {
-        "id": "265",
+        "value": "265",
         "name": "Wurmple",
         "hitPoints": 1,
         "attack": 0,
@@ -3010,7 +3010,7 @@
         "speed": 0
     },
     {
-        "id": "266",
+        "value": "266",
         "name": "Silcoon",
         "hitPoints": 0,
         "attack": 0,
@@ -3020,7 +3020,7 @@
         "speed": 0
     },
     {
-        "id": "267",
+        "value": "267",
         "name": "Beautifly",
         "hitPoints": 0,
         "attack": 0,
@@ -3030,7 +3030,7 @@
         "speed": 0
     },
     {
-        "id": "268",
+        "value": "268",
         "name": "Cascoon",
         "hitPoints": 0,
         "attack": 0,
@@ -3040,7 +3040,7 @@
         "speed": 0
     },
     {
-        "id": "269",
+        "value": "269",
         "name": "Dustox",
         "hitPoints": 0,
         "attack": 0,
@@ -3050,7 +3050,7 @@
         "speed": 0
     },
     {
-        "id": "270",
+        "value": "270",
         "name": "Lotad",
         "hitPoints": 0,
         "attack": 0,
@@ -3060,7 +3060,7 @@
         "speed": 0
     },
     {
-        "id": "271",
+        "value": "271",
         "name": "Lombre",
         "hitPoints": 0,
         "attack": 0,
@@ -3070,7 +3070,7 @@
         "speed": 0
     },
     {
-        "id": "272",
+        "value": "272",
         "name": "Ludicolo",
         "hitPoints": 0,
         "attack": 0,
@@ -3080,7 +3080,7 @@
         "speed": 0
     },
     {
-        "id": "273",
+        "value": "273",
         "name": "Seedot",
         "hitPoints": 0,
         "attack": 0,
@@ -3090,7 +3090,7 @@
         "speed": 0
     },
     {
-        "id": "274",
+        "value": "274",
         "name": "Nuzleaf",
         "hitPoints": 0,
         "attack": 2,
@@ -3100,7 +3100,7 @@
         "speed": 0
     },
     {
-        "id": "275",
+        "value": "275",
         "name": "Shiftry",
         "hitPoints": 0,
         "attack": 3,
@@ -3110,7 +3110,7 @@
         "speed": 0
     },
     {
-        "id": "276",
+        "value": "276",
         "name": "Taillow",
         "hitPoints": 0,
         "attack": 0,
@@ -3120,7 +3120,7 @@
         "speed": 1
     },
     {
-        "id": "277",
+        "value": "277",
         "name": "Swellow",
         "hitPoints": 0,
         "attack": 0,
@@ -3130,7 +3130,7 @@
         "speed": 2
     },
     {
-        "id": "278",
+        "value": "278",
         "name": "Wingull",
         "hitPoints": 0,
         "attack": 0,
@@ -3140,7 +3140,7 @@
         "speed": 1
     },
     {
-        "id": "279",
+        "value": "279",
         "name": "Pelipper",
         "hitPoints": 0,
         "attack": 0,
@@ -3150,7 +3150,7 @@
         "speed": 0
     },
     {
-        "id": "280",
+        "value": "280",
         "name": "Ralts",
         "hitPoints": 0,
         "attack": 0,
@@ -3160,7 +3160,7 @@
         "speed": 0
     },
     {
-        "id": "281",
+        "value": "281",
         "name": "Kirlia",
         "hitPoints": 0,
         "attack": 0,
@@ -3170,7 +3170,7 @@
         "speed": 0
     },
     {
-        "id": "282",
+        "value": "282",
         "name": "Gardevoir",
         "hitPoints": 0,
         "attack": 0,
@@ -3180,7 +3180,7 @@
         "speed": 0
     },
     {
-        "id": "282M",
+        "value": "282M",
         "name": "Gardevoir (Mega Gardevoir)",
         "hitPoints": 0,
         "attack": 0,
@@ -3190,7 +3190,7 @@
         "speed": 0
     },
     {
-        "id": "283",
+        "value": "283",
         "name": "Surskit",
         "hitPoints": 0,
         "attack": 0,
@@ -3200,7 +3200,7 @@
         "speed": 1
     },
     {
-        "id": "284",
+        "value": "284",
         "name": "Masquerain",
         "hitPoints": 0,
         "attack": 0,
@@ -3210,7 +3210,7 @@
         "speed": 0
     },
     {
-        "id": "285",
+        "value": "285",
         "name": "Shroomish",
         "hitPoints": 1,
         "attack": 0,
@@ -3220,7 +3220,7 @@
         "speed": 0
     },
     {
-        "id": "286",
+        "value": "286",
         "name": "Breloom",
         "hitPoints": 0,
         "attack": 2,
@@ -3230,7 +3230,7 @@
         "speed": 0
     },
     {
-        "id": "287",
+        "value": "287",
         "name": "Slakoth",
         "hitPoints": 1,
         "attack": 0,
@@ -3240,7 +3240,7 @@
         "speed": 0
     },
     {
-        "id": "288",
+        "value": "288",
         "name": "Vigoroth",
         "hitPoints": 0,
         "attack": 0,
@@ -3250,7 +3250,7 @@
         "speed": 2
     },
     {
-        "id": "289",
+        "value": "289",
         "name": "Slaking",
         "hitPoints": 3,
         "attack": 0,
@@ -3260,7 +3260,7 @@
         "speed": 0
     },
     {
-        "id": "290",
+        "value": "290",
         "name": "Nincada",
         "hitPoints": 0,
         "attack": 0,
@@ -3270,7 +3270,7 @@
         "speed": 0
     },
     {
-        "id": "291",
+        "value": "291",
         "name": "Ninjask",
         "hitPoints": 0,
         "attack": 0,
@@ -3280,7 +3280,7 @@
         "speed": 2
     },
     {
-        "id": "292",
+        "value": "292",
         "name": "Shedinja",
         "hitPoints": 2,
         "attack": 0,
@@ -3290,7 +3290,7 @@
         "speed": 0
     },
     {
-        "id": "293",
+        "value": "293",
         "name": "Whismur",
         "hitPoints": 1,
         "attack": 0,
@@ -3300,7 +3300,7 @@
         "speed": 0
     },
     {
-        "id": "294",
+        "value": "294",
         "name": "Loudred",
         "hitPoints": 2,
         "attack": 0,
@@ -3310,7 +3310,7 @@
         "speed": 0
     },
     {
-        "id": "295",
+        "value": "295",
         "name": "Exploud",
         "hitPoints": 3,
         "attack": 0,
@@ -3320,7 +3320,7 @@
         "speed": 0
     },
     {
-        "id": "296",
+        "value": "296",
         "name": "Makuhita",
         "hitPoints": 1,
         "attack": 0,
@@ -3330,7 +3330,7 @@
         "speed": 0
     },
     {
-        "id": "297",
+        "value": "297",
         "name": "Hariyama",
         "hitPoints": 2,
         "attack": 0,
@@ -3340,7 +3340,7 @@
         "speed": 0
     },
     {
-        "id": "298",
+        "value": "298",
         "name": "Azurill",
         "hitPoints": 1,
         "attack": 0,
@@ -3350,7 +3350,7 @@
         "speed": 0
     },
     {
-        "id": "299",
+        "value": "299",
         "name": "Nosepass",
         "hitPoints": 0,
         "attack": 0,
@@ -3360,7 +3360,7 @@
         "speed": 0
     },
     {
-        "id": "300",
+        "value": "300",
         "name": "Skitty",
         "hitPoints": 0,
         "attack": 0,
@@ -3370,7 +3370,7 @@
         "speed": 1
     },
     {
-        "id": "301",
+        "value": "301",
         "name": "Delcatty",
         "hitPoints": 1,
         "attack": 0,
@@ -3380,7 +3380,7 @@
         "speed": 1
     },
     {
-        "id": "302",
+        "value": "302",
         "name": "Sableye",
         "hitPoints": 0,
         "attack": 1,
@@ -3390,7 +3390,7 @@
         "speed": 0
     },
     {
-        "id": "302M",
+        "value": "302M",
         "name": "Sableye (Mega Sableye)",
         "hitPoints": 0,
         "attack": 1,
@@ -3400,7 +3400,7 @@
         "speed": 0
     },
     {
-        "id": "303",
+        "value": "303",
         "name": "Mawile",
         "hitPoints": 0,
         "attack": 1,
@@ -3410,7 +3410,7 @@
         "speed": 0
     },
     {
-        "id": "303M",
+        "value": "303M",
         "name": "Mawile (Mega Mawile)",
         "hitPoints": 0,
         "attack": 1,
@@ -3420,7 +3420,7 @@
         "speed": 0
     },
     {
-        "id": "304",
+        "value": "304",
         "name": "Aron",
         "hitPoints": 0,
         "attack": 0,
@@ -3430,7 +3430,7 @@
         "speed": 0
     },
     {
-        "id": "305",
+        "value": "305",
         "name": "Lairon",
         "hitPoints": 0,
         "attack": 0,
@@ -3440,7 +3440,7 @@
         "speed": 0
     },
     {
-        "id": "306",
+        "value": "306",
         "name": "Aggron",
         "hitPoints": 0,
         "attack": 0,
@@ -3450,7 +3450,7 @@
         "speed": 0
     },
     {
-        "id": "306M",
+        "value": "306M",
         "name": "Aggron (Mega Aggron)",
         "hitPoints": 0,
         "attack": 0,
@@ -3460,7 +3460,7 @@
         "speed": 0
     },
     {
-        "id": "307",
+        "value": "307",
         "name": "Meditite",
         "hitPoints": 0,
         "attack": 0,
@@ -3470,7 +3470,7 @@
         "speed": 1
     },
     {
-        "id": "308",
+        "value": "308",
         "name": "Medicham",
         "hitPoints": 0,
         "attack": 0,
@@ -3480,7 +3480,7 @@
         "speed": 2
     },
     {
-        "id": "308M",
+        "value": "308M",
         "name": "Medicham (Mega Medicham)",
         "hitPoints": 0,
         "attack": 0,
@@ -3490,7 +3490,7 @@
         "speed": 2
     },
     {
-        "id": "309",
+        "value": "309",
         "name": "Electrike",
         "hitPoints": 0,
         "attack": 0,
@@ -3500,7 +3500,7 @@
         "speed": 1
     },
     {
-        "id": "310",
+        "value": "310",
         "name": "Manectric",
         "hitPoints": 0,
         "attack": 0,
@@ -3510,7 +3510,7 @@
         "speed": 2
     },
     {
-        "id": "310M",
+        "value": "310M",
         "name": "Manectric (Mega Manectric)",
         "hitPoints": 0,
         "attack": 0,
@@ -3520,7 +3520,7 @@
         "speed": 2
     },
     {
-        "id": "311",
+        "value": "311",
         "name": "Plusle",
         "hitPoints": 0,
         "attack": 0,
@@ -3530,7 +3530,7 @@
         "speed": 1
     },
     {
-        "id": "312",
+        "value": "312",
         "name": "Minun",
         "hitPoints": 0,
         "attack": 0,
@@ -3540,7 +3540,7 @@
         "speed": 1
     },
     {
-        "id": "313",
+        "value": "313",
         "name": "Volbeat",
         "hitPoints": 0,
         "attack": 0,
@@ -3550,7 +3550,7 @@
         "speed": 1
     },
     {
-        "id": "314",
+        "value": "314",
         "name": "Illumise",
         "hitPoints": 0,
         "attack": 0,
@@ -3560,7 +3560,7 @@
         "speed": 1
     },
     {
-        "id": "315",
+        "value": "315",
         "name": "Roselia",
         "hitPoints": 0,
         "attack": 0,
@@ -3570,7 +3570,7 @@
         "speed": 0
     },
     {
-        "id": "316",
+        "value": "316",
         "name": "Gulpin",
         "hitPoints": 1,
         "attack": 0,
@@ -3580,7 +3580,7 @@
         "speed": 0
     },
     {
-        "id": "317",
+        "value": "317",
         "name": "Swalot",
         "hitPoints": 2,
         "attack": 0,
@@ -3590,7 +3590,7 @@
         "speed": 0
     },
     {
-        "id": "318",
+        "value": "318",
         "name": "Carvanha",
         "hitPoints": 0,
         "attack": 1,
@@ -3600,7 +3600,7 @@
         "speed": 0
     },
     {
-        "id": "319",
+        "value": "319",
         "name": "Sharpedo",
         "hitPoints": 0,
         "attack": 2,
@@ -3610,7 +3610,7 @@
         "speed": 0
     },
     {
-        "id": "319M",
+        "value": "319M",
         "name": "Sharpedo (Mega Sharpedo)",
         "hitPoints": 0,
         "attack": 2,
@@ -3620,7 +3620,7 @@
         "speed": 0
     },
     {
-        "id": "320",
+        "value": "320",
         "name": "Wailmer",
         "hitPoints": 1,
         "attack": 0,
@@ -3630,7 +3630,7 @@
         "speed": 0
     },
     {
-        "id": "321",
+        "value": "321",
         "name": "Wailord",
         "hitPoints": 2,
         "attack": 0,
@@ -3640,7 +3640,7 @@
         "speed": 0
     },
     {
-        "id": "322",
+        "value": "322",
         "name": "Numel",
         "hitPoints": 0,
         "attack": 0,
@@ -3650,7 +3650,7 @@
         "speed": 0
     },
     {
-        "id": "323",
+        "value": "323",
         "name": "Camerupt",
         "hitPoints": 0,
         "attack": 1,
@@ -3660,7 +3660,7 @@
         "speed": 0
     },
     {
-        "id": "323M",
+        "value": "323M",
         "name": "Camerupt (Mega Camerupt)",
         "hitPoints": 0,
         "attack": 1,
@@ -3670,7 +3670,7 @@
         "speed": 0
     },
     {
-        "id": "324",
+        "value": "324",
         "name": "Torkoal",
         "hitPoints": 0,
         "attack": 0,
@@ -3680,7 +3680,7 @@
         "speed": 0
     },
     {
-        "id": "325",
+        "value": "325",
         "name": "Spoink",
         "hitPoints": 0,
         "attack": 0,
@@ -3690,7 +3690,7 @@
         "speed": 0
     },
     {
-        "id": "326",
+        "value": "326",
         "name": "Grumpig",
         "hitPoints": 0,
         "attack": 0,
@@ -3700,7 +3700,7 @@
         "speed": 0
     },
     {
-        "id": "327",
+        "value": "327",
         "name": "Spinda",
         "hitPoints": 0,
         "attack": 0,
@@ -3710,7 +3710,7 @@
         "speed": 0
     },
     {
-        "id": "328",
+        "value": "328",
         "name": "Trapinch",
         "hitPoints": 0,
         "attack": 1,
@@ -3720,7 +3720,7 @@
         "speed": 0
     },
     {
-        "id": "329",
+        "value": "329",
         "name": "Vibrava",
         "hitPoints": 0,
         "attack": 1,
@@ -3730,7 +3730,7 @@
         "speed": 1
     },
     {
-        "id": "330",
+        "value": "330",
         "name": "Flygon",
         "hitPoints": 0,
         "attack": 1,
@@ -3740,7 +3740,7 @@
         "speed": 2
     },
     {
-        "id": "331",
+        "value": "331",
         "name": "Cacnea",
         "hitPoints": 0,
         "attack": 0,
@@ -3750,7 +3750,7 @@
         "speed": 0
     },
     {
-        "id": "332",
+        "value": "332",
         "name": "Cacturne",
         "hitPoints": 0,
         "attack": 1,
@@ -3760,7 +3760,7 @@
         "speed": 0
     },
     {
-        "id": "333",
+        "value": "333",
         "name": "Swablu",
         "hitPoints": 0,
         "attack": 0,
@@ -3770,7 +3770,7 @@
         "speed": 0
     },
     {
-        "id": "334",
+        "value": "334",
         "name": "Altaria",
         "hitPoints": 0,
         "attack": 0,
@@ -3780,7 +3780,7 @@
         "speed": 0
     },
     {
-        "id": "334M",
+        "value": "334M",
         "name": "Altaria (Mega Altaria)",
         "hitPoints": 0,
         "attack": 0,
@@ -3790,7 +3790,7 @@
         "speed": 0
     },
     {
-        "id": "335",
+        "value": "335",
         "name": "Zangoose",
         "hitPoints": 0,
         "attack": 2,
@@ -3800,7 +3800,7 @@
         "speed": 0
     },
     {
-        "id": "336",
+        "value": "336",
         "name": "Seviper",
         "hitPoints": 0,
         "attack": 1,
@@ -3810,7 +3810,7 @@
         "speed": 0
     },
     {
-        "id": "337",
+        "value": "337",
         "name": "Lunatone",
         "hitPoints": 0,
         "attack": 0,
@@ -3820,7 +3820,7 @@
         "speed": 0
     },
     {
-        "id": "338",
+        "value": "338",
         "name": "Solrock",
         "hitPoints": 0,
         "attack": 2,
@@ -3830,7 +3830,7 @@
         "speed": 0
     },
     {
-        "id": "339",
+        "value": "339",
         "name": "Barboach",
         "hitPoints": 1,
         "attack": 0,
@@ -3840,7 +3840,7 @@
         "speed": 0
     },
     {
-        "id": "340",
+        "value": "340",
         "name": "Whiscash",
         "hitPoints": 2,
         "attack": 0,
@@ -3850,7 +3850,7 @@
         "speed": 0
     },
     {
-        "id": "341",
+        "value": "341",
         "name": "Corphish",
         "hitPoints": 0,
         "attack": 1,
@@ -3860,7 +3860,7 @@
         "speed": 0
     },
     {
-        "id": "342",
+        "value": "342",
         "name": "Crawdaunt",
         "hitPoints": 0,
         "attack": 2,
@@ -3870,7 +3870,7 @@
         "speed": 0
     },
     {
-        "id": "343",
+        "value": "343",
         "name": "Baltoy",
         "hitPoints": 0,
         "attack": 0,
@@ -3880,7 +3880,7 @@
         "speed": 0
     },
     {
-        "id": "344",
+        "value": "344",
         "name": "Claydol",
         "hitPoints": 0,
         "attack": 0,
@@ -3890,7 +3890,7 @@
         "speed": 0
     },
     {
-        "id": "345",
+        "value": "345",
         "name": "Lileep",
         "hitPoints": 0,
         "attack": 0,
@@ -3900,7 +3900,7 @@
         "speed": 0
     },
     {
-        "id": "346",
+        "value": "346",
         "name": "Cradily",
         "hitPoints": 0,
         "attack": 0,
@@ -3910,7 +3910,7 @@
         "speed": 0
     },
     {
-        "id": "347",
+        "value": "347",
         "name": "Anorith",
         "hitPoints": 0,
         "attack": 1,
@@ -3920,7 +3920,7 @@
         "speed": 0
     },
     {
-        "id": "348",
+        "value": "348",
         "name": "Armaldo",
         "hitPoints": 0,
         "attack": 2,
@@ -3930,7 +3930,7 @@
         "speed": 0
     },
     {
-        "id": "349",
+        "value": "349",
         "name": "Feebas",
         "hitPoints": 0,
         "attack": 0,
@@ -3940,7 +3940,7 @@
         "speed": 1
     },
     {
-        "id": "350",
+        "value": "350",
         "name": "Milotic",
         "hitPoints": 0,
         "attack": 0,
@@ -3950,7 +3950,7 @@
         "speed": 0
     },
     {
-        "id": "351",
+        "value": "351",
         "name": "Castform",
         "hitPoints": 1,
         "attack": 0,
@@ -3960,7 +3960,7 @@
         "speed": 0
     },
     {
-        "id": "352",
+        "value": "352",
         "name": "Kecleon",
         "hitPoints": 0,
         "attack": 0,
@@ -3970,7 +3970,7 @@
         "speed": 0
     },
     {
-        "id": "353",
+        "value": "353",
         "name": "Shuppet",
         "hitPoints": 0,
         "attack": 1,
@@ -3980,7 +3980,7 @@
         "speed": 0
     },
     {
-        "id": "354",
+        "value": "354",
         "name": "Banette",
         "hitPoints": 0,
         "attack": 2,
@@ -3990,7 +3990,7 @@
         "speed": 0
     },
     {
-        "id": "354M",
+        "value": "354M",
         "name": "Banette (Mega Banette)",
         "hitPoints": 0,
         "attack": 2,
@@ -4000,7 +4000,7 @@
         "speed": 0
     },
     {
-        "id": "355",
+        "value": "355",
         "name": "Duskull",
         "hitPoints": 0,
         "attack": 0,
@@ -4010,7 +4010,7 @@
         "speed": 0
     },
     {
-        "id": "356",
+        "value": "356",
         "name": "Dusclops",
         "hitPoints": 0,
         "attack": 0,
@@ -4020,7 +4020,7 @@
         "speed": 0
     },
     {
-        "id": "357",
+        "value": "357",
         "name": "Tropius",
         "hitPoints": 2,
         "attack": 0,
@@ -4030,7 +4030,7 @@
         "speed": 0
     },
     {
-        "id": "358",
+        "value": "358",
         "name": "Chimecho",
         "hitPoints": 0,
         "attack": 0,
@@ -4040,7 +4040,7 @@
         "speed": 0
     },
     {
-        "id": "359",
+        "value": "359",
         "name": "Absol",
         "hitPoints": 0,
         "attack": 2,
@@ -4050,7 +4050,7 @@
         "speed": 0
     },
     {
-        "id": "359M",
+        "value": "359M",
         "name": "Absol (Mega Absol)",
         "hitPoints": 0,
         "attack": 2,
@@ -4060,7 +4060,7 @@
         "speed": 0
     },
     {
-        "id": "360",
+        "value": "360",
         "name": "Wynaut",
         "hitPoints": 1,
         "attack": 0,
@@ -4070,7 +4070,7 @@
         "speed": 0
     },
     {
-        "id": "361",
+        "value": "361",
         "name": "Snorunt",
         "hitPoints": 1,
         "attack": 0,
@@ -4080,7 +4080,7 @@
         "speed": 0
     },
     {
-        "id": "362",
+        "value": "362",
         "name": "Glalie",
         "hitPoints": 2,
         "attack": 0,
@@ -4090,7 +4090,7 @@
         "speed": 0
     },
     {
-        "id": "362M",
+        "value": "362M",
         "name": "Glalie (Mega Glalie)",
         "hitPoints": 2,
         "attack": 0,
@@ -4100,7 +4100,7 @@
         "speed": 0
     },
     {
-        "id": "363",
+        "value": "363",
         "name": "Spheal",
         "hitPoints": 1,
         "attack": 0,
@@ -4110,7 +4110,7 @@
         "speed": 0
     },
     {
-        "id": "364",
+        "value": "364",
         "name": "Sealeo",
         "hitPoints": 2,
         "attack": 0,
@@ -4120,7 +4120,7 @@
         "speed": 0
     },
     {
-        "id": "365",
+        "value": "365",
         "name": "Walrein",
         "hitPoints": 3,
         "attack": 0,
@@ -4130,7 +4130,7 @@
         "speed": 0
     },
     {
-        "id": "366",
+        "value": "366",
         "name": "Clamperl",
         "hitPoints": 0,
         "attack": 0,
@@ -4140,7 +4140,7 @@
         "speed": 0
     },
     {
-        "id": "367",
+        "value": "367",
         "name": "Huntail",
         "hitPoints": 0,
         "attack": 1,
@@ -4150,7 +4150,7 @@
         "speed": 0
     },
     {
-        "id": "368",
+        "value": "368",
         "name": "Gorebyss",
         "hitPoints": 0,
         "attack": 0,
@@ -4160,7 +4160,7 @@
         "speed": 0
     },
     {
-        "id": "369",
+        "value": "369",
         "name": "Relicanth",
         "hitPoints": 1,
         "attack": 0,
@@ -4170,7 +4170,7 @@
         "speed": 0
     },
     {
-        "id": "370",
+        "value": "370",
         "name": "Luvdisc",
         "hitPoints": 0,
         "attack": 0,
@@ -4180,7 +4180,7 @@
         "speed": 1
     },
     {
-        "id": "371",
+        "value": "371",
         "name": "Bagon",
         "hitPoints": 0,
         "attack": 1,
@@ -4190,7 +4190,7 @@
         "speed": 0
     },
     {
-        "id": "372",
+        "value": "372",
         "name": "Shelgon",
         "hitPoints": 0,
         "attack": 0,
@@ -4200,7 +4200,7 @@
         "speed": 0
     },
     {
-        "id": "373",
+        "value": "373",
         "name": "Salamence",
         "hitPoints": 0,
         "attack": 3,
@@ -4210,7 +4210,7 @@
         "speed": 0
     },
     {
-        "id": "373M",
+        "value": "373M",
         "name": "Salamence (Mega Salamence)",
         "hitPoints": 0,
         "attack": 3,
@@ -4220,7 +4220,7 @@
         "speed": 0
     },
     {
-        "id": "374",
+        "value": "374",
         "name": "Beldum",
         "hitPoints": 0,
         "attack": 0,
@@ -4230,7 +4230,7 @@
         "speed": 0
     },
     {
-        "id": "375",
+        "value": "375",
         "name": "Metang",
         "hitPoints": 0,
         "attack": 0,
@@ -4240,7 +4240,7 @@
         "speed": 0
     },
     {
-        "id": "376",
+        "value": "376",
         "name": "Metagross",
         "hitPoints": 0,
         "attack": 0,
@@ -4250,7 +4250,7 @@
         "speed": 0
     },
     {
-        "id": "376M",
+        "value": "376M",
         "name": "Metagross (Mega Metagross)",
         "hitPoints": 0,
         "attack": 0,
@@ -4260,7 +4260,7 @@
         "speed": 0
     },
     {
-        "id": "377",
+        "value": "377",
         "name": "Regirock",
         "hitPoints": 0,
         "attack": 0,
@@ -4270,7 +4270,7 @@
         "speed": 0
     },
     {
-        "id": "378",
+        "value": "378",
         "name": "Regice",
         "hitPoints": 0,
         "attack": 0,
@@ -4280,7 +4280,7 @@
         "speed": 0
     },
     {
-        "id": "379",
+        "value": "379",
         "name": "Registeel",
         "hitPoints": 0,
         "attack": 0,
@@ -4290,7 +4290,7 @@
         "speed": 0
     },
     {
-        "id": "380",
+        "value": "380",
         "name": "Latias",
         "hitPoints": 0,
         "attack": 0,
@@ -4300,7 +4300,7 @@
         "speed": 0
     },
     {
-        "id": "380M",
+        "value": "380M",
         "name": "Latias (Mega Latias)",
         "hitPoints": 0,
         "attack": 0,
@@ -4310,7 +4310,7 @@
         "speed": 0
     },
     {
-        "id": "381",
+        "value": "381",
         "name": "Latios",
         "hitPoints": 0,
         "attack": 0,
@@ -4320,7 +4320,7 @@
         "speed": 0
     },
     {
-        "id": "381M",
+        "value": "381M",
         "name": "Latios (Mega Latios)",
         "hitPoints": 0,
         "attack": 0,
@@ -4330,7 +4330,7 @@
         "speed": 0
     },
     {
-        "id": "382",
+        "value": "382",
         "name": "Kyogre",
         "hitPoints": 0,
         "attack": 0,
@@ -4340,7 +4340,7 @@
         "speed": 0
     },
     {
-        "id": "382P",
+        "value": "382P",
         "name": "Kyogre (Primal Reversion)",
         "hitPoints": 0,
         "attack": 0,
@@ -4350,7 +4350,7 @@
         "speed": 0
     },
     {
-        "id": "383",
+        "value": "383",
         "name": "Groudon",
         "hitPoints": 0,
         "attack": 3,
@@ -4360,7 +4360,7 @@
         "speed": 0
     },
     {
-        "id": "383P",
+        "value": "383P",
         "name": "Groudon (Primal Reversion)",
         "hitPoints": 0,
         "attack": 3,
@@ -4370,7 +4370,7 @@
         "speed": 0
     },
     {
-        "id": "384",
+        "value": "384",
         "name": "Rayquaza",
         "hitPoints": 0,
         "attack": 2,
@@ -4380,7 +4380,7 @@
         "speed": 0
     },
     {
-        "id": "384M",
+        "value": "384M",
         "name": "Rayquaza (Mega Rayquaza)",
         "hitPoints": 0,
         "attack": 2,
@@ -4390,7 +4390,7 @@
         "speed": 0
     },
     {
-        "id": "385",
+        "value": "385",
         "name": "Jirachi",
         "hitPoints": 3,
         "attack": 0,
@@ -4400,7 +4400,7 @@
         "speed": 0
     },
     {
-        "id": "386",
+        "value": "386N",
         "name": "Deoxys (Normal Forme)",
         "hitPoints": 0,
         "attack": 1,
@@ -4410,7 +4410,7 @@
         "speed": 1
     },
     {
-        "id": "386",
+        "value": "386A",
         "name": "Deoxys (Attack Forme)",
         "hitPoints": 0,
         "attack": 2,
@@ -4420,7 +4420,7 @@
         "speed": 0
     },
     {
-        "id": "386",
+        "value": "386D",
         "name": "Deoxys (Defense Forme)",
         "hitPoints": 0,
         "attack": 0,
@@ -4430,7 +4430,7 @@
         "speed": 0
     },
     {
-        "id": "386",
+        "value": "386S",
         "name": "Deoxys (Speed Forme)",
         "hitPoints": 0,
         "attack": 0,
@@ -4440,7 +4440,7 @@
         "speed": 3
     },
     {
-        "id": "387",
+        "value": "387",
         "name": "Turtwig",
         "hitPoints": 0,
         "attack": 1,
@@ -4450,7 +4450,7 @@
         "speed": 0
     },
     {
-        "id": "388",
+        "value": "388",
         "name": "Grotle",
         "hitPoints": 0,
         "attack": 1,
@@ -4460,7 +4460,7 @@
         "speed": 0
     },
     {
-        "id": "389",
+        "value": "389",
         "name": "Torterra",
         "hitPoints": 0,
         "attack": 2,
@@ -4470,7 +4470,7 @@
         "speed": 0
     },
     {
-        "id": "390",
+        "value": "390",
         "name": "Chimchar",
         "hitPoints": 0,
         "attack": 0,
@@ -4480,7 +4480,7 @@
         "speed": 1
     },
     {
-        "id": "391",
+        "value": "391",
         "name": "Monferno",
         "hitPoints": 0,
         "attack": 0,
@@ -4490,7 +4490,7 @@
         "speed": 1
     },
     {
-        "id": "392",
+        "value": "392",
         "name": "Infernape",
         "hitPoints": 0,
         "attack": 1,
@@ -4500,7 +4500,7 @@
         "speed": 1
     },
     {
-        "id": "393",
+        "value": "393",
         "name": "Piplup",
         "hitPoints": 0,
         "attack": 0,
@@ -4510,7 +4510,7 @@
         "speed": 0
     },
     {
-        "id": "394",
+        "value": "394",
         "name": "Prinplup",
         "hitPoints": 0,
         "attack": 0,
@@ -4520,7 +4520,7 @@
         "speed": 0
     },
     {
-        "id": "395",
+        "value": "395",
         "name": "Empoleon",
         "hitPoints": 0,
         "attack": 0,
@@ -4530,7 +4530,7 @@
         "speed": 0
     },
     {
-        "id": "396",
+        "value": "396",
         "name": "Starly",
         "hitPoints": 0,
         "attack": 0,
@@ -4540,7 +4540,7 @@
         "speed": 1
     },
     {
-        "id": "397",
+        "value": "397",
         "name": "Staravia",
         "hitPoints": 0,
         "attack": 0,
@@ -4550,7 +4550,7 @@
         "speed": 2
     },
     {
-        "id": "398",
+        "value": "398",
         "name": "Staraptor",
         "hitPoints": 0,
         "attack": 3,
@@ -4560,8 +4560,8 @@
         "speed": 0
     },
     {
-        "id": "399",
-        "name": "Bidoof",
+        "value": "399",
+        "name": "Bvalueoof",
         "hitPoints": 1,
         "attack": 0,
         "defense": 0,
@@ -4570,7 +4570,7 @@
         "speed": 0
     },
     {
-        "id": "400",
+        "value": "400",
         "name": "Bibarel",
         "hitPoints": 0,
         "attack": 2,
@@ -4580,7 +4580,7 @@
         "speed": 0
     },
     {
-        "id": "401",
+        "value": "401",
         "name": "Kricketot",
         "hitPoints": 0,
         "attack": 0,
@@ -4590,7 +4590,7 @@
         "speed": 0
     },
     {
-        "id": "402",
+        "value": "402",
         "name": "Kricketune",
         "hitPoints": 0,
         "attack": 2,
@@ -4600,7 +4600,7 @@
         "speed": 0
     },
     {
-        "id": "403",
+        "value": "403",
         "name": "Shinx",
         "hitPoints": 0,
         "attack": 1,
@@ -4610,7 +4610,7 @@
         "speed": 0
     },
     {
-        "id": "404",
+        "value": "404",
         "name": "Luxio",
         "hitPoints": 0,
         "attack": 2,
@@ -4620,7 +4620,7 @@
         "speed": 0
     },
     {
-        "id": "405",
+        "value": "405",
         "name": "Luxray",
         "hitPoints": 0,
         "attack": 3,
@@ -4630,7 +4630,7 @@
         "speed": 0
     },
     {
-        "id": "406",
+        "value": "406",
         "name": "Budew",
         "hitPoints": 0,
         "attack": 0,
@@ -4640,7 +4640,7 @@
         "speed": 0
     },
     {
-        "id": "407",
+        "value": "407",
         "name": "Roserade",
         "hitPoints": 0,
         "attack": 0,
@@ -4650,8 +4650,8 @@
         "speed": 0
     },
     {
-        "id": "408",
-        "name": "Cranidos",
+        "value": "408",
+        "name": "Cranvalueos",
         "hitPoints": 0,
         "attack": 1,
         "defense": 0,
@@ -4660,7 +4660,7 @@
         "speed": 0
     },
     {
-        "id": "409",
+        "value": "409",
         "name": "Rampardos",
         "hitPoints": 0,
         "attack": 2,
@@ -4670,7 +4670,7 @@
         "speed": 0
     },
     {
-        "id": "410",
+        "value": "410",
         "name": "Shieldon",
         "hitPoints": 0,
         "attack": 0,
@@ -4680,7 +4680,7 @@
         "speed": 0
     },
     {
-        "id": "411",
+        "value": "411",
         "name": "Bastiodon",
         "hitPoints": 0,
         "attack": 0,
@@ -4690,7 +4690,7 @@
         "speed": 0
     },
     {
-        "id": "412",
+        "value": "412",
         "name": "Burmy",
         "hitPoints": 0,
         "attack": 0,
@@ -4700,7 +4700,7 @@
         "speed": 0
     },
     {
-        "id": "413",
+        "value": "413P",
         "name": "Wormadam (Plant Cloak)",
         "hitPoints": 0,
         "attack": 0,
@@ -4710,7 +4710,7 @@
         "speed": 0
     },
     {
-        "id": "413",
+        "value": "413S",
         "name": "Wormadam (Sandy Cloak)",
         "hitPoints": 0,
         "attack": 0,
@@ -4720,7 +4720,7 @@
         "speed": 0
     },
     {
-        "id": "413",
+        "value": "413T",
         "name": "Wormadam (Trash Cloak)",
         "hitPoints": 0,
         "attack": 0,
@@ -4730,7 +4730,7 @@
         "speed": 0
     },
     {
-        "id": "414",
+        "value": "414",
         "name": "Mothim",
         "hitPoints": 0,
         "attack": 1,
@@ -4740,7 +4740,7 @@
         "speed": 0
     },
     {
-        "id": "415",
+        "value": "415",
         "name": "Combee",
         "hitPoints": 0,
         "attack": 0,
@@ -4750,7 +4750,7 @@
         "speed": 1
     },
     {
-        "id": "416",
+        "value": "416",
         "name": "Vespiquen",
         "hitPoints": 0,
         "attack": 0,
@@ -4760,7 +4760,7 @@
         "speed": 0
     },
     {
-        "id": "417",
+        "value": "417",
         "name": "Pachirisu",
         "hitPoints": 0,
         "attack": 0,
@@ -4770,7 +4770,7 @@
         "speed": 1
     },
     {
-        "id": "418",
+        "value": "418",
         "name": "Buizel",
         "hitPoints": 0,
         "attack": 0,
@@ -4780,7 +4780,7 @@
         "speed": 1
     },
     {
-        "id": "419",
+        "value": "419",
         "name": "Floatzel",
         "hitPoints": 0,
         "attack": 0,
@@ -4790,7 +4790,7 @@
         "speed": 2
     },
     {
-        "id": "420",
+        "value": "420",
         "name": "Cherubi",
         "hitPoints": 0,
         "attack": 0,
@@ -4800,7 +4800,7 @@
         "speed": 0
     },
     {
-        "id": "421",
+        "value": "421",
         "name": "Cherrim",
         "hitPoints": 0,
         "attack": 0,
@@ -4810,7 +4810,7 @@
         "speed": 0
     },
     {
-        "id": "422",
+        "value": "422",
         "name": "Shellos",
         "hitPoints": 1,
         "attack": 0,
@@ -4820,7 +4820,7 @@
         "speed": 0
     },
     {
-        "id": "423",
+        "value": "423",
         "name": "Gastrodon",
         "hitPoints": 2,
         "attack": 0,
@@ -4830,7 +4830,7 @@
         "speed": 0
     },
     {
-        "id": "424",
+        "value": "424",
         "name": "Ambipom",
         "hitPoints": 0,
         "attack": 0,
@@ -4840,7 +4840,7 @@
         "speed": 2
     },
     {
-        "id": "425",
+        "value": "425",
         "name": "Drifloon",
         "hitPoints": 1,
         "attack": 0,
@@ -4850,7 +4850,7 @@
         "speed": 0
     },
     {
-        "id": "426",
+        "value": "426",
         "name": "Drifblim",
         "hitPoints": 2,
         "attack": 0,
@@ -4860,7 +4860,7 @@
         "speed": 0
     },
     {
-        "id": "427",
+        "value": "427",
         "name": "Buneary",
         "hitPoints": 0,
         "attack": 0,
@@ -4870,7 +4870,7 @@
         "speed": 1
     },
     {
-        "id": "428",
+        "value": "428",
         "name": "Lopunny",
         "hitPoints": 0,
         "attack": 0,
@@ -4880,7 +4880,7 @@
         "speed": 2
     },
     {
-        "id": "428M",
+        "value": "428M",
         "name": "Lopunny (Mega Lopunny)",
         "hitPoints": 0,
         "attack": 0,
@@ -4890,7 +4890,7 @@
         "speed": 2
     },
     {
-        "id": "429",
+        "value": "429",
         "name": "Mismagius",
         "hitPoints": 0,
         "attack": 0,
@@ -4900,7 +4900,7 @@
         "speed": 0
     },
     {
-        "id": "430",
+        "value": "430",
         "name": "Honchkrow",
         "hitPoints": 0,
         "attack": 2,
@@ -4910,7 +4910,7 @@
         "speed": 0
     },
     {
-        "id": "431",
+        "value": "431",
         "name": "Glameow",
         "hitPoints": 0,
         "attack": 0,
@@ -4920,7 +4920,7 @@
         "speed": 1
     },
     {
-        "id": "432",
+        "value": "432",
         "name": "Purugly",
         "hitPoints": 0,
         "attack": 0,
@@ -4930,7 +4930,7 @@
         "speed": 2
     },
     {
-        "id": "433",
+        "value": "433",
         "name": "Chingling",
         "hitPoints": 0,
         "attack": 0,
@@ -4940,7 +4940,7 @@
         "speed": 0
     },
     {
-        "id": "434",
+        "value": "434",
         "name": "Stunky",
         "hitPoints": 0,
         "attack": 0,
@@ -4950,7 +4950,7 @@
         "speed": 1
     },
     {
-        "id": "435",
+        "value": "435",
         "name": "Skuntank",
         "hitPoints": 2,
         "attack": 0,
@@ -4960,7 +4960,7 @@
         "speed": 0
     },
     {
-        "id": "436",
+        "value": "436",
         "name": "Bronzor",
         "hitPoints": 0,
         "attack": 0,
@@ -4970,7 +4970,7 @@
         "speed": 0
     },
     {
-        "id": "437",
+        "value": "437",
         "name": "Bronzong",
         "hitPoints": 0,
         "attack": 0,
@@ -4980,7 +4980,7 @@
         "speed": 0
     },
     {
-        "id": "438",
+        "value": "438",
         "name": "Bonsly",
         "hitPoints": 0,
         "attack": 0,
@@ -4990,7 +4990,7 @@
         "speed": 0
     },
     {
-        "id": "439",
+        "value": "439",
         "name": "Mime Jr.",
         "hitPoints": 0,
         "attack": 0,
@@ -5000,7 +5000,7 @@
         "speed": 0
     },
     {
-        "id": "440",
+        "value": "440",
         "name": "Happiny",
         "hitPoints": 1,
         "attack": 0,
@@ -5010,7 +5010,7 @@
         "speed": 0
     },
     {
-        "id": "441",
+        "value": "441",
         "name": "Chatot",
         "hitPoints": 0,
         "attack": 1,
@@ -5020,7 +5020,7 @@
         "speed": 0
     },
     {
-        "id": "442",
+        "value": "442",
         "name": "Spiritomb",
         "hitPoints": 0,
         "attack": 0,
@@ -5030,7 +5030,7 @@
         "speed": 0
     },
     {
-        "id": "443",
+        "value": "443",
         "name": "Gible",
         "hitPoints": 0,
         "attack": 1,
@@ -5040,7 +5040,7 @@
         "speed": 0
     },
     {
-        "id": "444",
+        "value": "444",
         "name": "Gabite",
         "hitPoints": 0,
         "attack": 2,
@@ -5050,7 +5050,7 @@
         "speed": 0
     },
     {
-        "id": "445",
+        "value": "445",
         "name": "Garchomp",
         "hitPoints": 0,
         "attack": 3,
@@ -5060,7 +5060,7 @@
         "speed": 0
     },
     {
-        "id": "445M",
+        "value": "445M",
         "name": "Garchomp (Mega Garchomp)",
         "hitPoints": 0,
         "attack": 3,
@@ -5070,7 +5070,7 @@
         "speed": 0
     },
     {
-        "id": "446",
+        "value": "446",
         "name": "Munchlax",
         "hitPoints": 1,
         "attack": 0,
@@ -5080,7 +5080,7 @@
         "speed": 0
     },
     {
-        "id": "447",
+        "value": "447",
         "name": "Riolu",
         "hitPoints": 0,
         "attack": 1,
@@ -5090,7 +5090,7 @@
         "speed": 0
     },
     {
-        "id": "448",
+        "value": "448",
         "name": "Lucario",
         "hitPoints": 0,
         "attack": 1,
@@ -5100,7 +5100,7 @@
         "speed": 0
     },
     {
-        "id": "448M",
+        "value": "448M",
         "name": "Lucario (Mega Lucario)",
         "hitPoints": 0,
         "attack": 1,
@@ -5110,7 +5110,7 @@
         "speed": 0
     },
     {
-        "id": "449",
+        "value": "449",
         "name": "Hippopotas",
         "hitPoints": 0,
         "attack": 0,
@@ -5120,7 +5120,7 @@
         "speed": 0
     },
     {
-        "id": "450",
+        "value": "450",
         "name": "Hippowdon",
         "hitPoints": 0,
         "attack": 0,
@@ -5130,7 +5130,7 @@
         "speed": 0
     },
     {
-        "id": "451",
+        "value": "451",
         "name": "Skorupi",
         "hitPoints": 0,
         "attack": 0,
@@ -5140,7 +5140,7 @@
         "speed": 0
     },
     {
-        "id": "452",
+        "value": "452",
         "name": "Drapion",
         "hitPoints": 0,
         "attack": 0,
@@ -5150,7 +5150,7 @@
         "speed": 0
     },
     {
-        "id": "453",
+        "value": "453",
         "name": "Croagunk",
         "hitPoints": 0,
         "attack": 1,
@@ -5160,7 +5160,7 @@
         "speed": 0
     },
     {
-        "id": "454",
+        "value": "454",
         "name": "Toxicroak",
         "hitPoints": 0,
         "attack": 2,
@@ -5170,7 +5170,7 @@
         "speed": 0
     },
     {
-        "id": "455",
+        "value": "455",
         "name": "Carnivine",
         "hitPoints": 0,
         "attack": 2,
@@ -5180,7 +5180,7 @@
         "speed": 0
     },
     {
-        "id": "456",
+        "value": "456",
         "name": "Finneon",
         "hitPoints": 0,
         "attack": 0,
@@ -5190,7 +5190,7 @@
         "speed": 1
     },
     {
-        "id": "457",
+        "value": "457",
         "name": "Lumineon",
         "hitPoints": 0,
         "attack": 0,
@@ -5200,7 +5200,7 @@
         "speed": 2
     },
     {
-        "id": "458",
+        "value": "458",
         "name": "Mantyke",
         "hitPoints": 0,
         "attack": 0,
@@ -5210,7 +5210,7 @@
         "speed": 0
     },
     {
-        "id": "459",
+        "value": "459",
         "name": "Snover",
         "hitPoints": 0,
         "attack": 1,
@@ -5220,7 +5220,7 @@
         "speed": 0
     },
     {
-        "id": "460",
+        "value": "460",
         "name": "Abomasnow",
         "hitPoints": 0,
         "attack": 1,
@@ -5230,7 +5230,7 @@
         "speed": 0
     },
     {
-        "id": "460M",
+        "value": "460M",
         "name": "Abomasnow (Mega Abomasnow)",
         "hitPoints": 0,
         "attack": 1,
@@ -5240,7 +5240,7 @@
         "speed": 0
     },
     {
-        "id": "461",
+        "value": "461",
         "name": "Weavile",
         "hitPoints": 0,
         "attack": 1,
@@ -5250,7 +5250,7 @@
         "speed": 1
     },
     {
-        "id": "462",
+        "value": "462",
         "name": "Magnezone",
         "hitPoints": 0,
         "attack": 0,
@@ -5260,7 +5260,7 @@
         "speed": 0
     },
     {
-        "id": "463",
+        "value": "463",
         "name": "Lickilicky",
         "hitPoints": 3,
         "attack": 0,
@@ -5270,7 +5270,7 @@
         "speed": 0
     },
     {
-        "id": "464",
+        "value": "464",
         "name": "Rhyperior",
         "hitPoints": 0,
         "attack": 3,
@@ -5280,7 +5280,7 @@
         "speed": 0
     },
     {
-        "id": "465",
+        "value": "465",
         "name": "Tangrowth",
         "hitPoints": 0,
         "attack": 0,
@@ -5290,7 +5290,7 @@
         "speed": 0
     },
     {
-        "id": "466",
+        "value": "466",
         "name": "Electivire",
         "hitPoints": 0,
         "attack": 3,
@@ -5300,7 +5300,7 @@
         "speed": 0
     },
     {
-        "id": "467",
+        "value": "467",
         "name": "Magmortar",
         "hitPoints": 0,
         "attack": 0,
@@ -5310,7 +5310,7 @@
         "speed": 0
     },
     {
-        "id": "468",
+        "value": "468",
         "name": "Togekiss",
         "hitPoints": 0,
         "attack": 0,
@@ -5320,7 +5320,7 @@
         "speed": 0
     },
     {
-        "id": "469",
+        "value": "469",
         "name": "Yanmega",
         "hitPoints": 0,
         "attack": 2,
@@ -5330,7 +5330,7 @@
         "speed": 0
     },
     {
-        "id": "470",
+        "value": "470",
         "name": "Leafeon",
         "hitPoints": 0,
         "attack": 0,
@@ -5340,7 +5340,7 @@
         "speed": 0
     },
     {
-        "id": "471",
+        "value": "471",
         "name": "Glaceon",
         "hitPoints": 0,
         "attack": 0,
@@ -5350,7 +5350,7 @@
         "speed": 0
     },
     {
-        "id": "472",
+        "value": "472",
         "name": "Gliscor",
         "hitPoints": 0,
         "attack": 0,
@@ -5360,7 +5360,7 @@
         "speed": 0
     },
     {
-        "id": "473",
+        "value": "473",
         "name": "Mamoswine",
         "hitPoints": 0,
         "attack": 3,
@@ -5370,7 +5370,7 @@
         "speed": 0
     },
     {
-        "id": "474",
+        "value": "474",
         "name": "Porygon-Z",
         "hitPoints": 0,
         "attack": 0,
@@ -5380,7 +5380,7 @@
         "speed": 0
     },
     {
-        "id": "475",
+        "value": "475",
         "name": "Gallade",
         "hitPoints": 0,
         "attack": 3,
@@ -5390,7 +5390,7 @@
         "speed": 0
     },
     {
-        "id": "475M",
+        "value": "475M",
         "name": "Gallade (Mega Gallade)",
         "hitPoints": 0,
         "attack": 3,
@@ -5400,7 +5400,7 @@
         "speed": 0
     },
     {
-        "id": "476",
+        "value": "476",
         "name": "Probopass",
         "hitPoints": 0,
         "attack": 0,
@@ -5410,7 +5410,7 @@
         "speed": 0
     },
     {
-        "id": "477",
+        "value": "477",
         "name": "Dusknoir",
         "hitPoints": 0,
         "attack": 0,
@@ -5420,7 +5420,7 @@
         "speed": 0
     },
     {
-        "id": "478",
+        "value": "478",
         "name": "Froslass",
         "hitPoints": 0,
         "attack": 0,
@@ -5430,7 +5430,7 @@
         "speed": 2
     },
     {
-        "id": "479",
+        "value": "479",
         "name": "Rotom",
         "hitPoints": 0,
         "attack": 0,
@@ -5440,7 +5440,7 @@
         "speed": 1
     },
     {
-        "id": "479",
+        "value": "479H",
         "name": "Rotom (Heat Rotom)",
         "hitPoints": 0,
         "attack": 0,
@@ -5450,7 +5450,7 @@
         "speed": 1
     },
     {
-        "id": "479",
+        "value": "479W",
         "name": "Rotom (Wash Rotom)",
         "hitPoints": 0,
         "attack": 0,
@@ -5460,7 +5460,7 @@
         "speed": 1
     },
     {
-        "id": "479",
+        "value": "479F",
         "name": "Rotom (Frost Rotom)",
         "hitPoints": 0,
         "attack": 0,
@@ -5470,7 +5470,7 @@
         "speed": 1
     },
     {
-        "id": "479",
+        "value": "479FA",
         "name": "Rotom (Fan Rotom)",
         "hitPoints": 0,
         "attack": 0,
@@ -5480,7 +5480,7 @@
         "speed": 1
     },
     {
-        "id": "479",
+        "value": "479M",
         "name": "Rotom (Mow Rotom)",
         "hitPoints": 0,
         "attack": 0,
@@ -5490,7 +5490,7 @@
         "speed": 1
     },
     {
-        "id": "480",
+        "value": "480",
         "name": "Uxie",
         "hitPoints": 0,
         "attack": 0,
@@ -5500,7 +5500,7 @@
         "speed": 0
     },
     {
-        "id": "481",
+        "value": "481",
         "name": "Mesprit",
         "hitPoints": 0,
         "attack": 1,
@@ -5510,7 +5510,7 @@
         "speed": 0
     },
     {
-        "id": "482",
+        "value": "482",
         "name": "Azelf",
         "hitPoints": 0,
         "attack": 2,
@@ -5520,7 +5520,7 @@
         "speed": 0
     },
     {
-        "id": "483",
+        "value": "483",
         "name": "Dialga",
         "hitPoints": 0,
         "attack": 0,
@@ -5530,7 +5530,7 @@
         "speed": 0
     },
     {
-        "id": "484",
+        "value": "484",
         "name": "Palkia",
         "hitPoints": 0,
         "attack": 0,
@@ -5540,7 +5540,7 @@
         "speed": 0
     },
     {
-        "id": "485",
+        "value": "485",
         "name": "Heatran",
         "hitPoints": 0,
         "attack": 0,
@@ -5550,7 +5550,7 @@
         "speed": 0
     },
     {
-        "id": "486",
+        "value": "486",
         "name": "Regigigas",
         "hitPoints": 0,
         "attack": 3,
@@ -5560,7 +5560,7 @@
         "speed": 0
     },
     {
-        "id": "487",
+        "value": "487",
         "name": "Giratina",
         "hitPoints": 3,
         "attack": 0,
@@ -5570,7 +5570,7 @@
         "speed": 0
     },
     {
-        "id": "488",
+        "value": "488",
         "name": "Cresselia",
         "hitPoints": 0,
         "attack": 0,
@@ -5580,7 +5580,7 @@
         "speed": 0
     },
     {
-        "id": "489",
+        "value": "489",
         "name": "Phione",
         "hitPoints": 1,
         "attack": 0,
@@ -5590,7 +5590,7 @@
         "speed": 0
     },
     {
-        "id": "490",
+        "value": "490",
         "name": "Manaphy",
         "hitPoints": 3,
         "attack": 0,
@@ -5600,7 +5600,7 @@
         "speed": 0
     },
     {
-        "id": "491",
+        "value": "491",
         "name": "Darkrai",
         "hitPoints": 0,
         "attack": 0,
@@ -5610,7 +5610,7 @@
         "speed": 1
     },
     {
-        "id": "492",
+        "value": "492L",
         "name": "Shaymin (Land Forme)",
         "hitPoints": 3,
         "attack": 0,
@@ -5620,7 +5620,7 @@
         "speed": 0
     },
     {
-        "id": "492",
+        "value": "492S",
         "name": "Shaymin (Sky Forme)",
         "hitPoints": 0,
         "attack": 0,
@@ -5630,7 +5630,7 @@
         "speed": 3
     },
     {
-        "id": "493",
+        "value": "493",
         "name": "Arceus",
         "hitPoints": 3,
         "attack": 0,
@@ -5640,7 +5640,7 @@
         "speed": 0
     },
     {
-        "id": "494",
+        "value": "494",
         "name": "Victini",
         "hitPoints": 3,
         "attack": 0,
@@ -5650,7 +5650,7 @@
         "speed": 0
     },
     {
-        "id": "495",
+        "value": "495",
         "name": "Snivy",
         "hitPoints": 0,
         "attack": 0,
@@ -5660,7 +5660,7 @@
         "speed": 1
     },
     {
-        "id": "496",
+        "value": "496",
         "name": "Servine",
         "hitPoints": 0,
         "attack": 0,
@@ -5670,7 +5670,7 @@
         "speed": 2
     },
     {
-        "id": "497",
+        "value": "497",
         "name": "Serperior",
         "hitPoints": 0,
         "attack": 0,
@@ -5680,7 +5680,7 @@
         "speed": 3
     },
     {
-        "id": "498",
+        "value": "498",
         "name": "Tepig",
         "hitPoints": 1,
         "attack": 0,
@@ -5690,7 +5690,7 @@
         "speed": 0
     },
     {
-        "id": "499",
+        "value": "499",
         "name": "Pignite",
         "hitPoints": 0,
         "attack": 2,
@@ -5700,7 +5700,7 @@
         "speed": 0
     },
     {
-        "id": "500",
+        "value": "500",
         "name": "Emboar",
         "hitPoints": 0,
         "attack": 3,
@@ -5710,7 +5710,7 @@
         "speed": 0
     },
     {
-        "id": "501",
+        "value": "501",
         "name": "Oshawott",
         "hitPoints": 0,
         "attack": 0,
@@ -5720,7 +5720,7 @@
         "speed": 0
     },
     {
-        "id": "502",
+        "value": "502",
         "name": "Dewott",
         "hitPoints": 0,
         "attack": 0,
@@ -5730,7 +5730,7 @@
         "speed": 0
     },
     {
-        "id": "503",
+        "value": "503",
         "name": "Samurott",
         "hitPoints": 0,
         "attack": 0,
@@ -5740,7 +5740,7 @@
         "speed": 0
     },
     {
-        "id": "504",
+        "value": "504",
         "name": "Patrat",
         "hitPoints": 0,
         "attack": 1,
@@ -5750,7 +5750,7 @@
         "speed": 0
     },
     {
-        "id": "505",
+        "value": "505",
         "name": "Watchog",
         "hitPoints": 0,
         "attack": 2,
@@ -5760,7 +5760,7 @@
         "speed": 0
     },
     {
-        "id": "506",
+        "value": "506",
         "name": "Lillipup",
         "hitPoints": 0,
         "attack": 1,
@@ -5770,7 +5770,7 @@
         "speed": 0
     },
     {
-        "id": "507",
+        "value": "507",
         "name": "Herdier",
         "hitPoints": 0,
         "attack": 2,
@@ -5780,7 +5780,7 @@
         "speed": 0
     },
     {
-        "id": "508",
+        "value": "508",
         "name": "Stoutland",
         "hitPoints": 0,
         "attack": 3,
@@ -5790,7 +5790,7 @@
         "speed": 0
     },
     {
-        "id": "509",
+        "value": "509",
         "name": "Purrloin",
         "hitPoints": 0,
         "attack": 0,
@@ -5800,7 +5800,7 @@
         "speed": 1
     },
     {
-        "id": "510",
+        "value": "510",
         "name": "Liepard",
         "hitPoints": 0,
         "attack": 0,
@@ -5810,7 +5810,7 @@
         "speed": 2
     },
     {
-        "id": "511",
+        "value": "511",
         "name": "Pansage",
         "hitPoints": 0,
         "attack": 0,
@@ -5820,7 +5820,7 @@
         "speed": 1
     },
     {
-        "id": "512",
+        "value": "512",
         "name": "Simisage",
         "hitPoints": 0,
         "attack": 0,
@@ -5830,7 +5830,7 @@
         "speed": 2
     },
     {
-        "id": "513",
+        "value": "513",
         "name": "Pansear",
         "hitPoints": 0,
         "attack": 0,
@@ -5840,7 +5840,7 @@
         "speed": 1
     },
     {
-        "id": "514",
+        "value": "514",
         "name": "Simisear",
         "hitPoints": 0,
         "attack": 0,
@@ -5850,7 +5850,7 @@
         "speed": 2
     },
     {
-        "id": "515",
+        "value": "515",
         "name": "Panpour",
         "hitPoints": 0,
         "attack": 0,
@@ -5860,7 +5860,7 @@
         "speed": 1
     },
     {
-        "id": "516",
+        "value": "516",
         "name": "Simipour",
         "hitPoints": 0,
         "attack": 0,
@@ -5870,7 +5870,7 @@
         "speed": 2
     },
     {
-        "id": "517",
+        "value": "517",
         "name": "Munna",
         "hitPoints": 1,
         "attack": 0,
@@ -5880,7 +5880,7 @@
         "speed": 0
     },
     {
-        "id": "518",
+        "value": "518",
         "name": "Musharna",
         "hitPoints": 2,
         "attack": 0,
@@ -5890,8 +5890,8 @@
         "speed": 0
     },
     {
-        "id": "519",
-        "name": "Pidove",
+        "value": "519",
+        "name": "Pvalueove",
         "hitPoints": 0,
         "attack": 1,
         "defense": 0,
@@ -5900,7 +5900,7 @@
         "speed": 0
     },
     {
-        "id": "520",
+        "value": "520",
         "name": "Tranquill",
         "hitPoints": 0,
         "attack": 2,
@@ -5910,7 +5910,7 @@
         "speed": 0
     },
     {
-        "id": "521",
+        "value": "521",
         "name": "Unfezant",
         "hitPoints": 0,
         "attack": 3,
@@ -5920,7 +5920,7 @@
         "speed": 0
     },
     {
-        "id": "522",
+        "value": "522",
         "name": "Blitzle",
         "hitPoints": 0,
         "attack": 0,
@@ -5930,7 +5930,7 @@
         "speed": 1
     },
     {
-        "id": "523",
+        "value": "523",
         "name": "Zebstrika",
         "hitPoints": 0,
         "attack": 0,
@@ -5940,7 +5940,7 @@
         "speed": 2
     },
     {
-        "id": "524",
+        "value": "524",
         "name": "Roggenrola",
         "hitPoints": 0,
         "attack": 0,
@@ -5950,7 +5950,7 @@
         "speed": 0
     },
     {
-        "id": "525",
+        "value": "525",
         "name": "Boldore",
         "hitPoints": 0,
         "attack": 1,
@@ -5960,7 +5960,7 @@
         "speed": 0
     },
     {
-        "id": "526",
+        "value": "526",
         "name": "Gigalith",
         "hitPoints": 0,
         "attack": 3,
@@ -5970,7 +5970,7 @@
         "speed": 0
     },
     {
-        "id": "527",
+        "value": "527",
         "name": "Woobat",
         "hitPoints": 0,
         "attack": 0,
@@ -5980,7 +5980,7 @@
         "speed": 1
     },
     {
-        "id": "528",
+        "value": "528",
         "name": "Swoobat",
         "hitPoints": 0,
         "attack": 0,
@@ -5990,7 +5990,7 @@
         "speed": 2
     },
     {
-        "id": "529",
+        "value": "529",
         "name": "Drilbur",
         "hitPoints": 0,
         "attack": 1,
@@ -6000,7 +6000,7 @@
         "speed": 0
     },
     {
-        "id": "530",
+        "value": "530",
         "name": "Excadrill",
         "hitPoints": 0,
         "attack": 2,
@@ -6010,7 +6010,7 @@
         "speed": 0
     },
     {
-        "id": "531",
+        "value": "531",
         "name": "Audino",
         "hitPoints": 2,
         "attack": 0,
@@ -6020,7 +6020,7 @@
         "speed": 0
     },
     {
-        "id": "531M",
+        "value": "531M",
         "name": "Audino (Mega Audino)",
         "hitPoints": 2,
         "attack": 0,
@@ -6030,7 +6030,7 @@
         "speed": 0
     },
     {
-        "id": "532",
+        "value": "532",
         "name": "Timburr",
         "hitPoints": 0,
         "attack": 1,
@@ -6040,7 +6040,7 @@
         "speed": 0
     },
     {
-        "id": "533",
+        "value": "533",
         "name": "Gurdurr",
         "hitPoints": 0,
         "attack": 2,
@@ -6050,7 +6050,7 @@
         "speed": 0
     },
     {
-        "id": "534",
+        "value": "534",
         "name": "Conkeldurr",
         "hitPoints": 0,
         "attack": 3,
@@ -6060,7 +6060,7 @@
         "speed": 0
     },
     {
-        "id": "535",
+        "value": "535",
         "name": "Tympole",
         "hitPoints": 0,
         "attack": 0,
@@ -6070,7 +6070,7 @@
         "speed": 1
     },
     {
-        "id": "536",
+        "value": "536",
         "name": "Palpitoad",
         "hitPoints": 2,
         "attack": 0,
@@ -6080,7 +6080,7 @@
         "speed": 0
     },
     {
-        "id": "537",
+        "value": "537",
         "name": "Seismitoad",
         "hitPoints": 3,
         "attack": 0,
@@ -6090,7 +6090,7 @@
         "speed": 0
     },
     {
-        "id": "538",
+        "value": "538",
         "name": "Throh",
         "hitPoints": 2,
         "attack": 0,
@@ -6100,7 +6100,7 @@
         "speed": 0
     },
     {
-        "id": "539",
+        "value": "539",
         "name": "Sawk",
         "hitPoints": 0,
         "attack": 2,
@@ -6110,7 +6110,7 @@
         "speed": 0
     },
     {
-        "id": "540",
+        "value": "540",
         "name": "Sewaddle",
         "hitPoints": 0,
         "attack": 0,
@@ -6120,7 +6120,7 @@
         "speed": 0
     },
     {
-        "id": "541",
+        "value": "541",
         "name": "Swadloon",
         "hitPoints": 0,
         "attack": 0,
@@ -6130,7 +6130,7 @@
         "speed": 0
     },
     {
-        "id": "542",
+        "value": "542",
         "name": "Leavanny",
         "hitPoints": 0,
         "attack": 3,
@@ -6140,7 +6140,7 @@
         "speed": 0
     },
     {
-        "id": "543",
+        "value": "543",
         "name": "Venipede",
         "hitPoints": 0,
         "attack": 0,
@@ -6150,7 +6150,7 @@
         "speed": 0
     },
     {
-        "id": "544",
+        "value": "544",
         "name": "Whirlipede",
         "hitPoints": 0,
         "attack": 0,
@@ -6160,7 +6160,7 @@
         "speed": 0
     },
     {
-        "id": "545",
+        "value": "545",
         "name": "Scolipede",
         "hitPoints": 0,
         "attack": 0,
@@ -6170,7 +6170,7 @@
         "speed": 3
     },
     {
-        "id": "546",
+        "value": "546",
         "name": "Cottonee",
         "hitPoints": 0,
         "attack": 0,
@@ -6180,7 +6180,7 @@
         "speed": 1
     },
     {
-        "id": "547",
+        "value": "547",
         "name": "Whimsicott",
         "hitPoints": 0,
         "attack": 0,
@@ -6190,7 +6190,7 @@
         "speed": 2
     },
     {
-        "id": "548",
+        "value": "548",
         "name": "Petilil",
         "hitPoints": 0,
         "attack": 0,
@@ -6200,7 +6200,7 @@
         "speed": 0
     },
     {
-        "id": "549",
+        "value": "549",
         "name": "Lilligant",
         "hitPoints": 0,
         "attack": 0,
@@ -6210,7 +6210,7 @@
         "speed": 0
     },
     {
-        "id": "550",
+        "value": "550",
         "name": "Basculin",
         "hitPoints": 0,
         "attack": 0,
@@ -6220,7 +6220,7 @@
         "speed": 2
     },
     {
-        "id": "551",
+        "value": "551",
         "name": "Sandile",
         "hitPoints": 0,
         "attack": 1,
@@ -6230,7 +6230,7 @@
         "speed": 0
     },
     {
-        "id": "552",
+        "value": "552",
         "name": "Krokorok",
         "hitPoints": 0,
         "attack": 2,
@@ -6240,7 +6240,7 @@
         "speed": 0
     },
     {
-        "id": "553",
+        "value": "553",
         "name": "Krookodile",
         "hitPoints": 0,
         "attack": 3,
@@ -6250,7 +6250,7 @@
         "speed": 0
     },
     {
-        "id": "554",
+        "value": "554",
         "name": "Darumaka",
         "hitPoints": 0,
         "attack": 1,
@@ -6260,7 +6260,7 @@
         "speed": 0
     },
     {
-        "id": "555",
+        "value": "555",
         "name": "Darmanitan (Standard Mode)",
         "hitPoints": 0,
         "attack": 2,
@@ -6270,7 +6270,7 @@
         "speed": 0
     },
     {
-        "id": "555",
+        "value": "555Z",
         "name": "Darmanitan (Zen Mode)",
         "hitPoints": 0,
         "attack": 0,
@@ -6280,7 +6280,7 @@
         "speed": 0
     },
     {
-        "id": "555G",
+        "value": "555G",
         "name": "Darmanitan (Galarian Form)",
         "hitPoints": 0,
         "attack": 2,
@@ -6290,17 +6290,7 @@
         "speed": 0
     },
     {
-        "id": "555G",
-        "name": "Darmanitan (Zen Mode)",
-        "hitPoints": 0,
-        "attack": 0,
-        "defense": 0,
-        "specialAttack": 2,
-        "specialDefense": 0,
-        "speed": 0
-    },
-    {
-        "id": "556",
+        "value": "556",
         "name": "Maractus",
         "hitPoints": 0,
         "attack": 0,
@@ -6310,7 +6300,7 @@
         "speed": 0
     },
     {
-        "id": "557",
+        "value": "557",
         "name": "Dwebble",
         "hitPoints": 0,
         "attack": 0,
@@ -6320,7 +6310,7 @@
         "speed": 0
     },
     {
-        "id": "558",
+        "value": "558",
         "name": "Crustle",
         "hitPoints": 0,
         "attack": 0,
@@ -6330,7 +6320,7 @@
         "speed": 0
     },
     {
-        "id": "559",
+        "value": "559",
         "name": "Scraggy",
         "hitPoints": 0,
         "attack": 1,
@@ -6340,7 +6330,7 @@
         "speed": 0
     },
     {
-        "id": "560",
+        "value": "560",
         "name": "Scrafty",
         "hitPoints": 0,
         "attack": 0,
@@ -6350,7 +6340,7 @@
         "speed": 0
     },
     {
-        "id": "561",
+        "value": "561",
         "name": "Sigilyph",
         "hitPoints": 0,
         "attack": 0,
@@ -6360,7 +6350,7 @@
         "speed": 0
     },
     {
-        "id": "562",
+        "value": "562",
         "name": "Yamask",
         "hitPoints": 0,
         "attack": 0,
@@ -6370,7 +6360,7 @@
         "speed": 0
     },
     {
-        "id": "563",
+        "value": "563",
         "name": "Cofagrigus",
         "hitPoints": 0,
         "attack": 0,
@@ -6380,7 +6370,7 @@
         "speed": 0
     },
     {
-        "id": "564",
+        "value": "564",
         "name": "Tirtouga",
         "hitPoints": 0,
         "attack": 0,
@@ -6390,7 +6380,7 @@
         "speed": 0
     },
     {
-        "id": "565",
+        "value": "565",
         "name": "Carracosta",
         "hitPoints": 0,
         "attack": 0,
@@ -6400,7 +6390,7 @@
         "speed": 0
     },
     {
-        "id": "566",
+        "value": "566",
         "name": "Archen",
         "hitPoints": 0,
         "attack": 1,
@@ -6410,7 +6400,7 @@
         "speed": 0
     },
     {
-        "id": "567",
+        "value": "567",
         "name": "Archeops",
         "hitPoints": 0,
         "attack": 2,
@@ -6420,7 +6410,7 @@
         "speed": 0
     },
     {
-        "id": "568",
+        "value": "568",
         "name": "Trubbish",
         "hitPoints": 0,
         "attack": 0,
@@ -6430,7 +6420,7 @@
         "speed": 1
     },
     {
-        "id": "569",
+        "value": "569",
         "name": "Garbodor",
         "hitPoints": 0,
         "attack": 2,
@@ -6440,7 +6430,7 @@
         "speed": 0
     },
     {
-        "id": "570",
+        "value": "570",
         "name": "Zorua",
         "hitPoints": 0,
         "attack": 0,
@@ -6450,7 +6440,7 @@
         "speed": 0
     },
     {
-        "id": "571",
+        "value": "571",
         "name": "Zoroark",
         "hitPoints": 0,
         "attack": 0,
@@ -6460,7 +6450,7 @@
         "speed": 0
     },
     {
-        "id": "572",
+        "value": "572",
         "name": "Minccino",
         "hitPoints": 0,
         "attack": 0,
@@ -6470,7 +6460,7 @@
         "speed": 1
     },
     {
-        "id": "573",
+        "value": "573",
         "name": "Cinccino",
         "hitPoints": 0,
         "attack": 0,
@@ -6480,7 +6470,7 @@
         "speed": 2
     },
     {
-        "id": "574",
+        "value": "574",
         "name": "Gothita",
         "hitPoints": 0,
         "attack": 0,
@@ -6490,7 +6480,7 @@
         "speed": 0
     },
     {
-        "id": "575",
+        "value": "575",
         "name": "Gothorita",
         "hitPoints": 0,
         "attack": 0,
@@ -6500,7 +6490,7 @@
         "speed": 0
     },
     {
-        "id": "576",
+        "value": "576",
         "name": "Gothitelle",
         "hitPoints": 0,
         "attack": 0,
@@ -6510,7 +6500,7 @@
         "speed": 0
     },
     {
-        "id": "577",
+        "value": "577",
         "name": "Solosis",
         "hitPoints": 0,
         "attack": 0,
@@ -6520,7 +6510,7 @@
         "speed": 0
     },
     {
-        "id": "578",
+        "value": "578",
         "name": "Duosion",
         "hitPoints": 0,
         "attack": 0,
@@ -6530,7 +6520,7 @@
         "speed": 0
     },
     {
-        "id": "579",
+        "value": "579",
         "name": "Reuniclus",
         "hitPoints": 0,
         "attack": 0,
@@ -6540,7 +6530,7 @@
         "speed": 0
     },
     {
-        "id": "580",
+        "value": "580",
         "name": "Ducklett",
         "hitPoints": 1,
         "attack": 0,
@@ -6550,7 +6540,7 @@
         "speed": 0
     },
     {
-        "id": "581",
+        "value": "581",
         "name": "Swanna",
         "hitPoints": 0,
         "attack": 0,
@@ -6560,7 +6550,7 @@
         "speed": 2
     },
     {
-        "id": "582",
+        "value": "582",
         "name": "Vanillite",
         "hitPoints": 0,
         "attack": 0,
@@ -6570,7 +6560,7 @@
         "speed": 0
     },
     {
-        "id": "583",
+        "value": "583",
         "name": "Vanillish",
         "hitPoints": 0,
         "attack": 0,
@@ -6580,7 +6570,7 @@
         "speed": 0
     },
     {
-        "id": "584",
+        "value": "584",
         "name": "Vanilluxe",
         "hitPoints": 0,
         "attack": 0,
@@ -6590,7 +6580,7 @@
         "speed": 0
     },
     {
-        "id": "585",
+        "value": "585",
         "name": "Deerling",
         "hitPoints": 0,
         "attack": 0,
@@ -6600,7 +6590,7 @@
         "speed": 1
     },
     {
-        "id": "586",
+        "value": "586",
         "name": "Sawsbuck",
         "hitPoints": 0,
         "attack": 2,
@@ -6610,7 +6600,7 @@
         "speed": 0
     },
     {
-        "id": "587",
+        "value": "587",
         "name": "Emolga",
         "hitPoints": 0,
         "attack": 0,
@@ -6620,7 +6610,7 @@
         "speed": 2
     },
     {
-        "id": "588",
+        "value": "588",
         "name": "Karrablast",
         "hitPoints": 0,
         "attack": 1,
@@ -6630,7 +6620,7 @@
         "speed": 0
     },
     {
-        "id": "589",
+        "value": "589",
         "name": "Escavalier",
         "hitPoints": 0,
         "attack": 2,
@@ -6640,7 +6630,7 @@
         "speed": 0
     },
     {
-        "id": "590",
+        "value": "590",
         "name": "Foongus",
         "hitPoints": 1,
         "attack": 0,
@@ -6650,7 +6640,7 @@
         "speed": 0
     },
     {
-        "id": "591",
+        "value": "591",
         "name": "Amoonguss",
         "hitPoints": 2,
         "attack": 0,
@@ -6660,7 +6650,7 @@
         "speed": 0
     },
     {
-        "id": "592",
+        "value": "592",
         "name": "Frillish",
         "hitPoints": 0,
         "attack": 0,
@@ -6670,7 +6660,7 @@
         "speed": 0
     },
     {
-        "id": "593",
+        "value": "593",
         "name": "Jellicent",
         "hitPoints": 0,
         "attack": 0,
@@ -6680,7 +6670,7 @@
         "speed": 0
     },
     {
-        "id": "594",
+        "value": "594",
         "name": "Alomomola",
         "hitPoints": 2,
         "attack": 0,
@@ -6690,7 +6680,7 @@
         "speed": 0
     },
     {
-        "id": "595",
+        "value": "595",
         "name": "Joltik",
         "hitPoints": 0,
         "attack": 0,
@@ -6700,7 +6690,7 @@
         "speed": 1
     },
     {
-        "id": "596",
+        "value": "596",
         "name": "Galvantula",
         "hitPoints": 0,
         "attack": 0,
@@ -6710,7 +6700,7 @@
         "speed": 2
     },
     {
-        "id": "597",
+        "value": "597",
         "name": "Ferroseed",
         "hitPoints": 0,
         "attack": 0,
@@ -6720,7 +6710,7 @@
         "speed": 0
     },
     {
-        "id": "598",
+        "value": "598",
         "name": "Ferrothorn",
         "hitPoints": 0,
         "attack": 0,
@@ -6730,7 +6720,7 @@
         "speed": 0
     },
     {
-        "id": "599",
+        "value": "599",
         "name": "Klink",
         "hitPoints": 0,
         "attack": 0,
@@ -6740,7 +6730,7 @@
         "speed": 0
     },
     {
-        "id": "600",
+        "value": "600",
         "name": "Klang",
         "hitPoints": 0,
         "attack": 0,
@@ -6750,7 +6740,7 @@
         "speed": 0
     },
     {
-        "id": "601",
+        "value": "601",
         "name": "Klinklang",
         "hitPoints": 0,
         "attack": 0,
@@ -6760,7 +6750,7 @@
         "speed": 0
     },
     {
-        "id": "602",
+        "value": "602",
         "name": "Tynamo",
         "hitPoints": 0,
         "attack": 0,
@@ -6770,7 +6760,7 @@
         "speed": 1
     },
     {
-        "id": "603",
+        "value": "603",
         "name": "Eelektrik",
         "hitPoints": 0,
         "attack": 2,
@@ -6780,7 +6770,7 @@
         "speed": 0
     },
     {
-        "id": "604",
+        "value": "604",
         "name": "Eelektross",
         "hitPoints": 0,
         "attack": 3,
@@ -6790,7 +6780,7 @@
         "speed": 0
     },
     {
-        "id": "605",
+        "value": "605",
         "name": "Elgyem",
         "hitPoints": 0,
         "attack": 0,
@@ -6800,7 +6790,7 @@
         "speed": 0
     },
     {
-        "id": "606",
+        "value": "606",
         "name": "Beheeyem",
         "hitPoints": 0,
         "attack": 0,
@@ -6810,7 +6800,7 @@
         "speed": 0
     },
     {
-        "id": "607",
+        "value": "607",
         "name": "Litwick",
         "hitPoints": 0,
         "attack": 0,
@@ -6820,7 +6810,7 @@
         "speed": 0
     },
     {
-        "id": "608",
+        "value": "608",
         "name": "Lampent",
         "hitPoints": 0,
         "attack": 0,
@@ -6830,7 +6820,7 @@
         "speed": 0
     },
     {
-        "id": "609",
+        "value": "609",
         "name": "Chandelure",
         "hitPoints": 0,
         "attack": 0,
@@ -6840,7 +6830,7 @@
         "speed": 0
     },
     {
-        "id": "610",
+        "value": "610",
         "name": "Axew",
         "hitPoints": 0,
         "attack": 1,
@@ -6850,7 +6840,7 @@
         "speed": 0
     },
     {
-        "id": "611",
+        "value": "611",
         "name": "Fraxure",
         "hitPoints": 0,
         "attack": 2,
@@ -6860,7 +6850,7 @@
         "speed": 0
     },
     {
-        "id": "612",
+        "value": "612",
         "name": "Haxorus",
         "hitPoints": 0,
         "attack": 3,
@@ -6870,7 +6860,7 @@
         "speed": 0
     },
     {
-        "id": "613",
+        "value": "613",
         "name": "Cubchoo",
         "hitPoints": 0,
         "attack": 1,
@@ -6880,7 +6870,7 @@
         "speed": 0
     },
     {
-        "id": "614",
+        "value": "614",
         "name": "Beartic",
         "hitPoints": 0,
         "attack": 2,
@@ -6890,7 +6880,7 @@
         "speed": 0
     },
     {
-        "id": "615",
+        "value": "615",
         "name": "Cryogonal",
         "hitPoints": 0,
         "attack": 0,
@@ -6900,7 +6890,7 @@
         "speed": 0
     },
     {
-        "id": "616",
+        "value": "616",
         "name": "Shelmet",
         "hitPoints": 0,
         "attack": 0,
@@ -6910,7 +6900,7 @@
         "speed": 0
     },
     {
-        "id": "617",
+        "value": "617",
         "name": "Accelgor",
         "hitPoints": 0,
         "attack": 0,
@@ -6920,7 +6910,7 @@
         "speed": 2
     },
     {
-        "id": "618",
+        "value": "618",
         "name": "Stunfisk",
         "hitPoints": 2,
         "attack": 0,
@@ -6930,7 +6920,7 @@
         "speed": 0
     },
     {
-        "id": "619",
+        "value": "619",
         "name": "Mienfoo",
         "hitPoints": 0,
         "attack": 1,
@@ -6940,7 +6930,7 @@
         "speed": 0
     },
     {
-        "id": "620",
+        "value": "620",
         "name": "Mienshao",
         "hitPoints": 0,
         "attack": 2,
@@ -6950,7 +6940,7 @@
         "speed": 0
     },
     {
-        "id": "621",
+        "value": "621",
         "name": "Druddigon",
         "hitPoints": 0,
         "attack": 2,
@@ -6960,7 +6950,7 @@
         "speed": 0
     },
     {
-        "id": "622",
+        "value": "622",
         "name": "Golett",
         "hitPoints": 0,
         "attack": 1,
@@ -6970,7 +6960,7 @@
         "speed": 0
     },
     {
-        "id": "623",
+        "value": "623",
         "name": "Golurk",
         "hitPoints": 0,
         "attack": 2,
@@ -6980,7 +6970,7 @@
         "speed": 0
     },
     {
-        "id": "624",
+        "value": "624",
         "name": "Pawniard",
         "hitPoints": 0,
         "attack": 1,
@@ -6990,7 +6980,7 @@
         "speed": 0
     },
     {
-        "id": "625",
+        "value": "625",
         "name": "Bisharp",
         "hitPoints": 0,
         "attack": 2,
@@ -7000,7 +6990,7 @@
         "speed": 0
     },
     {
-        "id": "626",
+        "value": "626",
         "name": "Bouffalant",
         "hitPoints": 0,
         "attack": 2,
@@ -7010,7 +7000,7 @@
         "speed": 0
     },
     {
-        "id": "627",
+        "value": "627",
         "name": "Rufflet",
         "hitPoints": 0,
         "attack": 1,
@@ -7020,7 +7010,7 @@
         "speed": 0
     },
     {
-        "id": "628",
+        "value": "628",
         "name": "Braviary",
         "hitPoints": 0,
         "attack": 2,
@@ -7030,7 +7020,7 @@
         "speed": 0
     },
     {
-        "id": "629",
+        "value": "629",
         "name": "Vullaby",
         "hitPoints": 0,
         "attack": 0,
@@ -7040,7 +7030,7 @@
         "speed": 0
     },
     {
-        "id": "630",
+        "value": "630",
         "name": "Mandibuzz",
         "hitPoints": 0,
         "attack": 0,
@@ -7050,7 +7040,7 @@
         "speed": 0
     },
     {
-        "id": "631",
+        "value": "631",
         "name": "Heatmor",
         "hitPoints": 0,
         "attack": 0,
@@ -7060,7 +7050,7 @@
         "speed": 0
     },
     {
-        "id": "632",
+        "value": "632",
         "name": "Durant",
         "hitPoints": 0,
         "attack": 0,
@@ -7070,7 +7060,7 @@
         "speed": 0
     },
     {
-        "id": "633",
+        "value": "633",
         "name": "Deino",
         "hitPoints": 0,
         "attack": 1,
@@ -7080,7 +7070,7 @@
         "speed": 0
     },
     {
-        "id": "634",
+        "value": "634",
         "name": "Zweilous",
         "hitPoints": 0,
         "attack": 2,
@@ -7090,7 +7080,7 @@
         "speed": 0
     },
     {
-        "id": "635",
+        "value": "635",
         "name": "Hydreigon",
         "hitPoints": 0,
         "attack": 0,
@@ -7100,7 +7090,7 @@
         "speed": 0
     },
     {
-        "id": "636",
+        "value": "636",
         "name": "Larvesta",
         "hitPoints": 0,
         "attack": 1,
@@ -7110,7 +7100,7 @@
         "speed": 0
     },
     {
-        "id": "637",
+        "value": "637",
         "name": "Volcarona",
         "hitPoints": 0,
         "attack": 0,
@@ -7120,7 +7110,7 @@
         "speed": 0
     },
     {
-        "id": "638",
+        "value": "638",
         "name": "Cobalion",
         "hitPoints": 0,
         "attack": 0,
@@ -7130,7 +7120,7 @@
         "speed": 0
     },
     {
-        "id": "639",
+        "value": "639",
         "name": "Terrakion",
         "hitPoints": 0,
         "attack": 3,
@@ -7140,7 +7130,7 @@
         "speed": 0
     },
     {
-        "id": "640",
+        "value": "640",
         "name": "Virizion",
         "hitPoints": 0,
         "attack": 0,
@@ -7150,7 +7140,7 @@
         "speed": 0
     },
     {
-        "id": "641",
+        "value": "641I",
         "name": "Tornadus (Incarnate Forme)",
         "hitPoints": 0,
         "attack": 3,
@@ -7160,7 +7150,7 @@
         "speed": 0
     },
     {
-        "id": "641",
+        "value": "641T",
         "name": "Tornadus (Therian Forme)",
         "hitPoints": 0,
         "attack": 0,
@@ -7170,7 +7160,7 @@
         "speed": 3
     },
     {
-        "id": "642",
+        "value": "642I",
         "name": "Thundurus (Incarnate Forme)",
         "hitPoints": 0,
         "attack": 3,
@@ -7180,7 +7170,7 @@
         "speed": 0
     },
     {
-        "id": "642",
+        "value": "642T",
         "name": "Thundurus (Therian Forme)",
         "hitPoints": 0,
         "attack": 0,
@@ -7190,7 +7180,7 @@
         "speed": 0
     },
     {
-        "id": "643",
+        "value": "643",
         "name": "Reshiram",
         "hitPoints": 0,
         "attack": 0,
@@ -7200,7 +7190,7 @@
         "speed": 0
     },
     {
-        "id": "644",
+        "value": "644",
         "name": "Zekrom",
         "hitPoints": 0,
         "attack": 3,
@@ -7210,7 +7200,7 @@
         "speed": 0
     },
     {
-        "id": "645",
+        "value": "645I",
         "name": "Landorus (Incarnate Forme)",
         "hitPoints": 0,
         "attack": 0,
@@ -7220,7 +7210,7 @@
         "speed": 0
     },
     {
-        "id": "645",
+        "value": "645T",
         "name": "Landorus (Therian Forme)",
         "hitPoints": 0,
         "attack": 3,
@@ -7230,7 +7220,7 @@
         "speed": 0
     },
     {
-        "id": "646",
+        "value": "646",
         "name": "Kyurem",
         "hitPoints": 1,
         "attack": 1,
@@ -7240,7 +7230,7 @@
         "speed": 0
     },
     {
-        "id": "646",
+        "value": "646W",
         "name": "Kyurem (White Kyurem)",
         "hitPoints": 0,
         "attack": 0,
@@ -7250,7 +7240,7 @@
         "speed": 0
     },
     {
-        "id": "646",
+        "value": "646B",
         "name": "Kyurem (Black Kyurem)",
         "hitPoints": 0,
         "attack": 3,
@@ -7260,7 +7250,7 @@
         "speed": 0
     },
     {
-        "id": "647",
+        "value": "647",
         "name": "Keldeo",
         "hitPoints": 0,
         "attack": 0,
@@ -7270,7 +7260,7 @@
         "speed": 0
     },
     {
-        "id": "648",
+        "value": "648A",
         "name": "Meloetta (Aria Forme)",
         "hitPoints": 0,
         "attack": 0,
@@ -7280,7 +7270,7 @@
         "speed": 1
     },
     {
-        "id": "648",
+        "value": "648P",
         "name": "Meloetta (Pirouette Forme)",
         "hitPoints": 0,
         "attack": 1,
@@ -7290,7 +7280,7 @@
         "speed": 1
     },
     {
-        "id": "649",
+        "value": "649",
         "name": "Genesect",
         "hitPoints": 0,
         "attack": 1,
@@ -7300,7 +7290,7 @@
         "speed": 1
     },
     {
-        "id": "650",
+        "value": "650",
         "name": "Chespin",
         "hitPoints": 0,
         "attack": 0,
@@ -7310,7 +7300,7 @@
         "speed": 0
     },
     {
-        "id": "651",
+        "value": "651",
         "name": "Quilladin",
         "hitPoints": 0,
         "attack": 0,
@@ -7320,7 +7310,7 @@
         "speed": 0
     },
     {
-        "id": "652",
+        "value": "652",
         "name": "Chesnaught",
         "hitPoints": 0,
         "attack": 0,
@@ -7330,7 +7320,7 @@
         "speed": 0
     },
     {
-        "id": "653",
+        "value": "653",
         "name": "Fennekin",
         "hitPoints": 0,
         "attack": 0,
@@ -7340,7 +7330,7 @@
         "speed": 0
     },
     {
-        "id": "654",
+        "value": "654",
         "name": "Braixen",
         "hitPoints": 0,
         "attack": 0,
@@ -7350,7 +7340,7 @@
         "speed": 0
     },
     {
-        "id": "655",
+        "value": "655",
         "name": "Delphox",
         "hitPoints": 0,
         "attack": 0,
@@ -7360,7 +7350,7 @@
         "speed": 0
     },
     {
-        "id": "656",
+        "value": "656",
         "name": "Froakie",
         "hitPoints": 0,
         "attack": 0,
@@ -7370,7 +7360,7 @@
         "speed": 1
     },
     {
-        "id": "657",
+        "value": "657",
         "name": "Frogadier",
         "hitPoints": 0,
         "attack": 0,
@@ -7380,7 +7370,7 @@
         "speed": 2
     },
     {
-        "id": "658",
+        "value": "658",
         "name": "Greninja",
         "hitPoints": 0,
         "attack": 0,
@@ -7390,7 +7380,7 @@
         "speed": 3
     },
     {
-        "id": "658A",
+        "value": "658A",
         "name": "Greninja (Ash-Greninja)",
         "hitPoints": 0,
         "attack": 0,
@@ -7400,7 +7390,7 @@
         "speed": 3
     },
     {
-        "id": "659",
+        "value": "659",
         "name": "Bunnelby",
         "hitPoints": 0,
         "attack": 0,
@@ -7410,7 +7400,7 @@
         "speed": 1
     },
     {
-        "id": "660",
+        "value": "660",
         "name": "Diggersby",
         "hitPoints": 2,
         "attack": 0,
@@ -7420,7 +7410,7 @@
         "speed": 0
     },
     {
-        "id": "661",
+        "value": "661",
         "name": "Fletchling",
         "hitPoints": 0,
         "attack": 0,
@@ -7430,7 +7420,7 @@
         "speed": 1
     },
     {
-        "id": "662",
+        "value": "662",
         "name": "Fletchinder",
         "hitPoints": 0,
         "attack": 0,
@@ -7440,7 +7430,7 @@
         "speed": 2
     },
     {
-        "id": "663",
+        "value": "663",
         "name": "Talonflame",
         "hitPoints": 0,
         "attack": 0,
@@ -7450,7 +7440,7 @@
         "speed": 3
     },
     {
-        "id": "664",
+        "value": "664",
         "name": "Scatterbug",
         "hitPoints": 0,
         "attack": 0,
@@ -7460,7 +7450,7 @@
         "speed": 0
     },
     {
-        "id": "665",
+        "value": "665",
         "name": "Spewpa",
         "hitPoints": 0,
         "attack": 0,
@@ -7470,7 +7460,7 @@
         "speed": 0
     },
     {
-        "id": "666",
+        "value": "666",
         "name": "Vivillon",
         "hitPoints": 1,
         "attack": 0,
@@ -7480,7 +7470,7 @@
         "speed": 1
     },
     {
-        "id": "667",
+        "value": "667",
         "name": "Litleo",
         "hitPoints": 0,
         "attack": 0,
@@ -7490,7 +7480,7 @@
         "speed": 0
     },
     {
-        "id": "668",
+        "value": "668",
         "name": "Pyroar",
         "hitPoints": 0,
         "attack": 0,
@@ -7500,7 +7490,7 @@
         "speed": 0
     },
     {
-        "id": "669",
+        "value": "669",
         "name": "Flab\u00e9b\u00e9",
         "hitPoints": 0,
         "attack": 0,
@@ -7510,7 +7500,7 @@
         "speed": 0
     },
     {
-        "id": "670",
+        "value": "670",
         "name": "Floette",
         "hitPoints": 0,
         "attack": 0,
@@ -7520,7 +7510,7 @@
         "speed": 0
     },
     {
-        "id": "670E",
+        "value": "670E",
         "name": "Floette (Eternal Flower)",
         "hitPoints": 0,
         "attack": 0,
@@ -7530,7 +7520,7 @@
         "speed": 0
     },
     {
-        "id": "671",
+        "value": "671",
         "name": "Florges",
         "hitPoints": 0,
         "attack": 0,
@@ -7540,8 +7530,8 @@
         "speed": 0
     },
     {
-        "id": "672",
-        "name": "Skiddo",
+        "value": "672",
+        "name": "Skvaluedo",
         "hitPoints": 1,
         "attack": 0,
         "defense": 0,
@@ -7550,7 +7540,7 @@
         "speed": 0
     },
     {
-        "id": "673",
+        "value": "673",
         "name": "Gogoat",
         "hitPoints": 2,
         "attack": 0,
@@ -7560,7 +7550,7 @@
         "speed": 0
     },
     {
-        "id": "674",
+        "value": "674",
         "name": "Pancham",
         "hitPoints": 0,
         "attack": 1,
@@ -7570,7 +7560,7 @@
         "speed": 0
     },
     {
-        "id": "675",
+        "value": "675",
         "name": "Pangoro",
         "hitPoints": 0,
         "attack": 2,
@@ -7580,7 +7570,7 @@
         "speed": 0
     },
     {
-        "id": "676",
+        "value": "676",
         "name": "Furfrou",
         "hitPoints": 0,
         "attack": 0,
@@ -7590,7 +7580,7 @@
         "speed": 1
     },
     {
-        "id": "677",
+        "value": "677",
         "name": "Espurr",
         "hitPoints": 0,
         "attack": 0,
@@ -7600,7 +7590,7 @@
         "speed": 1
     },
     {
-        "id": "678",
+        "value": "678",
         "name": "Meowstic",
         "hitPoints": 0,
         "attack": 0,
@@ -7610,7 +7600,7 @@
         "speed": 2
     },
     {
-        "id": "679",
+        "value": "679",
         "name": "Honedge",
         "hitPoints": 0,
         "attack": 0,
@@ -7620,7 +7610,7 @@
         "speed": 0
     },
     {
-        "id": "680",
+        "value": "680",
         "name": "Doublade",
         "hitPoints": 0,
         "attack": 0,
@@ -7630,7 +7620,7 @@
         "speed": 0
     },
     {
-        "id": "681",
+        "value": "681",
         "name": "Aegislash (Shield Forme)",
         "hitPoints": 0,
         "attack": 0,
@@ -7640,7 +7630,7 @@
         "speed": 0
     },
     {
-        "id": "681B",
+        "value": "681B",
         "name": "Aegislash (Blade Forme)",
         "hitPoints": 0,
         "attack": 2,
@@ -7650,7 +7640,7 @@
         "speed": 0
     },
     {
-        "id": "682",
+        "value": "682",
         "name": "Spritzee",
         "hitPoints": 1,
         "attack": 0,
@@ -7660,7 +7650,7 @@
         "speed": 0
     },
     {
-        "id": "683",
+        "value": "683",
         "name": "Aromatisse",
         "hitPoints": 2,
         "attack": 0,
@@ -7670,7 +7660,7 @@
         "speed": 0
     },
     {
-        "id": "684",
+        "value": "684",
         "name": "Swirlix",
         "hitPoints": 0,
         "attack": 0,
@@ -7680,7 +7670,7 @@
         "speed": 0
     },
     {
-        "id": "685",
+        "value": "685",
         "name": "Slurpuff",
         "hitPoints": 0,
         "attack": 0,
@@ -7690,7 +7680,7 @@
         "speed": 0
     },
     {
-        "id": "686",
+        "value": "686",
         "name": "Inkay",
         "hitPoints": 0,
         "attack": 1,
@@ -7700,7 +7690,7 @@
         "speed": 0
     },
     {
-        "id": "687",
+        "value": "687",
         "name": "Malamar",
         "hitPoints": 0,
         "attack": 2,
@@ -7710,7 +7700,7 @@
         "speed": 0
     },
     {
-        "id": "688",
+        "value": "688",
         "name": "Binacle",
         "hitPoints": 0,
         "attack": 1,
@@ -7720,7 +7710,7 @@
         "speed": 0
     },
     {
-        "id": "689",
+        "value": "689",
         "name": "Barbaracle",
         "hitPoints": 0,
         "attack": 2,
@@ -7730,7 +7720,7 @@
         "speed": 0
     },
     {
-        "id": "690",
+        "value": "690",
         "name": "Skrelp",
         "hitPoints": 0,
         "attack": 0,
@@ -7740,7 +7730,7 @@
         "speed": 0
     },
     {
-        "id": "691",
+        "value": "691",
         "name": "Dragalge",
         "hitPoints": 0,
         "attack": 0,
@@ -7750,7 +7740,7 @@
         "speed": 0
     },
     {
-        "id": "692",
+        "value": "692",
         "name": "Clauncher",
         "hitPoints": 0,
         "attack": 0,
@@ -7760,7 +7750,7 @@
         "speed": 0
     },
     {
-        "id": "693",
+        "value": "693",
         "name": "Clawitzer",
         "hitPoints": 0,
         "attack": 0,
@@ -7770,7 +7760,7 @@
         "speed": 0
     },
     {
-        "id": "694",
+        "value": "694",
         "name": "Helioptile",
         "hitPoints": 0,
         "attack": 0,
@@ -7780,7 +7770,7 @@
         "speed": 1
     },
     {
-        "id": "695",
+        "value": "695",
         "name": "Heliolisk",
         "hitPoints": 0,
         "attack": 0,
@@ -7790,7 +7780,7 @@
         "speed": 1
     },
     {
-        "id": "696",
+        "value": "696",
         "name": "Tyrunt",
         "hitPoints": 0,
         "attack": 1,
@@ -7800,7 +7790,7 @@
         "speed": 0
     },
     {
-        "id": "697",
+        "value": "697",
         "name": "Tyrantrum",
         "hitPoints": 0,
         "attack": 2,
@@ -7810,7 +7800,7 @@
         "speed": 0
     },
     {
-        "id": "698",
+        "value": "698",
         "name": "Amaura",
         "hitPoints": 1,
         "attack": 0,
@@ -7820,7 +7810,7 @@
         "speed": 0
     },
     {
-        "id": "699",
+        "value": "699",
         "name": "Aurorus",
         "hitPoints": 2,
         "attack": 0,
@@ -7830,7 +7820,7 @@
         "speed": 0
     },
     {
-        "id": "700",
+        "value": "700",
         "name": "Sylveon",
         "hitPoints": 0,
         "attack": 0,
@@ -7840,7 +7830,7 @@
         "speed": 0
     },
     {
-        "id": "701",
+        "value": "701",
         "name": "Hawlucha",
         "hitPoints": 0,
         "attack": 2,
@@ -7850,7 +7840,7 @@
         "speed": 0
     },
     {
-        "id": "702",
+        "value": "702",
         "name": "Dedenne",
         "hitPoints": 0,
         "attack": 0,
@@ -7860,7 +7850,7 @@
         "speed": 2
     },
     {
-        "id": "703",
+        "value": "703",
         "name": "Carbink",
         "hitPoints": 0,
         "attack": 0,
@@ -7870,7 +7860,7 @@
         "speed": 0
     },
     {
-        "id": "704",
+        "value": "704",
         "name": "Goomy",
         "hitPoints": 0,
         "attack": 0,
@@ -7880,7 +7870,7 @@
         "speed": 0
     },
     {
-        "id": "705",
+        "value": "705",
         "name": "Sliggoo",
         "hitPoints": 0,
         "attack": 0,
@@ -7890,7 +7880,7 @@
         "speed": 0
     },
     {
-        "id": "706",
+        "value": "706",
         "name": "Goodra",
         "hitPoints": 0,
         "attack": 0,
@@ -7900,7 +7890,7 @@
         "speed": 0
     },
     {
-        "id": "707",
+        "value": "707",
         "name": "Klefki",
         "hitPoints": 0,
         "attack": 0,
@@ -7910,7 +7900,7 @@
         "speed": 0
     },
     {
-        "id": "708",
+        "value": "708",
         "name": "Phantump",
         "hitPoints": 0,
         "attack": 1,
@@ -7920,7 +7910,7 @@
         "speed": 0
     },
     {
-        "id": "709",
+        "value": "709",
         "name": "Trevenant",
         "hitPoints": 0,
         "attack": 2,
@@ -7930,7 +7920,7 @@
         "speed": 0
     },
     {
-        "id": "710",
+        "value": "710",
         "name": "Pumpkaboo",
         "hitPoints": 0,
         "attack": 0,
@@ -7940,7 +7930,7 @@
         "speed": 0
     },
     {
-        "id": "711",
+        "value": "711",
         "name": "Gourgeist",
         "hitPoints": 0,
         "attack": 0,
@@ -7950,7 +7940,7 @@
         "speed": 0
     },
     {
-        "id": "712",
+        "value": "712",
         "name": "Bergmite",
         "hitPoints": 0,
         "attack": 0,
@@ -7960,7 +7950,7 @@
         "speed": 0
     },
     {
-        "id": "713",
+        "value": "713",
         "name": "Avalugg",
         "hitPoints": 0,
         "attack": 0,
@@ -7970,7 +7960,7 @@
         "speed": 0
     },
     {
-        "id": "714",
+        "value": "714",
         "name": "Noibat",
         "hitPoints": 0,
         "attack": 0,
@@ -7980,7 +7970,7 @@
         "speed": 1
     },
     {
-        "id": "715",
+        "value": "715",
         "name": "Noivern",
         "hitPoints": 0,
         "attack": 0,
@@ -7990,7 +7980,7 @@
         "speed": 2
     },
     {
-        "id": "716",
+        "value": "716",
         "name": "Xerneas",
         "hitPoints": 3,
         "attack": 0,
@@ -8000,7 +7990,7 @@
         "speed": 0
     },
     {
-        "id": "717",
+        "value": "717",
         "name": "Yveltal",
         "hitPoints": 3,
         "attack": 0,
@@ -8010,7 +8000,7 @@
         "speed": 0
     },
     {
-        "id": "718",
+        "value": "718",
         "name": "Zygarde (50% Forme)",
         "hitPoints": 3,
         "attack": 0,
@@ -8020,7 +8010,7 @@
         "speed": 0
     },
     {
-        "id": "718T",
+        "value": "718T",
         "name": "Zygarde (10% Forme)",
         "hitPoints": 3,
         "attack": 0,
@@ -8030,7 +8020,7 @@
         "speed": 0
     },
     {
-        "id": "718C",
+        "value": "718C",
         "name": "Zygarde (Complete Forme)",
         "hitPoints": 3,
         "attack": 0,
@@ -8040,7 +8030,7 @@
         "speed": 0
     },
     {
-        "id": "719",
+        "value": "719",
         "name": "Diancie",
         "hitPoints": 0,
         "attack": 0,
@@ -8050,7 +8040,7 @@
         "speed": 0
     },
     {
-        "id": "719M",
+        "value": "719M",
         "name": "Diancie (Mega Diancie)",
         "hitPoints": 0,
         "attack": 0,
@@ -8060,7 +8050,7 @@
         "speed": 0
     },
     {
-        "id": "720",
+        "value": "720",
         "name": "Hoopa",
         "hitPoints": 0,
         "attack": 0,
@@ -8070,7 +8060,7 @@
         "speed": 0
     },
     {
-        "id": "720U",
+        "value": "720U",
         "name": "Hoopa (Hoopa Unbound)",
         "hitPoints": 0,
         "attack": 0,
@@ -8080,7 +8070,7 @@
         "speed": 0
     },
     {
-        "id": "721",
+        "value": "721",
         "name": "Volcanion",
         "hitPoints": 0,
         "attack": 0,
@@ -8090,7 +8080,7 @@
         "speed": 0
     },
     {
-        "id": "722",
+        "value": "722",
         "name": "Rowlet",
         "hitPoints": 1,
         "attack": 0,
@@ -8100,7 +8090,7 @@
         "speed": 0
     },
     {
-        "id": "723",
+        "value": "723",
         "name": "Dartrix",
         "hitPoints": 2,
         "attack": 0,
@@ -8110,8 +8100,8 @@
         "speed": 0
     },
     {
-        "id": "724",
-        "name": "Decidueye",
+        "value": "724",
+        "name": "Decvalueueye",
         "hitPoints": 0,
         "attack": 3,
         "defense": 0,
@@ -8120,7 +8110,7 @@
         "speed": 0
     },
     {
-        "id": "725",
+        "value": "725",
         "name": "Litten",
         "hitPoints": 0,
         "attack": 0,
@@ -8130,7 +8120,7 @@
         "speed": 1
     },
     {
-        "id": "726",
+        "value": "726",
         "name": "Torracat",
         "hitPoints": 0,
         "attack": 0,
@@ -8140,7 +8130,7 @@
         "speed": 2
     },
     {
-        "id": "727",
+        "value": "727",
         "name": "Incineroar",
         "hitPoints": 0,
         "attack": 3,
@@ -8150,7 +8140,7 @@
         "speed": 0
     },
     {
-        "id": "728",
+        "value": "728",
         "name": "Popplio",
         "hitPoints": 0,
         "attack": 0,
@@ -8160,7 +8150,7 @@
         "speed": 0
     },
     {
-        "id": "729",
+        "value": "729",
         "name": "Brionne",
         "hitPoints": 0,
         "attack": 0,
@@ -8170,7 +8160,7 @@
         "speed": 0
     },
     {
-        "id": "730",
+        "value": "730",
         "name": "Primarina",
         "hitPoints": 0,
         "attack": 0,
@@ -8180,7 +8170,7 @@
         "speed": 0
     },
     {
-        "id": "731",
+        "value": "731",
         "name": "Pikipek",
         "hitPoints": 0,
         "attack": 1,
@@ -8190,7 +8180,7 @@
         "speed": 0
     },
     {
-        "id": "732",
+        "value": "732",
         "name": "Trumbeak",
         "hitPoints": 0,
         "attack": 2,
@@ -8200,7 +8190,7 @@
         "speed": 0
     },
     {
-        "id": "733",
+        "value": "733",
         "name": "Toucannon",
         "hitPoints": 0,
         "attack": 3,
@@ -8210,7 +8200,7 @@
         "speed": 0
     },
     {
-        "id": "734",
+        "value": "734",
         "name": "Yungoos",
         "hitPoints": 0,
         "attack": 1,
@@ -8220,7 +8210,7 @@
         "speed": 0
     },
     {
-        "id": "735",
+        "value": "735",
         "name": "Gumshoos",
         "hitPoints": 0,
         "attack": 2,
@@ -8230,7 +8220,7 @@
         "speed": 0
     },
     {
-        "id": "736",
+        "value": "736",
         "name": "Grubbin",
         "hitPoints": 0,
         "attack": 1,
@@ -8240,7 +8230,7 @@
         "speed": 0
     },
     {
-        "id": "737",
+        "value": "737",
         "name": "Charjabug",
         "hitPoints": 0,
         "attack": 0,
@@ -8250,7 +8240,7 @@
         "speed": 0
     },
     {
-        "id": "738",
+        "value": "738",
         "name": "Vikavolt",
         "hitPoints": 0,
         "attack": 0,
@@ -8260,7 +8250,7 @@
         "speed": 0
     },
     {
-        "id": "739",
+        "value": "739",
         "name": "Crabrawler",
         "hitPoints": 0,
         "attack": 1,
@@ -8270,7 +8260,7 @@
         "speed": 0
     },
     {
-        "id": "740",
+        "value": "740",
         "name": "Crabominable",
         "hitPoints": 0,
         "attack": 2,
@@ -8280,7 +8270,7 @@
         "speed": 0
     },
     {
-        "id": "741",
+        "value": "741",
         "name": "Oricorio",
         "hitPoints": 0,
         "attack": 0,
@@ -8290,7 +8280,7 @@
         "speed": 0
     },
     {
-        "id": "742",
+        "value": "742",
         "name": "Cutiefly",
         "hitPoints": 0,
         "attack": 0,
@@ -8300,7 +8290,7 @@
         "speed": 1
     },
     {
-        "id": "743",
+        "value": "743",
         "name": "Ribombee",
         "hitPoints": 0,
         "attack": 0,
@@ -8310,7 +8300,7 @@
         "speed": 2
     },
     {
-        "id": "744",
+        "value": "744",
         "name": "Rockruff",
         "hitPoints": 0,
         "attack": 1,
@@ -8320,7 +8310,7 @@
         "speed": 0
     },
     {
-        "id": "745",
+        "value": "745",
         "name": "Lycanroc",
         "hitPoints": 0,
         "attack": 2,
@@ -8330,7 +8320,7 @@
         "speed": 0
     },
     {
-        "id": "746",
+        "value": "746",
         "name": "Wishiwashi (Solo Form)",
         "hitPoints": 1,
         "attack": 0,
@@ -8340,7 +8330,7 @@
         "speed": 0
     },
     {
-        "id": "746Sc",
+        "value": "746Sc",
         "name": "Wishiwashi (School Form)",
         "hitPoints": 1,
         "attack": 0,
@@ -8350,7 +8340,7 @@
         "speed": 0
     },
     {
-        "id": "747",
+        "value": "747",
         "name": "Mareanie",
         "hitPoints": 0,
         "attack": 0,
@@ -8360,7 +8350,7 @@
         "speed": 0
     },
     {
-        "id": "748",
+        "value": "748",
         "name": "Toxapex",
         "hitPoints": 0,
         "attack": 0,
@@ -8370,7 +8360,7 @@
         "speed": 0
     },
     {
-        "id": "749",
+        "value": "749",
         "name": "Mudbray",
         "hitPoints": 0,
         "attack": 1,
@@ -8380,7 +8370,7 @@
         "speed": 0
     },
     {
-        "id": "750",
+        "value": "750",
         "name": "Mudsdale",
         "hitPoints": 0,
         "attack": 2,
@@ -8390,8 +8380,8 @@
         "speed": 0
     },
     {
-        "id": "751",
-        "name": "Dewpider",
+        "value": "751",
+        "name": "Dewpvalueer",
         "hitPoints": 0,
         "attack": 0,
         "defense": 0,
@@ -8400,8 +8390,8 @@
         "speed": 0
     },
     {
-        "id": "752",
-        "name": "Araquanid",
+        "value": "752",
+        "name": "Araquanvalue",
         "hitPoints": 0,
         "attack": 0,
         "defense": 0,
@@ -8410,7 +8400,7 @@
         "speed": 0
     },
     {
-        "id": "753",
+        "value": "753",
         "name": "Fomantis",
         "hitPoints": 0,
         "attack": 1,
@@ -8420,7 +8410,7 @@
         "speed": 0
     },
     {
-        "id": "754",
+        "value": "754",
         "name": "Lurantis",
         "hitPoints": 0,
         "attack": 2,
@@ -8430,7 +8420,7 @@
         "speed": 0
     },
     {
-        "id": "755",
+        "value": "755",
         "name": "Morelull",
         "hitPoints": 0,
         "attack": 0,
@@ -8440,7 +8430,7 @@
         "speed": 0
     },
     {
-        "id": "756",
+        "value": "756",
         "name": "Shiinotic",
         "hitPoints": 0,
         "attack": 0,
@@ -8450,7 +8440,7 @@
         "speed": 0
     },
     {
-        "id": "757",
+        "value": "757",
         "name": "Salandit",
         "hitPoints": 0,
         "attack": 0,
@@ -8460,7 +8450,7 @@
         "speed": 1
     },
     {
-        "id": "758",
+        "value": "758",
         "name": "Salazzle",
         "hitPoints": 0,
         "attack": 0,
@@ -8470,7 +8460,7 @@
         "speed": 2
     },
     {
-        "id": "759",
+        "value": "759",
         "name": "Stufful",
         "hitPoints": 0,
         "attack": 1,
@@ -8480,7 +8470,7 @@
         "speed": 0
     },
     {
-        "id": "760",
+        "value": "760",
         "name": "Bewear",
         "hitPoints": 0,
         "attack": 2,
@@ -8490,7 +8480,7 @@
         "speed": 0
     },
     {
-        "id": "761",
+        "value": "761",
         "name": "Bounsweet",
         "hitPoints": 1,
         "attack": 0,
@@ -8500,7 +8490,7 @@
         "speed": 0
     },
     {
-        "id": "762",
+        "value": "762",
         "name": "Steenee",
         "hitPoints": 0,
         "attack": 0,
@@ -8510,7 +8500,7 @@
         "speed": 2
     },
     {
-        "id": "763",
+        "value": "763",
         "name": "Tsareena",
         "hitPoints": 0,
         "attack": 3,
@@ -8520,7 +8510,7 @@
         "speed": 0
     },
     {
-        "id": "764",
+        "value": "764",
         "name": "Comfey",
         "hitPoints": 0,
         "attack": 0,
@@ -8530,7 +8520,7 @@
         "speed": 0
     },
     {
-        "id": "765",
+        "value": "765",
         "name": "Oranguru",
         "hitPoints": 0,
         "attack": 0,
@@ -8540,7 +8530,7 @@
         "speed": 0
     },
     {
-        "id": "766",
+        "value": "766",
         "name": "Passimian",
         "hitPoints": 0,
         "attack": 2,
@@ -8550,7 +8540,7 @@
         "speed": 0
     },
     {
-        "id": "767",
+        "value": "767",
         "name": "Wimpod",
         "hitPoints": 0,
         "attack": 0,
@@ -8560,7 +8550,7 @@
         "speed": 1
     },
     {
-        "id": "768",
+        "value": "768",
         "name": "Golisopod",
         "hitPoints": 0,
         "attack": 0,
@@ -8570,7 +8560,7 @@
         "speed": 0
     },
     {
-        "id": "769",
+        "value": "769",
         "name": "Sandygast",
         "hitPoints": 0,
         "attack": 0,
@@ -8580,7 +8570,7 @@
         "speed": 0
     },
     {
-        "id": "770",
+        "value": "770",
         "name": "Palossand",
         "hitPoints": 0,
         "attack": 0,
@@ -8590,7 +8580,7 @@
         "speed": 0
     },
     {
-        "id": "771",
+        "value": "771",
         "name": "Pyukumuku",
         "hitPoints": 0,
         "attack": 0,
@@ -8600,7 +8590,7 @@
         "speed": 0
     },
     {
-        "id": "772",
+        "value": "772",
         "name": "Type: Null",
         "hitPoints": 2,
         "attack": 0,
@@ -8610,7 +8600,7 @@
         "speed": 0
     },
     {
-        "id": "773",
+        "value": "773",
         "name": "Silvally",
         "hitPoints": 3,
         "attack": 0,
@@ -8620,7 +8610,7 @@
         "speed": 0
     },
     {
-        "id": "774",
+        "value": "774",
         "name": "Minior (Meteor Form)",
         "hitPoints": 0,
         "attack": 0,
@@ -8630,7 +8620,7 @@
         "speed": 0
     },
     {
-        "id": "774R",
+        "value": "774R",
         "name": "Minior (Red Core)",
         "hitPoints": 0,
         "attack": 1,
@@ -8640,7 +8630,7 @@
         "speed": 0
     },
     {
-        "id": "774O",
+        "value": "774O",
         "name": "Minior (Orange Core)",
         "hitPoints": 0,
         "attack": 1,
@@ -8650,7 +8640,7 @@
         "speed": 0
     },
     {
-        "id": "774Y",
+        "value": "774Y",
         "name": "Minior (Yellow Core)",
         "hitPoints": 0,
         "attack": 1,
@@ -8660,7 +8650,7 @@
         "speed": 0
     },
     {
-        "id": "774G",
+        "value": "774G",
         "name": "Minior (Green Core)",
         "hitPoints": 0,
         "attack": 1,
@@ -8670,7 +8660,7 @@
         "speed": 0
     },
     {
-        "id": "774B",
+        "value": "774B",
         "name": "Minior (Blue Core)",
         "hitPoints": 0,
         "attack": 1,
@@ -8680,7 +8670,7 @@
         "speed": 0
     },
     {
-        "id": "774I",
+        "value": "774I",
         "name": "Minior (Indigo Core)",
         "hitPoints": 0,
         "attack": 1,
@@ -8690,7 +8680,7 @@
         "speed": 0
     },
     {
-        "id": "774V",
+        "value": "774V",
         "name": "Minior (Violet Core)",
         "hitPoints": 0,
         "attack": 1,
@@ -8700,7 +8690,7 @@
         "speed": 0
     },
     {
-        "id": "775",
+        "value": "775",
         "name": "Komala",
         "hitPoints": 0,
         "attack": 2,
@@ -8710,7 +8700,7 @@
         "speed": 0
     },
     {
-        "id": "776",
+        "value": "776",
         "name": "Turtonator",
         "hitPoints": 0,
         "attack": 0,
@@ -8720,7 +8710,7 @@
         "speed": 0
     },
     {
-        "id": "777",
+        "value": "777",
         "name": "Togedemaru",
         "hitPoints": 0,
         "attack": 2,
@@ -8730,7 +8720,7 @@
         "speed": 0
     },
     {
-        "id": "778",
+        "value": "778",
         "name": "Mimikyu",
         "hitPoints": 0,
         "attack": 0,
@@ -8740,7 +8730,7 @@
         "speed": 0
     },
     {
-        "id": "779",
+        "value": "779",
         "name": "Bruxish",
         "hitPoints": 0,
         "attack": 2,
@@ -8750,7 +8740,7 @@
         "speed": 0
     },
     {
-        "id": "780",
+        "value": "780",
         "name": "Drampa",
         "hitPoints": 0,
         "attack": 0,
@@ -8760,7 +8750,7 @@
         "speed": 0
     },
     {
-        "id": "781",
+        "value": "781",
         "name": "Dhelmise",
         "hitPoints": 0,
         "attack": 2,
@@ -8770,7 +8760,7 @@
         "speed": 0
     },
     {
-        "id": "782",
+        "value": "782",
         "name": "Jangmo-o",
         "hitPoints": 0,
         "attack": 0,
@@ -8780,7 +8770,7 @@
         "speed": 0
     },
     {
-        "id": "783",
+        "value": "783",
         "name": "Hakamo-o",
         "hitPoints": 0,
         "attack": 0,
@@ -8790,7 +8780,7 @@
         "speed": 0
     },
     {
-        "id": "784",
+        "value": "784",
         "name": "Kommo-o",
         "hitPoints": 0,
         "attack": 0,
@@ -8800,7 +8790,7 @@
         "speed": 0
     },
     {
-        "id": "785",
+        "value": "785",
         "name": "Tapu Koko",
         "hitPoints": 0,
         "attack": 0,
@@ -8810,7 +8800,7 @@
         "speed": 3
     },
     {
-        "id": "786",
+        "value": "786",
         "name": "Tapu Lele",
         "hitPoints": 0,
         "attack": 0,
@@ -8820,7 +8810,7 @@
         "speed": 0
     },
     {
-        "id": "787",
+        "value": "787",
         "name": "Tapu Bulu",
         "hitPoints": 0,
         "attack": 3,
@@ -8830,7 +8820,7 @@
         "speed": 0
     },
     {
-        "id": "788",
+        "value": "788",
         "name": "Tapu Fini",
         "hitPoints": 0,
         "attack": 0,
@@ -8840,7 +8830,7 @@
         "speed": 0
     },
     {
-        "id": "789",
+        "value": "789",
         "name": "Cosmog",
         "hitPoints": 1,
         "attack": 0,
@@ -8850,7 +8840,7 @@
         "speed": 0
     },
     {
-        "id": "790",
+        "value": "790",
         "name": "Cosmoem",
         "hitPoints": 0,
         "attack": 0,
@@ -8860,7 +8850,7 @@
         "speed": 0
     },
     {
-        "id": "791",
+        "value": "791",
         "name": "Solgaleo",
         "hitPoints": 0,
         "attack": 3,
@@ -8870,7 +8860,7 @@
         "speed": 0
     },
     {
-        "id": "792",
+        "value": "792",
         "name": "Lunala",
         "hitPoints": 0,
         "attack": 0,
@@ -8880,7 +8870,7 @@
         "speed": 0
     },
     {
-        "id": "793",
+        "value": "793",
         "name": "Nihilego",
         "hitPoints": 0,
         "attack": 0,
@@ -8890,7 +8880,7 @@
         "speed": 0
     },
     {
-        "id": "794",
+        "value": "794",
         "name": "Buzzwole",
         "hitPoints": 0,
         "attack": 1,
@@ -8900,7 +8890,7 @@
         "speed": 0
     },
     {
-        "id": "795",
+        "value": "795",
         "name": "Pheromosa",
         "hitPoints": 0,
         "attack": 0,
@@ -8910,7 +8900,7 @@
         "speed": 3
     },
     {
-        "id": "796",
+        "value": "796",
         "name": "Xurkitree",
         "hitPoints": 0,
         "attack": 0,
@@ -8920,7 +8910,7 @@
         "speed": 0
     },
     {
-        "id": "797",
+        "value": "797",
         "name": "Celesteela",
         "hitPoints": 0,
         "attack": 1,
@@ -8930,7 +8920,7 @@
         "speed": 0
     },
     {
-        "id": "798",
+        "value": "798",
         "name": "Kartana",
         "hitPoints": 0,
         "attack": 3,
@@ -8940,7 +8930,7 @@
         "speed": 0
     },
     {
-        "id": "799",
+        "value": "799",
         "name": "Guzzlord",
         "hitPoints": 3,
         "attack": 0,
@@ -8950,7 +8940,7 @@
         "speed": 0
     },
     {
-        "id": "800",
+        "value": "800",
         "name": "Necrozma",
         "hitPoints": 0,
         "attack": 1,
@@ -8960,7 +8950,7 @@
         "speed": 0
     },
     {
-        "id": "800DM",
+        "value": "800DM",
         "name": "Necrozma (Dusk Mane)",
         "hitPoints": 0,
         "attack": 3,
@@ -8970,7 +8960,7 @@
         "speed": 0
     },
     {
-        "id": "800DW",
+        "value": "800DW",
         "name": "Necrozma (Dawn Wings)",
         "hitPoints": 0,
         "attack": 0,
@@ -8980,7 +8970,7 @@
         "speed": 0
     },
     {
-        "id": "800U",
+        "value": "800U",
         "name": "Necrozma (Ultra Necrozma)",
         "hitPoints": 0,
         "attack": 1,
@@ -8990,7 +8980,7 @@
         "speed": 1
     },
     {
-        "id": "801",
+        "value": "801",
         "name": "Magearna",
         "hitPoints": 0,
         "attack": 0,
@@ -9000,7 +8990,7 @@
         "speed": 0
     },
     {
-        "id": "802",
+        "value": "802",
         "name": "Marshadow",
         "hitPoints": 0,
         "attack": 2,
@@ -9010,7 +9000,7 @@
         "speed": 1
     },
     {
-        "id": "803",
+        "value": "803",
         "name": "Poipole",
         "hitPoints": 0,
         "attack": 0,
@@ -9020,7 +9010,7 @@
         "speed": 1
     },
     {
-        "id": "804",
+        "value": "804",
         "name": "Naganadel",
         "hitPoints": 0,
         "attack": 0,
@@ -9030,7 +9020,7 @@
         "speed": 0
     },
     {
-        "id": "805",
+        "value": "805",
         "name": "Stakataka",
         "hitPoints": 0,
         "attack": 0,
@@ -9040,7 +9030,7 @@
         "speed": 0
     },
     {
-        "id": "806",
+        "value": "806",
         "name": "Blacephalon",
         "hitPoints": 0,
         "attack": 0,
@@ -9050,7 +9040,7 @@
         "speed": 0
     },
     {
-        "id": "807",
+        "value": "807",
         "name": "Zeraora",
         "hitPoints": 0,
         "attack": 0,
@@ -9060,7 +9050,7 @@
         "speed": 3
     },
     {
-        "id": "808",
+        "value": "808",
         "name": "Meltan",
         "hitPoints": 0,
         "attack": 1,
@@ -9070,7 +9060,7 @@
         "speed": 0
     },
     {
-        "id": "809",
+        "value": "809",
         "name": "Melmetal",
         "hitPoints": 0,
         "attack": 3,
@@ -9080,7 +9070,7 @@
         "speed": 0
     },
     {
-        "id": "810",
+        "value": "810",
         "name": "Grookey",
         "hitPoints": 0,
         "attack": 1,
@@ -9090,7 +9080,7 @@
         "speed": 0
     },
     {
-        "id": "811",
+        "value": "811",
         "name": "Thwackey",
         "hitPoints": 0,
         "attack": 2,
@@ -9100,7 +9090,7 @@
         "speed": 0
     },
     {
-        "id": "812",
+        "value": "812",
         "name": "Rillaboom",
         "hitPoints": 0,
         "attack": 3,
@@ -9110,7 +9100,7 @@
         "speed": 0
     },
     {
-        "id": "813",
+        "value": "813",
         "name": "Scorbunny",
         "hitPoints": 0,
         "attack": 0,
@@ -9120,7 +9110,7 @@
         "speed": 1
     },
     {
-        "id": "814",
+        "value": "814",
         "name": "Raboot",
         "hitPoints": 0,
         "attack": 0,
@@ -9130,7 +9120,7 @@
         "speed": 2
     },
     {
-        "id": "815",
+        "value": "815",
         "name": "Cinderace",
         "hitPoints": 0,
         "attack": 0,
@@ -9140,7 +9130,7 @@
         "speed": 3
     },
     {
-        "id": "816",
+        "value": "816",
         "name": "Sobble",
         "hitPoints": 0,
         "attack": 0,
@@ -9150,7 +9140,7 @@
         "speed": 1
     },
     {
-        "id": "817",
+        "value": "817",
         "name": "Drizzile",
         "hitPoints": 0,
         "attack": 0,
@@ -9160,7 +9150,7 @@
         "speed": 0
     },
     {
-        "id": "818",
+        "value": "818",
         "name": "Inteleon",
         "hitPoints": 0,
         "attack": 0,
@@ -9170,7 +9160,7 @@
         "speed": 3
     },
     {
-        "id": "819",
+        "value": "819",
         "name": "Skwovet",
         "hitPoints": 1,
         "attack": 0,
@@ -9180,7 +9170,7 @@
         "speed": 0
     },
     {
-        "id": "820",
+        "value": "820",
         "name": "Greedent",
         "hitPoints": 2,
         "attack": 0,
@@ -9190,8 +9180,8 @@
         "speed": 0
     },
     {
-        "id": "821",
-        "name": "Rookidee",
+        "value": "821",
+        "name": "Rookvalueee",
         "hitPoints": 0,
         "attack": 0,
         "defense": 0,
@@ -9200,7 +9190,7 @@
         "speed": 1
     },
     {
-        "id": "822",
+        "value": "822",
         "name": "Corvisquire",
         "hitPoints": 0,
         "attack": 0,
@@ -9210,7 +9200,7 @@
         "speed": 2
     },
     {
-        "id": "823",
+        "value": "823",
         "name": "Corviknight",
         "hitPoints": 0,
         "attack": 0,
@@ -9220,7 +9210,7 @@
         "speed": 0
     },
     {
-        "id": "824",
+        "value": "824",
         "name": "Blipbug",
         "hitPoints": 0,
         "attack": 0,
@@ -9230,7 +9220,7 @@
         "speed": 0
     },
     {
-        "id": "825",
+        "value": "825",
         "name": "Dottler",
         "hitPoints": 0,
         "attack": 0,
@@ -9240,7 +9230,7 @@
         "speed": 0
     },
     {
-        "id": "826",
+        "value": "826",
         "name": "Orbeetle",
         "hitPoints": 0,
         "attack": 0,
@@ -9250,7 +9240,7 @@
         "speed": 0
     },
     {
-        "id": "827",
+        "value": "827",
         "name": "Nickit",
         "hitPoints": 0,
         "attack": 0,
@@ -9260,7 +9250,7 @@
         "speed": 0
     },
     {
-        "id": "828",
+        "value": "828",
         "name": "Thievul",
         "hitPoints": 0,
         "attack": 0,
@@ -9270,7 +9260,7 @@
         "speed": 0
     },
     {
-        "id": "829",
+        "value": "829",
         "name": "Gossifleur",
         "hitPoints": 0,
         "attack": 0,
@@ -9280,7 +9270,7 @@
         "speed": 0
     },
     {
-        "id": "830",
+        "value": "830",
         "name": "Eldegoss",
         "hitPoints": 0,
         "attack": 0,
@@ -9290,7 +9280,7 @@
         "speed": 0
     },
     {
-        "id": "831",
+        "value": "831",
         "name": "Wooloo",
         "hitPoints": 0,
         "attack": 0,
@@ -9300,7 +9290,7 @@
         "speed": 0
     },
     {
-        "id": "832",
+        "value": "832",
         "name": "Dubwool",
         "hitPoints": 0,
         "attack": 0,
@@ -9310,7 +9300,7 @@
         "speed": 0
     },
     {
-        "id": "833",
+        "value": "833",
         "name": "Chewtle",
         "hitPoints": 0,
         "attack": 1,
@@ -9320,7 +9310,7 @@
         "speed": 0
     },
     {
-        "id": "834",
+        "value": "834",
         "name": "Drednaw",
         "hitPoints": 0,
         "attack": 2,
@@ -9330,7 +9320,7 @@
         "speed": 0
     },
     {
-        "id": "835",
+        "value": "835",
         "name": "Yamper",
         "hitPoints": 1,
         "attack": 0,
@@ -9340,7 +9330,7 @@
         "speed": 0
     },
     {
-        "id": "836",
+        "value": "836",
         "name": "Boltund",
         "hitPoints": 0,
         "attack": 0,
@@ -9350,7 +9340,7 @@
         "speed": 2
     },
     {
-        "id": "837",
+        "value": "837",
         "name": "Rolycoly",
         "hitPoints": 0,
         "attack": 0,
@@ -9360,7 +9350,7 @@
         "speed": 0
     },
     {
-        "id": "838",
+        "value": "838",
         "name": "Carkol",
         "hitPoints": 0,
         "attack": 0,
@@ -9370,7 +9360,7 @@
         "speed": 0
     },
     {
-        "id": "839",
+        "value": "839",
         "name": "Coalossal",
         "hitPoints": 0,
         "attack": 0,
@@ -9380,7 +9370,7 @@
         "speed": 0
     },
     {
-        "id": "840",
+        "value": "840",
         "name": "Applin",
         "hitPoints": 0,
         "attack": 0,
@@ -9390,7 +9380,7 @@
         "speed": 0
     },
     {
-        "id": "841",
+        "value": "841",
         "name": "Flapple",
         "hitPoints": 0,
         "attack": 2,
@@ -9400,7 +9390,7 @@
         "speed": 0
     },
     {
-        "id": "842",
+        "value": "842",
         "name": "Appletun",
         "hitPoints": 2,
         "attack": 0,
@@ -9410,7 +9400,7 @@
         "speed": 0
     },
     {
-        "id": "843",
+        "value": "843",
         "name": "Silicobra",
         "hitPoints": 0,
         "attack": 0,
@@ -9420,7 +9410,7 @@
         "speed": 0
     },
     {
-        "id": "844",
+        "value": "844",
         "name": "Sandaconda",
         "hitPoints": 0,
         "attack": 0,
@@ -9430,7 +9420,7 @@
         "speed": 0
     },
     {
-        "id": "845",
+        "value": "845",
         "name": "Cramorant",
         "hitPoints": 0,
         "attack": 0,
@@ -9440,7 +9430,7 @@
         "speed": 0
     },
     {
-        "id": "846",
+        "value": "846",
         "name": "Arrokuda",
         "hitPoints": 0,
         "attack": 0,
@@ -9450,7 +9440,7 @@
         "speed": 1
     },
     {
-        "id": "847",
+        "value": "847",
         "name": "Barraskewda",
         "hitPoints": 0,
         "attack": 0,
@@ -9460,7 +9450,7 @@
         "speed": 2
     },
     {
-        "id": "848",
+        "value": "848",
         "name": "Toxel",
         "hitPoints": 0,
         "attack": 0,
@@ -9470,7 +9460,7 @@
         "speed": 0
     },
     {
-        "id": "849",
+        "value": "849",
         "name": "Toxtricity",
         "hitPoints": 0,
         "attack": 0,
@@ -9480,7 +9470,7 @@
         "speed": 0
     },
     {
-        "id": "850",
+        "value": "850",
         "name": "Sizzlipede",
         "hitPoints": 0,
         "attack": 1,
@@ -9490,7 +9480,7 @@
         "speed": 0
     },
     {
-        "id": "851",
+        "value": "851",
         "name": "Centiskorch",
         "hitPoints": 0,
         "attack": 2,
@@ -9500,7 +9490,7 @@
         "speed": 0
     },
     {
-        "id": "852",
+        "value": "852",
         "name": "Clobbopus",
         "hitPoints": 0,
         "attack": 1,
@@ -9510,7 +9500,7 @@
         "speed": 0
     },
     {
-        "id": "853",
+        "value": "853",
         "name": "Grapploct",
         "hitPoints": 0,
         "attack": 2,
@@ -9520,7 +9510,7 @@
         "speed": 0
     },
     {
-        "id": "854",
+        "value": "854",
         "name": "Sinistea",
         "hitPoints": 0,
         "attack": 0,
@@ -9530,7 +9520,7 @@
         "speed": 0
     },
     {
-        "id": "855",
+        "value": "855",
         "name": "Polteageist",
         "hitPoints": 0,
         "attack": 0,
@@ -9540,7 +9530,7 @@
         "speed": 0
     },
     {
-        "id": "856",
+        "value": "856",
         "name": "Hatenna",
         "hitPoints": 0,
         "attack": 0,
@@ -9550,7 +9540,7 @@
         "speed": 0
     },
     {
-        "id": "857",
+        "value": "857",
         "name": "Hattrem",
         "hitPoints": 0,
         "attack": 0,
@@ -9560,7 +9550,7 @@
         "speed": 0
     },
     {
-        "id": "858",
+        "value": "858",
         "name": "Hatterene",
         "hitPoints": 0,
         "attack": 0,
@@ -9570,8 +9560,8 @@
         "speed": 0
     },
     {
-        "id": "859",
-        "name": "Impidimp",
+        "value": "859",
+        "name": "Impvalueimp",
         "hitPoints": 0,
         "attack": 0,
         "defense": 0,
@@ -9580,7 +9570,7 @@
         "speed": 0
     },
     {
-        "id": "860",
+        "value": "860",
         "name": "Morgrem",
         "hitPoints": 0,
         "attack": 0,
@@ -9590,7 +9580,7 @@
         "speed": 0
     },
     {
-        "id": "861",
+        "value": "861",
         "name": "Grimmsnarl",
         "hitPoints": 0,
         "attack": 3,
@@ -9600,7 +9590,7 @@
         "speed": 0
     },
     {
-        "id": "862",
+        "value": "862",
         "name": "Obstagoon",
         "hitPoints": 0,
         "attack": 0,
@@ -9610,7 +9600,7 @@
         "speed": 0
     },
     {
-        "id": "863",
+        "value": "863",
         "name": "Perrserker",
         "hitPoints": 0,
         "attack": 2,
@@ -9620,7 +9610,7 @@
         "speed": 0
     },
     {
-        "id": "864",
+        "value": "864",
         "name": "Cursola",
         "hitPoints": 0,
         "attack": 0,
@@ -9630,7 +9620,7 @@
         "speed": 0
     },
     {
-        "id": "865",
+        "value": "865",
         "name": "Sirfetch'd",
         "hitPoints": 0,
         "attack": 2,
@@ -9640,7 +9630,7 @@
         "speed": 0
     },
     {
-        "id": "866",
+        "value": "866",
         "name": "Mr. Rime",
         "hitPoints": 0,
         "attack": 0,
@@ -9650,7 +9640,7 @@
         "speed": 0
     },
     {
-        "id": "867",
+        "value": "867",
         "name": "Runerigus",
         "hitPoints": 0,
         "attack": 0,
@@ -9660,7 +9650,7 @@
         "speed": 0
     },
     {
-        "id": "868",
+        "value": "868",
         "name": "Milcery",
         "hitPoints": 0,
         "attack": 0,
@@ -9670,7 +9660,7 @@
         "speed": 0
     },
     {
-        "id": "869",
+        "value": "869",
         "name": "Alcremie",
         "hitPoints": 0,
         "attack": 0,
@@ -9680,7 +9670,7 @@
         "speed": 0
     },
     {
-        "id": "870",
+        "value": "870",
         "name": "Falinks",
         "hitPoints": 0,
         "attack": 2,
@@ -9690,7 +9680,7 @@
         "speed": 0
     },
     {
-        "id": "871",
+        "value": "871",
         "name": "Pincurchin",
         "hitPoints": 0,
         "attack": 2,
@@ -9700,7 +9690,7 @@
         "speed": 0
     },
     {
-        "id": "872",
+        "value": "872",
         "name": "Snom",
         "hitPoints": 0,
         "attack": 0,
@@ -9710,7 +9700,7 @@
         "speed": 0
     },
     {
-        "id": "873",
+        "value": "873",
         "name": "Frosmoth",
         "hitPoints": 0,
         "attack": 0,
@@ -9720,7 +9710,7 @@
         "speed": 0
     },
     {
-        "id": "874",
+        "value": "874",
         "name": "Stonjourner",
         "hitPoints": 0,
         "attack": 0,
@@ -9730,7 +9720,7 @@
         "speed": 0
     },
     {
-        "id": "875",
+        "value": "875",
         "name": "Eiscue",
         "hitPoints": 0,
         "attack": 0,
@@ -9740,7 +9730,7 @@
         "speed": 0
     },
     {
-        "id": "876",
+        "value": "876",
         "name": "Indeedee (Male)",
         "hitPoints": 0,
         "attack": 0,
@@ -9750,7 +9740,7 @@
         "speed": 0
     },
     {
-        "id": "876F",
+        "value": "876F",
         "name": "Indeedee (Female)",
         "hitPoints": 0,
         "attack": 0,
@@ -9760,7 +9750,7 @@
         "speed": 0
     },
     {
-        "id": "877",
+        "value": "877",
         "name": "Morpeko",
         "hitPoints": 0,
         "attack": 0,
@@ -9770,7 +9760,7 @@
         "speed": 2
     },
     {
-        "id": "878",
+        "value": "878",
         "name": "Cufant",
         "hitPoints": 0,
         "attack": 1,
@@ -9780,7 +9770,7 @@
         "speed": 0
     },
     {
-        "id": "879",
+        "value": "879",
         "name": "Copperajah",
         "hitPoints": 0,
         "attack": 2,
@@ -9790,7 +9780,7 @@
         "speed": 0
     },
     {
-        "id": "880",
+        "value": "880",
         "name": "Dracozolt",
         "hitPoints": 0,
         "attack": 2,
@@ -9800,7 +9790,7 @@
         "speed": 0
     },
     {
-        "id": "881",
+        "value": "881",
         "name": "Arctozolt",
         "hitPoints": 0,
         "attack": 2,
@@ -9810,7 +9800,7 @@
         "speed": 0
     },
     {
-        "id": "882",
+        "value": "882",
         "name": "Dracovish",
         "hitPoints": 0,
         "attack": 0,
@@ -9820,7 +9810,7 @@
         "speed": 0
     },
     {
-        "id": "883",
+        "value": "883",
         "name": "Arctovish",
         "hitPoints": 0,
         "attack": 0,
@@ -9830,7 +9820,7 @@
         "speed": 0
     },
     {
-        "id": "884",
+        "value": "884",
         "name": "Duraludon",
         "hitPoints": 0,
         "attack": 0,
@@ -9840,7 +9830,7 @@
         "speed": 0
     },
     {
-        "id": "885",
+        "value": "885",
         "name": "Dreepy",
         "hitPoints": 0,
         "attack": 0,
@@ -9850,7 +9840,7 @@
         "speed": 1
     },
     {
-        "id": "886",
+        "value": "886",
         "name": "Drakloak",
         "hitPoints": 0,
         "attack": 0,
@@ -9860,7 +9850,7 @@
         "speed": 2
     },
     {
-        "id": "887",
+        "value": "887",
         "name": "Dragapult",
         "hitPoints": 0,
         "attack": 0,
@@ -9870,7 +9860,7 @@
         "speed": 3
     },
     {
-        "id": "888",
+        "value": "888",
         "name": "Zacian (Hero of Many Battles)",
         "hitPoints": 0,
         "attack": 0,
@@ -9880,7 +9870,7 @@
         "speed": 3
     },
     {
-        "id": "888C",
+        "value": "888C",
         "name": "Zacian (Crowned Sword)",
         "hitPoints": 0,
         "attack": 0,
@@ -9890,7 +9880,7 @@
         "speed": 3
     },
     {
-        "id": "889",
+        "value": "889",
         "name": "Zamazenta (Hero of Many Battles)",
         "hitPoints": 0,
         "attack": 0,
@@ -9900,7 +9890,7 @@
         "speed": 3
     },
     {
-        "id": "889C",
+        "value": "889C",
         "name": "Zamazenta (Crowned Shield)",
         "hitPoints": 0,
         "attack": 0,
@@ -9910,7 +9900,7 @@
         "speed": 3
     },
     {
-        "id": "890",
+        "value": "890",
         "name": "Eternatus",
         "hitPoints": 3,
         "attack": 0,
@@ -9920,7 +9910,7 @@
         "speed": 0
     },
     {
-        "id": "890E",
+        "value": "890E",
         "name": "Eternatus (Eternamax)",
         "hitPoints": 3,
         "attack": 0,
@@ -9930,7 +9920,7 @@
         "speed": 0
     },
     {
-        "id": "891",
+        "value": "891",
         "name": "Kubfu",
         "hitPoints": 0,
         "attack": 1,
@@ -9940,7 +9930,7 @@
         "speed": 0
     },
     {
-        "id": "892",
+        "value": "892",
         "name": "Urshifu",
         "hitPoints": 0,
         "attack": 3,
@@ -9950,7 +9940,7 @@
         "speed": 0
     },
     {
-        "id": "893",
+        "value": "893",
         "name": "Zarude",
         "hitPoints": 0,
         "attack": 3,
@@ -9960,7 +9950,7 @@
         "speed": 0
     },
     {
-        "id": "894",
+        "value": "894",
         "name": "Regieleki",
         "hitPoints": 0,
         "attack": 0,
@@ -9970,8 +9960,8 @@
         "speed": 3
     },
     {
-        "id": "895",
-        "name": "Regidrago",
+        "value": "895",
+        "name": "Regvaluerago",
         "hitPoints": 3,
         "attack": 0,
         "defense": 0,
@@ -9980,7 +9970,7 @@
         "speed": 0
     },
     {
-        "id": "896",
+        "value": "896",
         "name": "Glastrier",
         "hitPoints": 0,
         "attack": 3,
@@ -9990,7 +9980,7 @@
         "speed": 0
     },
     {
-        "id": "897",
+        "value": "897",
         "name": "Spectrier",
         "hitPoints": 0,
         "attack": 0,
@@ -10000,7 +9990,7 @@
         "speed": 0
     },
     {
-        "id": "898",
+        "value": "898",
         "name": "Calyrex",
         "hitPoints": 3,
         "attack": 0,
@@ -10010,8 +10000,8 @@
         "speed": 0
     },
     {
-        "id": "898I",
-        "name": "Calyrex (Ice Rider)",
+        "value": "898I",
+        "name": "Calyrex (Ice Rvalueer)",
         "hitPoints": 0,
         "attack": 3,
         "defense": 0,
@@ -10020,8 +10010,8 @@
         "speed": 0
     },
     {
-        "id": "898S",
-        "name": "Calyrex (Shadow Rider)",
+        "value": "898S",
+        "name": "Calyrex (Shadow Rvalueer)",
         "hitPoints": 0,
         "attack": 0,
         "defense": 0,

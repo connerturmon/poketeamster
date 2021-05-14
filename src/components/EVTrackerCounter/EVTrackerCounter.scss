@@ -1,0 +1,66 @@
+@import '../../styles/common.scss';
+
+.ev-tracker-counter {
+  display: flex;
+  width: 100%;
+  flex-direction: column;
+  justify-content: center;
+  margin-bottom: 1em;
+
+  &-header {
+    background-color: $blue;
+    height: 2em;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  &-row {
+    display: flex;
+    align-items: center;
+    height: 3em;
+
+    &-stat {
+      flex: 1;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      height: inherit;
+    }
+
+    &-quantity {
+      flex: 1;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      height: inherit;
+      border-bottom: 1px solid $gray3;
+    }
+  }
+}
+
+.stat-hitpoints {
+  background-color: $red;
+
+}
+
+.stat-attack {
+  background-color: $orange;
+}
+
+.stat-defense {
+  background-color: $yellow;
+}
+
+.stat-special-attack {
+  background-color: $blue;
+}
+
+.stat-special-defense {
+  background-color: $green2;
+}
+
+.stat-speed {
+  background-color: $pink;
+}

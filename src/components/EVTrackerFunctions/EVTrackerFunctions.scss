@@ -1,0 +1,33 @@
+@import '../../styles/common.scss';
+
+.ev-tracker-functions {
+  display: flex;
+  outline: none;
+  border-top: 1px solid $blue;
+}
+
+.ev-tracker-button {
+  background-color: transparent;
+  outline: none;
+  border: none;
+  border-right: 1px solid $blue;
+  color: $blue;
+  padding: 1em 0;
+  font-size: 1em;
+  font-weight: 600;
+  cursor: pointer;
+  flex: 1;
+
+  transition:
+    background-color 100ms ease-in-out,
+    color 100ms ease-in-out;
+
+  &:hover {
+    background-color: $blue;
+    color: white;
+  }
+
+  &:last-child {
+    border: none;
+  }
+}
