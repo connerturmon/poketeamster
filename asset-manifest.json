@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/poketeamster/static/css/main.e0ee3d11.chunk.css",
+    "main.js": "/poketeamster/static/js/main.669e3b1e.chunk.js",
+    "main.js.map": "/poketeamster/static/js/main.669e3b1e.chunk.js.map",
+    "runtime-main.js": "/poketeamster/static/js/runtime-main.5e6e00e0.js",
+    "runtime-main.js.map": "/poketeamster/static/js/runtime-main.5e6e00e0.js.map",
+    "static/js/2.32e5b5e0.chunk.js": "/poketeamster/static/js/2.32e5b5e0.chunk.js",
+    "static/js/2.32e5b5e0.chunk.js.map": "/poketeamster/static/js/2.32e5b5e0.chunk.js.map",
+    "index.html": "/poketeamster/index.html",
+    "static/css/main.e0ee3d11.chunk.css.map": "/poketeamster/static/css/main.e0ee3d11.chunk.css.map",
+    "static/js/2.32e5b5e0.chunk.js.LICENSE.txt": "/poketeamster/static/js/2.32e5b5e0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5e6e00e0.js",
+    "static/js/2.32e5b5e0.chunk.js",
+    "static/css/main.e0ee3d11.chunk.css",
+    "static/js/main.669e3b1e.chunk.js"
+  ]
+}
